@@ -1,0 +1,5001 @@
+level	word	pos	thai
+A1	a, an	article	หนึ่ง (คำนำหน้านามทั่วไป)
+A1	about	prep., adv.	เกี่ยวกับ; ประมาณ
+A1	above	prep., adv.	เหนือ, ข้างบน
+A1	across	prep., adv.	ข้าม, ข้ามไปอีกฝั่ง
+A1	action	n.	การกระทำ
+A1	activity	n.	กิจกรรม
+A1	actor	n.	นักแสดง (ชาย)
+A1	actress	n.	นักแสดงหญิง
+A1	add	v.	เพิ่ม, บวก
+A1	address	n.	ที่อยู่
+A1	adult	n.	ผู้ใหญ่
+A1	advice	n.	คำแนะนำ
+A1	afraid	adj.	กลัว
+A1	after	prep.	หลังจาก
+A1	afternoon	n.	ตอนบ่าย
+A1	again	adv.	อีกครั้ง
+A1	age	n.	อายุ
+A1	ago	adv.	ที่แล้ว (เวลาที่ผ่านมา)
+A1	agree	v.	เห็นด้วย
+A1	air	n.	อากาศ
+A1	airport	n.	สนามบิน
+A1	all	det., pron.	ทั้งหมด
+A1	also	adv.	ด้วย, เช่นกัน
+A1	always	adv.	เสมอ
+A1	amazing	adj.	น่าทึ่ง
+A1	and	conj.	และ
+A1	angry	adj.	โกรธ
+A1	animal	n.	สัตว์
+A1	another	det., pron.	อีกอันหนึ่ง, อื่นอีก
+A1	answer	n., v.	คำตอบ; ตอบ
+A1	any	det., pron.	ใดๆ, บ้าง
+A1	anyone	pron.	ใครก็ได้, ใครบ้าง
+A1	anything	pron.	อะไรก็ได้, อะไรบ้าง
+A1	apartment	n.	อพาร์ตเมนต์, ห้องชุด
+A1	apple	n.	แอปเปิล
+A1	April	n.	เดือนเมษายน
+A1	area	n.	พื้นที่, บริเวณ
+A1	arm	n.	แขน
+A1	around	prep., adv.	รอบๆ; ประมาณ
+A1	arrive	v.	มาถึง
+A1	art	n.	ศิลปะ
+A1	article	n.	บทความ
+A1	artist	n.	ศิลปิน
+A1	as	prep.	ในฐานะ, เหมือน
+A1	ask	v.	ถาม; ขอ
+A1	at	prep.	ที่, ณ
+A1	August	n.	เดือนสิงหาคม
+A1	aunt	n.	ป้า, น้า, อา (หญิง)
+A1	autumn	n.	ฤดูใบไม้ร่วง
+A1	away	adv.	ห่างออกไป, ไม่อยู่
+A1	baby	n.	ทารก
+A1	back	n., adv.	หลัง; กลับ
+A1	bad	adj.	เลว, ไม่ดี
+A1	bag	n.	กระเป๋า, ถุง
+A1	ball	n.	ลูกบอล
+A1	banana	n.	กล้วย
+A1	band	n.	วงดนตรี
+A1	bank	n.(money)	ธนาคาร
+A1	bath	n.	อ่างอาบน้ำ; การอาบน้ำ
+A1	bathroom	n.	ห้องน้ำ
+A1	be	v., auxiliary v.	เป็น, อยู่, คือ
+A1	beach	n.	ชายหาด
+A1	beautiful	adj.	สวย
+A1	because	conj.	เพราะว่า
+A1	become	v.	กลายเป็น
+A1	bed	n.	เตียง
+A1	bedroom	n.	ห้องนอน
+A1	beer	n.	เบียร์
+A1	before	prep.	ก่อน
+A1	begin	v.	เริ่มต้น
+A1	beginning	n.	จุดเริ่มต้น
+A1	behind	prep., adv.	ข้างหลัง
+A1	believe	v.	เชื่อ
+A1	below	adv., prep.	ข้างล่าง, ต่ำกว่า
+A1	best	adj.	ดีที่สุด
+A1	better	adj.	ดีกว่า
+A1	between	prep.	ระหว่าง
+A1	bicycle	n.	จักรยาน
+A1	big	adj.	ใหญ่
+A1	bike	n.	จักรยาน
+A1	bill	n.	ใบเสร็จ, บิลค่าใช้จ่าย
+A1	bird	n.	นก
+A1	birthday	n.	วันเกิด
+A1	black	adj., n.	สีดำ
+A1	blog	n.	บล็อก
+A1	blonde	adj.	ผมสีบลอนด์
+A1	blue	adj., n.	สีน้ำเงิน, สีฟ้า
+A1	boat	n.	เรือ
+A1	body	n.	ร่างกาย
+A1	book	n.	หนังสือ
+A1	boot	n.	รองเท้าบูต
+A1	bored	adj.	เบื่อ
+A1	boring	adj.	น่าเบื่อ
+A1	born	v.	เกิด
+A1	both	det., pron.	ทั้งสอง
+A1	bottle	n.	ขวด
+A1	box	n.	กล่อง
+A1	boy	n.	เด็กผู้ชาย
+A1	boyfriend	n.	แฟนหนุ่ม
+A1	bread	n.	ขนมปัง
+A1	break	v., n.	ทำแตก, หัก; ช่วงพัก
+A1	breakfast	n.	อาหารเช้า
+A1	bring	v.	นำมา
+A1	brother	n.	พี่ชาย, น้องชาย
+A1	brown	adj., n.	สีน้ำตาล
+A1	build	v.	สร้าง
+A1	building	n.	อาคาร, ตึก
+A1	bus	n.	รถโดยสารประจำทาง
+A1	business	n.	ธุรกิจ
+A1	busy	adj.	ยุ่ง
+A1	but	conj.	แต่
+A1	butter	n.	เนย
+A1	buy	v.	ซื้อ
+A1	by	prep.	โดย; ข้างๆ
+A1	bye	exclam.	ลาก่อน
+A1	cafe	n.	ร้านกาแฟ
+A1	cake	n.	เค้ก
+A1	call	v., n.	โทรหา, เรียก; การโทร
+A1	camera	n.	กล้องถ่ายรูป
+A1	can	modal v.	สามารถ, ได้
+A1	cannot	modal v.	ไม่สามารถ
+A1	capital	n., adj.	เมืองหลวง; ตัวพิมพ์ใหญ่
+A1	car	n.	รถยนต์
+A1	card	n.	การ์ด, บัตร
+A1	career	n.	อาชีพการงาน
+A1	carrot	n.	แครอท
+A1	carry	v.	ถือ, แบก
+A1	cat	n.	แมว
+A1	CD	n.	แผ่นซีดี
+A1	cent	n.	เซนต์ (หน่วยเงิน)
+A1	centre	n.	ศูนย์กลาง
+A1	century	n.	ศตวรรษ
+A1	chair	n.	เก้าอี้
+A1	change	v., n.	เปลี่ยน; การเปลี่ยนแปลง
+A1	chart	n.	แผนภูมิ
+A1	cheap	adj.	ถูก (ราคา)
+A1	check	v.	ตรวจสอบ
+A1	cheese	n.	เนยแข็ง, ชีส
+A1	chicken	n.	ไก่
+A1	child	n.	เด็ก
+A1	chocolate	n.	ช็อกโกแลต
+A1	choose	v.	เลือก
+A1	cinema	n.	โรงภาพยนตร์
+A1	city	n.	เมือง, นคร
+A1	class	n.	ชั้นเรียน
+A1	classroom	n.	ห้องเรียน
+A1	clean	adj., v.	สะอาด; ทำความสะอาด
+A1	climb	v.	ปีน
+A1	clock	n.	นาฬิกา (แขวน/ตั้ง)
+A1	close	v.	ปิด
+A1	clothes	n.	เสื้อผ้า
+A1	club	n.	สโมสร, ชมรม
+A1	coat	n.	เสื้อโค้ท
+A1	coffee	n.	กาแฟ
+A1	cold	adj., n.	หนาว, เย็น; ไข้หวัด
+A1	college	n.	วิทยาลัย
+A1	colour	n.	สี
+A1	come	v.	มา
+A1	common	adj.	ทั่วไป, สามัญ
+A1	company	n.	บริษัท
+A1	compare	v.	เปรียบเทียบ
+A1	complete	adj., v.	สมบูรณ์; ทำให้เสร็จ
+A1	computer	n.	คอมพิวเตอร์
+A1	concert	n.	คอนเสิร์ต
+A1	conversation	n.	บทสนทนา
+A1	cook	v.	ทำอาหาร
+A1	cooking	n.	การทำอาหาร
+A1	cool	adj.	เย็นสบาย; เจ๋ง
+A1	correct	adj., v.	ถูกต้อง; แก้ไข
+A1	cost	n., v.	ราคา; มีราคา
+A1	could	modal v.	สามารถ (อดีต), อาจจะ
+A1	country	n.	ประเทศ; ชนบท
+A1	course	n.	หลักสูตร
+A1	cousin	n.	ลูกพี่ลูกน้อง
+A1	cow	n.	วัว
+A1	cream	n.	ครีม
+A1	create	v.	สร้างสรรค์
+A1	culture	n.	วัฒนธรรม
+A1	cup	n.	ถ้วย
+A1	customer	n.	ลูกค้า
+A1	cut	v.	ตัด
+A1	dad	n.	พ่อ
+A1	dance	n., v.	เต้นรำ; การเต้น
+A1	dancer	n.	นักเต้น
+A1	dancing	n.	การเต้นรำ
+A1	dangerous	adj.	อันตราย
+A1	dark	adj.	มืด
+A1	date	n.	วันที่
+A1	daughter	n.	ลูกสาว
+A1	day	n.	วัน
+A1	dear	adj.	ที่รัก (ใช้ขึ้นต้นจดหมาย)
+A1	December	n.	เดือนธันวาคม
+A1	decide	v.	ตัดสินใจ
+A1	delicious	adj.	อร่อย
+A1	describe	v.	บรรยาย, อธิบายลักษณะ
+A1	description	n.	คำบรรยาย
+A1	design	n., v.	การออกแบบ; ออกแบบ
+A1	desk	n.	โต๊ะทำงาน
+A1	detail	n.	รายละเอียด
+A1	dialogue	n.	บทสนทนา
+A1	dictionary	n.	พจนานุกรม
+A1	die	v.	ตาย
+A1	diet	n.	อาหารการกิน; การควบคุมอาหาร
+A1	difference	n.	ความแตกต่าง
+A1	different	adj.	แตกต่าง
+A1	difficult	adj.	ยาก
+A1	dinner	n.	อาหารเย็น
+A1	dirty	adj.	สกปรก
+A1	discuss	v.	อภิปราย, หารือ
+A1	dish	n.	จาน; อาหาร
+A1	do	v., auxiliary v.	ทำ
+A1	doctor	n.	แพทย์
+A1	dog	n.	สุนัข
+A1	dollar	n.	ดอลลาร์
+A1	door	n.	ประตู
+A1	down	adv., prep.	ลง, ข้างล่าง
+A1	downstairs	adv.	ชั้นล่าง
+A1	draw	v.	วาด
+A1	dress	n., v.	ชุดกระโปรง; แต่งตัว
+A1	drink	n., v.	เครื่องดื่ม; ดื่ม
+A1	drive	v.	ขับรถ
+A1	driver	n.	คนขับรถ
+A1	during	prep.	ระหว่าง (ช่วงเวลา)
+A1	DVD	n.	แผ่นดีวีดี
+A1	each	det., pron., adv.	แต่ละ
+A1	ear	n.	หู
+A1	early	adj., adv.	เช้า, แต่เนิ่นๆ
+A1	east	n., adj., adv.	ทิศตะวันออก
+A1	easy	adj.	ง่าย
+A1	eat	v.	กิน
+A1	egg	n.	ไข่
+A1	eight	number	แปด
+A1	eighteen	number	สิบแปด
+A1	eighty	number	แปดสิบ
+A1	elephant	n.	ช้าง
+A1	eleven	number	สิบเอ็ด
+A1	else	adv.	อื่น
+A1	email	n., v.	อีเมล; ส่งอีเมล
+A1	end	n., v.	ตอนจบ; จบ
+A1	enjoy	v.	สนุกกับ, เพลิดเพลิน
+A1	enough	det., pron., adv.	เพียงพอ
+A1	euro	n.	ยูโร
+A1	even	adv.	แม้แต่
+A1	evening	n.	ตอนเย็น
+A1	event	n.	เหตุการณ์, งาน
+A1	ever	adv.	เคย
+A1	every	det.	ทุกๆ
+A1	everybody	pron.	ทุกคน
+A1	everyone	pron.	ทุกคน
+A1	everything	pron.	ทุกสิ่ง
+A1	exam	n.	การสอบ
+A1	example	n.	ตัวอย่าง
+A1	excited	adj.	ตื่นเต้น
+A1	exciting	adj.	น่าตื่นเต้น
+A1	exercise	n., v.	การออกกำลังกาย; แบบฝึกหัด
+A1	expensive	adj.	แพง
+A1	explain	v.	อธิบาย
+A1	extra	adj.	พิเศษ, เพิ่มเติม
+A1	eye	n.	ตา
+A1	face	n.	ใบหน้า
+A1	fact	n.	ข้อเท็จจริง
+A1	fall	v.	ตก, ล้ม
+A1	false	adj.	ผิด, ไม่จริง
+A1	family	n., adj.	ครอบครัว
+A1	famous	adj.	มีชื่อเสียง
+A1	fantastic	adj.	ยอดเยี่ยม
+A1	far	adv.	ไกล
+A1	farm	n.	ฟาร์ม
+A1	farmer	n.	ชาวนา, เกษตรกร
+A1	fast	adj., adv.	เร็ว
+A1	fat	adj.	อ้วน
+A1	father	n.	พ่อ
+A1	favourite	adj., n.	ที่ชอบที่สุด
+A1	February	n.	เดือนกุมภาพันธ์
+A1	feel	v.	รู้สึก
+A1	feeling	n.	ความรู้สึก
+A1	festival	n.	เทศกาล
+A1	few	det., adj., pron.	น้อย, ไม่กี่
+A1	fifteen	number	สิบห้า
+A1	fifth	number	ที่ห้า
+A1	fifty	number	ห้าสิบ
+A1	fill	v.	เติม, ทำให้เต็ม
+A1	film	n.	ภาพยนตร์
+A1	final	adj.	สุดท้าย
+A1	find	v.	ค้นหา, พบ
+A1	fine	adj.	ดี, สบายดี
+A1	finish	v.	ทำเสร็จ
+A1	fire	n.	ไฟ, ไฟไหม้
+A1	first	det., number, adv.	แรก, ที่หนึ่ง
+A1	fish	n.	ปลา
+A1	five	number	ห้า
+A1	flat	n.	ห้องชุด, แฟลต
+A1	flight	n.	เที่ยวบิน
+A1	floor	n.	พื้น; ชั้น
+A1	flower	n.	ดอกไม้
+A1	fly	v.	บิน
+A1	follow	v.	ตาม
+A1	food	n.	อาหาร
+A1	foot	n.	เท้า
+A1	football	n.	ฟุตบอล
+A1	for	prep.	สำหรับ
+A1	forget	v.	ลืม
+A1	form	n., v.	แบบฟอร์ม; รูปแบบ
+A1	forty	number	สี่สิบ
+A1	four	number	สี่
+A1	fourteen	number	สิบสี่
+A1	fourth	number	ที่สี่
+A1	free	adj.	ฟรี; อิสระ
+A1	Friday	n.	วันศุกร์
+A1	friend	n.	เพื่อน
+A1	friendly	adj.	เป็นมิตร
+A1	from	prep.	จาก
+A1	front	n., adj.	ด้านหน้า
+A1	fruit	n.	ผลไม้
+A1	full	adj.	เต็ม; อิ่ม
+A1	fun	n.	ความสนุก
+A1	funny	adj.	ตลก
+A1	future	n.	อนาคต
+A1	game	n.	เกม
+A1	garden	n.	สวน
+A1	geography	n.	ภูมิศาสตร์
+A1	get	v.	ได้รับ
+A1	girl	n.	เด็กผู้หญิง
+A1	girlfriend	n.	แฟนสาว
+A1	give	v.	ให้
+A1	glass	n.	แก้ว
+A1	go	v.	ไป
+A1	good	adj.	ดี
+A1	goodbye	exclam., n.	ลาก่อน
+A1	grandfather	n.	ปู่, ตา
+A1	grandmother	n.	ย่า, ยาย
+A1	grandparent	n.	ปู่ย่าตายาย
+A1	great	adj.	ยอดเยี่ยม; ยิ่งใหญ่
+A1	green	adj., n.	สีเขียว
+A1	grey	adj., n.	สีเทา
+A1	group	n.	กลุ่ม
+A1	grow	v.	เติบโต; ปลูก
+A1	guess	v., n.	เดา; การเดา
+A1	guitar	n.	กีตาร์
+A1	gym	n.	โรงยิม
+A1	hair	n.	ผม
+A1	half	n., det., pron.	ครึ่ง
+A1	hand	n.	มือ
+A1	happen	v.	เกิดขึ้น
+A1	happy	adj.	มีความสุข
+A1	hard	adj., adv.	แข็ง; ยาก; อย่างหนัก
+A1	hat	n.	หมวก
+A1	hate	v.	เกลียด
+A1	have	v.	มี
+A1	have to	modal v.	ต้อง
+A1	he	pron.	เขา (ผู้ชาย)
+A1	head	n.	ศีรษะ
+A1	health	n.	สุขภาพ
+A1	healthy	adj.	มีสุขภาพดี
+A1	hear	v.	ได้ยิน
+A1	hello	exclam., n.	สวัสดี
+A1	help	v., n.	ช่วย; ความช่วยเหลือ
+A1	her	pron., det.	เธอ; ของเธอ
+A1	here	adv.	ที่นี่
+A1	hey	exclam.	เฮ้
+A1	hi	exclam.	หวัดดี
+A1	high	adj.	สูง
+A1	him	pron.	เขา (กรรม)
+A1	his	det.	ของเขา
+A1	history	n.	ประวัติศาสตร์
+A1	hobby	n.	งานอดิเรก
+A1	holiday	n.	วันหยุด
+A1	home	n., adv.	บ้าน
+A1	homework	n.	การบ้าน
+A1	hope	v.	หวัง
+A1	horse	n.	ม้า
+A1	hospital	n.	โรงพยาบาล
+A1	hot	adj.	ร้อน
+A1	hotel	n.	โรงแรม
+A1	hour	n.	ชั่วโมง
+A1	house	n.	บ้าน
+A1	how	adv.	อย่างไร
+A1	however	adv.	อย่างไรก็ตาม
+A1	hundred	number	ร้อย
+A1	hungry	adj.	หิว
+A1	husband	n.	สามี
+A1	I	pron.	ฉัน, ผม
+A1	ice	n.	น้ำแข็ง
+A1	ice cream	n.	ไอศกรีม
+A1	idea	n.	ความคิด
+A1	if	conj.	ถ้า
+A1	imagine	v.	จินตนาการ
+A1	important	adj.	สำคัญ
+A1	improve	v.	ปรับปรุง, พัฒนา
+A1	in	prep., adv.	ใน
+A1	include	v.	รวม
+A1	information	n.	ข้อมูล
+A1	interest	n., v.	ความสนใจ; ทำให้สนใจ
+A1	interested	adj.	สนใจ
+A1	interesting	adj.	น่าสนใจ
+A1	internet	n.	อินเทอร์เน็ต
+A1	interview	n., v.	การสัมภาษณ์; สัมภาษณ์
+A1	into	prep.	เข้าไปใน
+A1	introduce	v.	แนะนำ
+A1	island	n.	เกาะ
+A1	it	pron.	มัน
+A1	its	det.	ของมัน
+A1	jacket	n.	เสื้อแจ็กเก็ต
+A1	January	n.	เดือนมกราคม
+A1	jeans	n.	กางเกงยีนส์
+A1	job	n.	งาน
+A1	join	v.	เข้าร่วม
+A1	journey	n.	การเดินทาง
+A1	juice	n.	น้ำผลไม้
+A1	July	n.	เดือนกรกฎาคม
+A1	June	n.	เดือนมิถุนายน
+A1	just	adv.	เพิ่ง; แค่
+A1	keep	v.	เก็บ, รักษา
+A1	key	n., adj.	กุญแจ; สำคัญ
+A1	kilometre	n.	กิโลเมตร
+A1	kind	n.(type)	ชนิด, ประเภท
+A1	kitchen	n.	ห้องครัว
+A1	know	v.	รู้
+A1	land	n.	แผ่นดิน, ที่ดิน
+A1	language	n.	ภาษา
+A1	large	adj.	ใหญ่
+A1	last	det.(final)	สุดท้าย; ที่แล้ว
+A1	late	adj., adv.	สาย
+A1	later	adv.	ภายหลัง
+A1	laugh	v., n.	หัวเราะ
+A1	learn	v.	เรียนรู้
+A1	leave	v.	ออกไป, จากไป
+A1	left	adj., adv., n.	ซ้าย
+A1	leg	n.	ขา
+A1	lesson	n.	บทเรียน
+A1	let	v.	ปล่อยให้, อนุญาต
+A1	letter	n.	จดหมาย; ตัวอักษร
+A1	library	n.	ห้องสมุด
+A1	lie	v.	นอนลง; โกหก
+A1	life	n.	ชีวิต
+A1	light	n., adj.(from the sun/a lamp)	แสง, ไฟ; สว่าง
+A1	like	prep.(similar); v.(find sb/sth pleasant)	ชอบ; เหมือน
+A1	line	n.	เส้น; แถว
+A1	lion	n.	สิงโต
+A1	list	n., v.	รายการ
+A1	listen	v.	ฟัง
+A1	little	adj., det., pron.	เล็ก; นิดหน่อย
+A1	live	v.	อาศัยอยู่
+A1	local	adj.	ท้องถิ่น
+A1	long	adj., adv.	ยาว, นาน
+A1	look	v.	มอง, ดู
+A1	lose	v.	ทำหาย; แพ้
+A1	lot	pron., det., adv.	มาก (a lot)
+A1	love	n., v.	ความรัก; รัก
+A1	lunch	n.	อาหารกลางวัน
+A1	machine	n.	เครื่องจักร
+A1	magazine	n.	นิตยสาร
+A1	main	adj.	หลัก
+A1	make	v.	ทำ, สร้าง
+A1	man	n.	ผู้ชาย
+A1	many	det., pron.	มาก (นับได้)
+A1	map	n.	แผนที่
+A1	March	n.	เดือนมีนาคม
+A1	market	n.	ตลาด
+A1	married	adj.	แต่งงานแล้ว
+A1	match	n., v.(contest/correspond)	การแข่งขัน; เข้ากัน
+A1	May	n.	เดือนพฤษภาคม
+A1	maybe	adv.	บางที
+A1	me	pron.	ฉัน (กรรม)
+A1	meal	n.	มื้ออาหาร
+A1	mean	v.	หมายถึง
+A1	meaning	n.	ความหมาย
+A1	meat	n.	เนื้อสัตว์
+A1	meet	v.	พบ
+A1	meeting	n.	การประชุม
+A1	member	n.	สมาชิก
+A1	menu	n.	เมนู, รายการอาหาร
+A1	message	n.	ข้อความ
+A1	metre	n.	เมตร
+A1	midnight	n.	เที่ยงคืน
+A1	mile	n.	ไมล์
+A1	milk	n.	นม
+A1	million	number	ล้าน
+A1	minute	n.	นาที
+A1	miss	v.	คิดถึง; พลาด
+A1	mistake	n.	ความผิดพลาด
+A1	model	n.	แบบจำลอง; นางแบบ
+A1	modern	adj.	ทันสมัย
+A1	moment	n.	ขณะ, ช่วงเวลาสั้นๆ
+A1	Monday	n.	วันจันทร์
+A1	money	n.	เงิน
+A1	month	n.	เดือน
+A1	more	det., pron., adv.	มากกว่า
+A1	morning	n.	ตอนเช้า
+A1	most	det., pron., adv.	มากที่สุด
+A1	mother	n.	แม่
+A1	mountain	n.	ภูเขา
+A1	mouse	n.	หนู; เมาส์
+A1	mouth	n.	ปาก
+A1	move	v.	เคลื่อนที่; ย้าย
+A1	movie	n.	ภาพยนตร์
+A1	much	det., pron., adv.	มาก (นับไม่ได้)
+A1	mum	n.	แม่
+A1	museum	n.	พิพิธภัณฑ์
+A1	music	n.	ดนตรี
+A1	must	modal v.	ต้อง
+A1	my	det.	ของฉัน
+A1	name	n., v.	ชื่อ; ตั้งชื่อ
+A1	natural	adj.	ธรรมชาติ
+A1	near	prep., adj., adv.	ใกล้
+A1	need	v.	ต้องการ
+A1	negative	adj.	เชิงลบ
+A1	neighbour	n.	เพื่อนบ้าน
+A1	never	adv.	ไม่เคย
+A1	new	adj.	ใหม่
+A1	news	n.	ข่าว
+A1	newspaper	n.	หนังสือพิมพ์
+A1	next	adj., adv.	ถัดไป
+A1	next to	prep.	ข้างๆ
+A1	nice	adj.	ดี, น่ารัก
+A1	night	n.	กลางคืน
+A1	nine	number	เก้า
+A1	nineteen	number	สิบเก้า
+A1	ninety	number	เก้าสิบ
+A1	no	exclam., det.	ไม่; ไม่มี
+A1	no one	pron.	ไม่มีใคร
+A1	nobody	pron.	ไม่มีใคร
+A1	north	n., adj., adv.	ทิศเหนือ
+A1	nose	n.	จมูก
+A1	not	adv.	ไม่
+A1	note	n.	บันทึก, โน้ต
+A1	nothing	pron.	ไม่มีอะไร
+A1	November	n.	เดือนพฤศจิกายน
+A1	now	adv.	ตอนนี้
+A1	number	n.	ตัวเลข, จำนวน
+A1	nurse	n.	พยาบาล
+A1	object	n.	วัตถุ, สิ่งของ
+A1	o’clock	adv.	นาฬิกา (บอกเวลาตรง)
+A1	October	n.	เดือนตุลาคม
+A1	of	prep.	ของ
+A1	off	adv., prep.	ปิด; ออกจาก
+A1	office	n.	สำนักงาน
+A1	often	adv.	บ่อยๆ
+A1	oh	exclam.	โอ้
+A1	OK	exclam., adj., adv.	โอเค, ตกลง
+A1	old	adj.	แก่; เก่า
+A1	on	prep., adv.	บน
+A1	once	adv.	ครั้งหนึ่ง
+A1	one	number, det., pron.	หนึ่ง
+A1	onion	n.	หัวหอม
+A1	online	adj., adv.	ออนไลน์
+A1	only	adj., adv.	เท่านั้น; เพียงอย่างเดียว
+A1	open	adj., v.	เปิด
+A1	opinion	n.	ความคิดเห็น
+A1	opposite	adj., n., prep., adv.	ตรงข้าม
+A1	or	conj.	หรือ
+A1	orange	n., adj.	ส้ม; สีส้ม
+A1	order	n., v.	คำสั่ง; สั่ง (อาหาร/สินค้า)
+A1	other	adj., pron.	อื่น
+A1	our	det.	ของเรา
+A1	out	adv., prep.	ออก, ข้างนอก
+A1	outside	adv.	ข้างนอก
+A1	over	prep., adv.	เหนือ; เกิน; จบ
+A1	own	adj., pron.	ของตัวเอง
+A1	page	n.	หน้า (หนังสือ)
+A1	paint	v., n.	ทาสี, วาดภาพสี; สี
+A1	painting	n.	ภาพวาด
+A1	pair	n.	คู่
+A1	paper	n.	กระดาษ
+A1	paragraph	n.	ย่อหน้า
+A1	parent	n.	พ่อแม่
+A1	park	n., v.	สวนสาธารณะ; จอดรถ
+A1	part	n.	ส่วน
+A1	partner	n.	คู่หู, หุ้นส่วน
+A1	party	n.	งานเลี้ยง
+A1	passport	n.	หนังสือเดินทาง
+A1	past	adj., n., prep.	อดีต; ผ่านไป
+A1	pay	v.	จ่าย
+A1	pen	n.	ปากกา
+A1	pencil	n.	ดินสอ
+A1	people	n.	ผู้คน
+A1	pepper	n.	พริกไทย
+A1	perfect	adj.	สมบูรณ์แบบ
+A1	period	n.	ช่วงเวลา
+A1	person	n.	บุคคล
+A1	personal	adj.	ส่วนตัว
+A1	phone	n., v.	โทรศัพท์; โทร
+A1	photo	n.	รูปถ่าย
+A1	photograph	n.	รูปถ่าย
+A1	phrase	n.	วลี
+A1	piano	n.	เปียโน
+A1	picture	n.	รูปภาพ
+A1	piece	n.	ชิ้น
+A1	pig	n.	หมู
+A1	pink	adj., n.	สีชมพู
+A1	place	n.	สถานที่
+A1	plan	n., v.	แผน; วางแผน
+A1	plane	n.	เครื่องบิน
+A1	plant	n.	พืช
+A1	play	v., n.	เล่น; ละคร
+A1	player	n.	ผู้เล่น
+A1	please	exclam.	กรุณา
+A1	point	n.	จุด; ประเด็น
+A1	police	n.	ตำรวจ
+A1	policeman	n.	ตำรวจ (ชาย)
+A1	pool	n.	สระว่ายน้ำ
+A1	poor	adj.	จน; น่าสงสาร
+A1	popular	adj.	เป็นที่นิยม
+A1	positive	adj.	เชิงบวก
+A1	possible	adj.	เป็นไปได้
+A1	post	n., v.	ไปรษณีย์; โพสต์
+A1	potato	n.	มันฝรั่ง
+A1	pound	n.	ปอนด์
+A1	practice	n.	การฝึกฝน
+A1	practise	v.	ฝึกฝน
+A1	prefer	v.	ชอบมากกว่า
+A1	prepare	v.	เตรียม
+A1	present	adj., n.	ของขวัญ; ปัจจุบัน
+A1	pretty	adj., adv.	สวย; ค่อนข้าง
+A1	price	n.	ราคา
+A1	probably	adv.	น่าจะ
+A1	problem	n.	ปัญหา
+A1	product	n.	ผลิตภัณฑ์
+A1	programme	n.	รายการ; โครงการ
+A1	project	n.	โครงการ
+A1	purple	adj., n.	สีม่วง
+A1	put	v.	วาง
+A1	quarter	n.	หนึ่งในสี่
+A1	question	n.	คำถาม
+A1	quick	adj.	เร็ว
+A1	quickly	adv.	อย่างรวดเร็ว
+A1	quiet	adj.	เงียบ
+A1	quite	adv.	ค่อนข้าง
+A1	radio	n.	วิทยุ
+A1	rain	n., v.	ฝน; ฝนตก
+A1	read	v.	อ่าน
+A1	reader	n.	ผู้อ่าน
+A1	reading	n.	การอ่าน
+A1	ready	adj.	พร้อม
+A1	real	adj.	จริง
+A1	really	adv.	จริงๆ
+A1	reason	n.	เหตุผล
+A1	red	adj., n.	สีแดง
+A1	relax	v.	ผ่อนคลาย
+A1	remember	v.	จำ
+A1	repeat	v.	ทำซ้ำ, พูดซ้ำ
+A1	report	n.	รายงาน
+A1	restaurant	n.	ร้านอาหาร
+A1	result	n.	ผลลัพธ์
+A1	return	v., n.	กลับ; คืน; การกลับ
+A1	rice	n.	ข้าว
+A1	rich	adj.	รวย
+A1	ride	v.	ขี่
+A1	right	adj., adv., n.	ขวา; ถูกต้อง; สิทธิ์
+A1	river	n.	แม่น้ำ
+A1	road	n.	ถนน
+A1	room	n.	ห้อง
+A1	routine	n.	กิจวัตร
+A1	rule	n.	กฎ
+A1	run	v.	วิ่ง
+A1	sad	adj.	เศร้า
+A1	salad	n.	สลัด
+A1	salt	n.	เกลือ
+A1	same	adj., pron., adv.	เหมือนกัน
+A1	sandwich	n.	แซนด์วิช
+A1	Saturday	n.	วันเสาร์
+A1	say	v.	พูด
+A1	school	n.	โรงเรียน
+A1	science	n.	วิทยาศาสตร์
+A1	scientist	n.	นักวิทยาศาสตร์
+A1	sea	n.	ทะเล
+A1	second	det., number(next after the first); n.(unit of time)	ที่สอง; วินาที
+A1	section	n.	ส่วน, ตอน
+A1	see	v.	เห็น
+A1	sell	v.	ขาย
+A1	send	v.	ส่ง
+A1	sentence	n.	ประโยค
+A1	September	n.	เดือนกันยายน
+A1	seven	number	เจ็ด
+A1	seventeen	number	สิบเจ็ด
+A1	seventy	number	เจ็ดสิบ
+A1	share	v.	แบ่งปัน
+A1	she	pron.	เธอ (ผู้หญิง)
+A1	sheep	n.	แกะ
+A1	shirt	n.	เสื้อเชิ้ต
+A1	shoe	n.	รองเท้า
+A1	shop	n., v.	ร้านค้า; ซื้อของ
+A1	shopping	n.	การซื้อของ
+A1	short	adj.	สั้น; เตี้ย
+A1	should	modal v.	ควร
+A1	show	v., n.	แสดง; การแสดง
+A1	shower	n.	ฝักบัว; การอาบน้ำฝักบัว
+A1	sick	adj.	ป่วย
+A1	similar	adj.	คล้ายกัน
+A1	sing	v.	ร้องเพลง
+A1	singer	n.	นักร้อง
+A1	sister	n.	พี่สาว, น้องสาว
+A1	sit	v.	นั่ง
+A1	situation	n.	สถานการณ์
+A1	six	number	หก
+A1	sixteen	number	สิบหก
+A1	sixty	number	หกสิบ
+A1	skill	n.	ทักษะ
+A1	skirt	n.	กระโปรง
+A1	sleep	v.	นอนหลับ
+A1	slow	adj.	ช้า
+A1	small	adj.	เล็ก
+A1	snake	n.	งู
+A1	snow	n., v.	หิมะ; หิมะตก
+A1	so	adv., conj.	ดังนั้น; มาก
+A1	some	det., pron.	บาง, บ้าง
+A1	somebody	pron.	ใครบางคน
+A1	someone	pron.	ใครบางคน
+A1	something	pron.	บางสิ่ง
+A1	sometimes	adv.	บางครั้ง
+A1	son	n.	ลูกชาย
+A1	song	n.	เพลง
+A1	soon	adv.	เร็วๆ นี้
+A1	sorry	adj., exclam.	ขอโทษ; เสียใจ
+A1	sound	n., v.	เสียง; ฟังดู
+A1	soup	n.	ซุป
+A1	south	n., adj., adv.	ทิศใต้
+A1	space	n.	พื้นที่ว่าง; อวกาศ
+A1	speak	v.	พูด
+A1	special	adj.	พิเศษ
+A1	spell	v.	สะกด
+A1	spelling	n.	การสะกดคำ
+A1	spend	v.	ใช้ (เงิน/เวลา)
+A1	sport	n.	กีฬา
+A1	spring	n.	ฤดูใบไม้ผลิ
+A1	stand	v.	ยืน
+A1	star	n.	ดาว; ดารา
+A1	start	v.	เริ่ม
+A1	statement	n.	ข้อความ, คำแถลง
+A1	station	n.	สถานี
+A1	stay	v.	พักอยู่
+A1	still	adv.	ยังคง
+A1	stop	v., n.	หยุด; ป้าย (รถ)
+A1	story	n.	เรื่องราว
+A1	street	n.	ถนน
+A1	strong	adj.	แข็งแรง
+A1	student	n.	นักเรียน
+A1	study	n., v.	การศึกษา; เรียน
+A1	style	n.	สไตล์, รูปแบบ
+A1	subject	n.	วิชา; หัวข้อ
+A1	success	n.	ความสำเร็จ
+A1	sugar	n.	น้ำตาล
+A1	summer	n.	ฤดูร้อน
+A1	sun	n.	ดวงอาทิตย์
+A1	Sunday	n.	วันอาทิตย์
+A1	supermarket	n.	ซูเปอร์มาร์เก็ต
+A1	sure	adj.	แน่ใจ
+A1	sweater	n.	เสื้อสเวตเตอร์
+A1	swim	v.	ว่ายน้ำ
+A1	swimming	n.	การว่ายน้ำ
+A1	table	n.	โต๊ะ; ตาราง
+A1	take	v.	เอา, หยิบ; ใช้ (เวลา)
+A1	talk	v.	พูดคุย
+A1	tall	adj.	สูง
+A1	taxi	n.	แท็กซี่
+A1	tea	n.	ชา
+A1	teach	v.	สอน
+A1	teacher	n.	ครู
+A1	team	n.	ทีม
+A1	teenager	n.	วัยรุ่น
+A1	telephone	n., v.	โทรศัพท์
+A1	television	n.	โทรทัศน์
+A1	tell	v.	บอก
+A1	ten	number	สิบ
+A1	tennis	n.	เทนนิส
+A1	terrible	adj.	แย่มาก
+A1	test	n., v.	การทดสอบ; ทดสอบ
+A1	text	n.	ข้อความ
+A1	than	conj.	กว่า
+A1	thank	v.	ขอบคุณ
+A1	thanks	exclam., n.	ขอบคุณ
+A1	that	det., pron., conj.	นั่น; ว่า
+A1	the	article	คำนำหน้านามเฉพาะ (the)
+A1	theatre	n.	โรงละคร
+A1	their	det.	ของพวกเขา
+A1	them	pron.	พวกเขา (กรรม)
+A1	then	adv.	แล้ว; ตอนนั้น
+A1	there	adv.	ที่นั่น
+A1	they	pron.	พวกเขา
+A1	thing	n.	สิ่ง
+A1	think	v.	คิด
+A1	third	number	ที่สาม
+A1	thirsty	adj.	กระหายน้ำ
+A1	thirteen	number	สิบสาม
+A1	thirty	number	สามสิบ
+A1	this	det., pron.	นี่, นี้
+A1	thousand	number	พัน
+A1	three	number	สาม
+A1	through	prep., adv.	ผ่าน
+A1	Thursday	n.	วันพฤหัสบดี
+A1	ticket	n.	ตั๋ว
+A1	time	n.	เวลา; ครั้ง
+A1	tired	adj.	เหนื่อย
+A1	title	n.	ชื่อเรื่อง
+A1	to	prep., infinitive marker	ถึง, ไปยัง
+A1	today	adv., n.	วันนี้
+A1	together	adv.	ด้วยกัน
+A1	toilet	n.	ห้องสุขา
+A1	tomato	n.	มะเขือเทศ
+A1	tomorrow	adv., n.	พรุ่งนี้
+A1	tonight	adv., n.	คืนนี้
+A1	too	adv.	ด้วย; เกินไป
+A1	tooth	n.	ฟัน
+A1	topic	n.	หัวข้อ
+A1	tourist	n.	นักท่องเที่ยว
+A1	town	n.	เมือง
+A1	traffic	n.	การจราจร
+A1	train	n.	รถไฟ
+A1	travel	v., n.	เดินทาง; การเดินทาง
+A1	tree	n.	ต้นไม้
+A1	trip	n.	การเดินทาง, ทริป
+A1	trousers	n.	กางเกงขายาว
+A1	true	adj.	จริง
+A1	try	v.	พยายาม; ลอง
+A1	T-shirt	n.	เสื้อยืด
+A1	Tuesday	n.	วันอังคาร
+A1	turn	v., n.	เลี้ยว, หมุน; ตา (ถึงคิว)
+A1	TV	n.	ทีวี
+A1	twelve	number	สิบสอง
+A1	twenty	number	ยี่สิบ
+A1	twice	adv.	สองครั้ง
+A1	two	number	สอง
+A1	type	n.	ประเภท, ชนิด
+A1	umbrella	n.	ร่ม
+A1	uncle	n.	ลุง, น้า, อา (ชาย)
+A1	under	prep., adv.	ใต้
+A1	understand	v.	เข้าใจ
+A1	university	n.	มหาวิทยาลัย
+A1	until	conj., prep.	จนกระทั่ง
+A1	up	adv., prep.	ขึ้น
+A1	upstairs	adv.	ชั้นบน
+A1	us	pron.	พวกเรา (กรรม)
+A1	use	v.	ใช้
+A1	useful	adj.	มีประโยชน์
+A1	usually	adv.	โดยปกติ
+A1	vacation	n.	วันหยุดพักผ่อน
+A1	vegetable	n.	ผัก
+A1	very	adv.	มาก
+A1	video	n.	วิดีโอ
+A1	village	n.	หมู่บ้าน
+A1	visit	v., n.	เยี่ยม; การเยี่ยมชม
+A1	visitor	n.	ผู้มาเยือน
+A1	wait	v.	รอ
+A1	waiter	n.	บริกร
+A1	wake	v.	ตื่น
+A1	walk	v., n.	เดิน
+A1	wall	n.	กำแพง, ผนัง
+A1	want	v.	ต้องการ
+A1	warm	adj.	อบอุ่น
+A1	wash	v.	ล้าง
+A1	watch	v., n.	ดู; นาฬิกาข้อมือ
+A1	water	n.	น้ำ
+A1	way	n.	ทาง; วิธี
+A1	we	pron.	พวกเรา
+A1	wear	v.	สวมใส่
+A1	weather	n.	สภาพอากาศ
+A1	website	n.	เว็บไซต์
+A1	Wednesday	n.	วันพุธ
+A1	week	n.	สัปดาห์
+A1	weekend	n.	วันสุดสัปดาห์
+A1	welcome	exclam., v., adj.	ยินดีต้อนรับ
+A1	well	adv., adj., exclam.	ดี; อืม
+A1	west	n., adj., adv.	ทิศตะวันตก
+A1	what	pron., det.	อะไร
+A1	when	adv., pron., conj.	เมื่อไร; เมื่อ
+A1	where	adv., conj.	ที่ไหน
+A1	which	pron., det.	อันไหน; ซึ่ง
+A1	white	adj., n.	สีขาว
+A1	who	pron.	ใคร
+A1	why	adv.	ทำไม
+A1	wife	n.	ภรรยา
+A1	will	modal v.	จะ
+A1	win	v.	ชนะ
+A1	window	n.	หน้าต่าง
+A1	wine	n.	ไวน์
+A1	winter	n.	ฤดูหนาว
+A1	with	prep.	กับ, ด้วย
+A1	without	prep.	โดยไม่มี
+A1	woman	n.	ผู้หญิง
+A1	wonderful	adj.	ยอดเยี่ยม
+A1	word	n.	คำ
+A1	work	v., n.	ทำงาน; งาน
+A1	worker	n.	คนงาน
+A1	world	n.	โลก
+A1	would	modal v.	จะ (เงื่อนไข/สุภาพ)
+A1	write	v.	เขียน
+A1	writer	n.	นักเขียน
+A1	writing	n.	การเขียน
+A1	wrong	adj.	ผิด
+A1	yeah	exclam.	ใช่ (ภาษาพูด)
+A1	year	n.	ปี
+A1	yellow	adj., n.	สีเหลือง
+A1	yes	exclam.	ใช่
+A1	yesterday	adv., n.	เมื่อวาน
+A1	you	pron.	คุณ
+A1	young	adj.	อายุน้อย, หนุ่มสาว
+A1	your	det.	ของคุณ
+A1	yourself	pron.	ตัวคุณเอง
+A2	ability	n.	ความสามารถ
+A2	able	adj.	สามารถ
+A2	abroad	adv.	ต่างประเทศ
+A2	accept	v.	ยอมรับ
+A2	accident	n.	อุบัติเหตุ
+A2	according to	prep.	ตามที่, อ้างอิงจาก
+A2	achieve	v.	บรรลุ, ทำสำเร็จ
+A2	act	v.	กระทำ; แสดง
+A2	active	adj.	กระตือรือร้น, คล่องแคล่ว
+A2	actually	adv.	จริงๆ แล้ว
+A2	adult	adj.	ที่เป็นผู้ใหญ่
+A2	advantage	n.	ข้อได้เปรียบ
+A2	adventure	n.	การผจญภัย
+A2	advertise	v.	โฆษณา
+A2	advertisement	n.	โฆษณา (ชิ้นงาน)
+A2	advertising	n.	การโฆษณา
+A2	affect	v.	ส่งผลกระทบ
+A2	after	conj., adv.	หลังจากที่; ภายหลัง
+A2	against	prep.	ต่อต้าน; พิงกับ
+A2	ah	exclam.	อ้อ, อา
+A2	airline	n.	สายการบิน
+A2	alive	adj.	มีชีวิตอยู่
+A2	all	adv.	ทั้งหมด, โดยสิ้นเชิง
+A2	all right	adj., adv., exclam.	ไม่เป็นไร, โอเค
+A2	allow	v.	อนุญาต
+A2	almost	adv.	เกือบ
+A2	alone	adj., adv.	คนเดียว, ลำพัง
+A2	along	prep., adv.	ไปตาม
+A2	already	adv.	แล้ว (เรียบร้อยแล้ว)
+A2	alternative	n.	ทางเลือก
+A2	although	conj.	แม้ว่า
+A2	among	prep.	ท่ามกลาง
+A2	amount	n.	จำนวน, ปริมาณ
+A2	ancient	adj.	โบราณ
+A2	ankle	n.	ข้อเท้า
+A2	any	adv.	เลย (ใช้เน้น)
+A2	anybody	pron.	ใครก็ได้
+A2	any more	adv.	อีกต่อไป
+A2	anyway	adv.	อย่างไรก็ตาม
+A2	anywhere	adv., pron.	ที่ไหนก็ได้
+A2	app	n.	แอป
+A2	appear	v.	ปรากฏ
+A2	appearance	n.	รูปลักษณ์; การปรากฏตัว
+A2	apply	v.	สมัคร; ประยุกต์ใช้
+A2	architect	n.	สถาปนิก
+A2	architecture	n.	สถาปัตยกรรม
+A2	argue	v.	โต้เถียง
+A2	argument	n.	การโต้เถียง; ข้อโต้แย้ง
+A2	army	n.	กองทัพบก
+A2	arrange	v.	จัดเตรียม, จัดการ
+A2	arrangement	n.	การจัดเตรียม
+A2	as	adv., conj.	เท่ากับ; ขณะที่
+A2	asleep	adj.	หลับอยู่
+A2	assistant	n., adj.	ผู้ช่วย
+A2	athlete	n.	นักกีฬา
+A2	attack	n., v.	การโจมตี; โจมตี
+A2	attend	v.	เข้าร่วม
+A2	attention	n., exclam.	ความสนใจ
+A2	attractive	adj.	มีเสน่ห์, น่าดึงดูด
+A2	audience	n.	ผู้ชม
+A2	author	n.	ผู้แต่ง
+A2	available	adj.	ว่าง, มีให้ใช้
+A2	average	adj., n.	ค่าเฉลี่ย; ปานกลาง
+A2	avoid	v.	หลีกเลี่ยง
+A2	award	n.	รางวัล
+A2	awful	adj.	แย่มาก
+A2	back	adj.	ด้านหลัง (ที่อยู่ข้างหลัง)
+A2	background	n.	พื้นหลัง; ภูมิหลัง
+A2	badly	adv.	อย่างแย่
+A2	bar	n.	บาร์; แท่ง
+A2	baseball	n.	เบสบอล
+A2	based	adj.	ตั้งอยู่ที่; อิงจาก
+A2	basketball	n.	บาสเกตบอล
+A2	bean	n.	ถั่ว
+A2	bear	n.(animal)	หมี
+A2	beat	v.	เอาชนะ; ตี
+A2	beef	n.	เนื้อวัว
+A2	before	conj., adv.	ก่อนที่; มาก่อน
+A2	behave	v.	ประพฤติ
+A2	behaviour	n.	พฤติกรรม
+A2	belong	v.	เป็นของ
+A2	belt	n.	เข็มขัด
+A2	benefit	n.	ประโยชน์
+A2	best	adv., n.	ดีที่สุด (อย่าง)
+A2	better	adv.	ดีกว่า (อย่าง)
+A2	between	adv.	ระหว่างกลาง
+A2	billion	number	พันล้าน
+A2	bin	n.	ถังขยะ
+A2	biology	n.	ชีววิทยา
+A2	birth	n.	การเกิด
+A2	biscuit	n.	ขนมปังกรอบ
+A2	bit	n.	ชิ้นเล็กๆ, นิดหน่อย
+A2	blank	adj., n.	ว่างเปล่า; ช่องว่าง
+A2	blood	n.	เลือด
+A2	blow	v.	เป่า; พัด
+A2	board	n.	กระดาน
+A2	boil	v.	ต้ม
+A2	bone	n.	กระดูก
+A2	book	v.	จอง
+A2	borrow	v.	ยืม
+A2	boss	n.	เจ้านาย
+A2	bottom	n., adj.	ด้านล่างสุด
+A2	bowl	n.	ชาม
+A2	brain	n.	สมอง
+A2	bridge	n.	สะพาน
+A2	bright	adj.	สว่าง; ฉลาด
+A2	brilliant	adj.	ยอดเยี่ยม; ฉลาดมาก
+A2	broken	adj.	แตก, เสีย
+A2	brush	v., n.	แปรง; แปรง (ฟัน/ผม)
+A2	burn	v.	เผา, ไหม้
+A2	businessman	n.	นักธุรกิจ
+A2	button	n.	กระดุม; ปุ่ม
+A2	camp	n., v.	ค่าย; ตั้งแคมป์
+A2	camping	n.	การตั้งแคมป์
+A2	can	n.	กระป๋อง
+A2	care	n., v.	การดูแล; ใส่ใจ
+A2	careful	adj.	ระมัดระวัง
+A2	carefully	adv.	อย่างระมัดระวัง
+A2	carpet	n.	พรม
+A2	cartoon	n.	การ์ตูน
+A2	case	n.	กรณี; กล่อง
+A2	cash	n.	เงินสด
+A2	castle	n.	ปราสาท
+A2	catch	v.	จับ
+A2	cause	n., v.	สาเหตุ; ทำให้เกิด
+A2	celebrate	v.	เฉลิมฉลอง
+A2	celebrity	n.	คนดัง
+A2	certain	adj.	แน่นอน; บางอย่าง
+A2	certainly	adv.	แน่นอน
+A2	chance	n.	โอกาส
+A2	character	n.	ตัวละคร; นิสัย
+A2	charity	n.	องค์กรการกุศล
+A2	chat	v., n.	คุยเล่น; การสนทนา
+A2	check	n.	การตรวจสอบ
+A2	chef	n.	พ่อครัว
+A2	chemistry	n.	เคมี
+A2	chip	n.	มันฝรั่งทอด
+A2	choice	n.	ทางเลือก
+A2	church	n.	โบสถ์
+A2	cigarette	n.	บุหรี่
+A2	circle	n., v.	วงกลม; วนรอบ
+A2	classical	adj.	คลาสสิก
+A2	clear	adj.	ชัดเจน; ใส
+A2	clearly	adv.	อย่างชัดเจน
+A2	clever	adj.	ฉลาด
+A2	climate	n.	ภูมิอากาศ
+A2	close	adj.	ใกล้; สนิท
+A2	closed	adj.	ปิดแล้ว
+A2	clothing	n.	เครื่องแต่งกาย
+A2	cloud	n.	เมฆ
+A2	coach	n.	โค้ช; รถโค้ช
+A2	coast	n.	ชายฝั่ง
+A2	code	n.	รหัส
+A2	colleague	n.	เพื่อนร่วมงาน
+A2	collect	v.	สะสม, เก็บรวบรวม
+A2	column	n.	คอลัมน์; เสา
+A2	comedy	n.	ตลก, ภาพยนตร์ตลก
+A2	comfortable	adj.	สะดวกสบาย
+A2	comment	n.	ความคิดเห็น
+A2	communicate	v.	สื่อสาร
+A2	community	n.	ชุมชน
+A2	compete	v.	แข่งขัน
+A2	competition	n.	การแข่งขัน
+A2	complain	v.	บ่น, ร้องเรียน
+A2	completely	adv.	อย่างสมบูรณ์
+A2	condition	n.	สภาพ; เงื่อนไข
+A2	conference	n.	การประชุมใหญ่
+A2	connect	v.	เชื่อมต่อ
+A2	connected	adj.	ที่เชื่อมต่อ
+A2	consider	v.	พิจารณา
+A2	contain	v.	บรรจุ, ประกอบด้วย
+A2	context	n.	บริบท
+A2	continent	n.	ทวีป
+A2	continue	v.	ดำเนินต่อไป
+A2	control	n., v.	การควบคุม; ควบคุม
+A2	cook	n.	พ่อครัว, คนทำอาหาร
+A2	cooker	n.	เตาหุงต้ม
+A2	copy	n., v.	สำเนา; คัดลอก
+A2	corner	n.	มุม
+A2	correctly	adv.	อย่างถูกต้อง
+A2	count	v.	นับ
+A2	couple	n.	คู่
+A2	cover	v.	ปกคลุม
+A2	crazy	adj.	บ้า
+A2	creative	adj.	สร้างสรรค์
+A2	credit	n.	เครดิต
+A2	crime	n.	อาชญากรรม
+A2	criminal	n.	อาชญากร
+A2	cross	v., n.	ข้าม; เครื่องหมายกากบาท
+A2	crowd	n.	ฝูงชน
+A2	crowded	adj.	แออัด
+A2	cry	v.	ร้องไห้
+A2	cupboard	n.	ตู้
+A2	curly	adj.	หยิก (ผม)
+A2	cycle	n., v.	ปั่นจักรยาน; วงจร
+A2	daily	adj.	ทุกวัน, รายวัน
+A2	danger	n.	อันตราย
+A2	dark	n.	ความมืด
+A2	data	n.	ข้อมูล
+A2	dead	adj.	ตาย
+A2	deal	v.	จัดการ
+A2	dear	exclam.	โอ้ย (อุทาน)
+A2	death	n.	ความตาย
+A2	decision	n.	การตัดสินใจ
+A2	deep	adj.	ลึก
+A2	definitely	adv.	อย่างแน่นอน
+A2	degree	n.	องศา; ปริญญา
+A2	dentist	n.	ทันตแพทย์
+A2	department	n.	แผนก
+A2	depend	v.	ขึ้นอยู่กับ
+A2	desert	n.	ทะเลทราย
+A2	designer	n.	นักออกแบบ
+A2	destroy	v.	ทำลาย
+A2	detective	n.	นักสืบ
+A2	develop	v.	พัฒนา
+A2	device	n.	อุปกรณ์
+A2	diary	n.	ไดอารี่, สมุดบันทึก
+A2	differently	adv.	อย่างแตกต่าง
+A2	digital	adj.	ดิจิทัล
+A2	direct	adj.	โดยตรง
+A2	direction	n.	ทิศทาง
+A2	director	n.	ผู้อำนวยการ; ผู้กำกับ
+A2	disagree	v.	ไม่เห็นด้วย
+A2	disappear	v.	หายไป
+A2	disaster	n.	ภัยพิบัติ
+A2	discover	v.	ค้นพบ
+A2	discovery	n.	การค้นพบ
+A2	discussion	n.	การอภิปราย
+A2	disease	n.	โรค
+A2	distance	n.	ระยะทาง
+A2	divorced	adj.	หย่าร้าง
+A2	document	n.	เอกสาร
+A2	double	adj., det., pron., v.	สองเท่า; เพิ่มเป็นสองเท่า
+A2	download	v., n.	ดาวน์โหลด
+A2	downstairs	adj.	ที่อยู่ชั้นล่าง
+A2	drama	n.	ละคร
+A2	drawing	n.	ภาพวาดเส้น
+A2	dream	n., v.	ความฝัน; ฝัน
+A2	drive	n.	การขับรถ
+A2	driving	n.	การขับขี่
+A2	drop	v.	ทำตก
+A2	drug	n.	ยา; ยาเสพติด
+A2	dry	adj., v.	แห้ง; ทำให้แห้ง
+A2	earn	v.	หารายได้
+A2	earth	n.	โลก; ดิน
+A2	easily	adv.	อย่างง่ายดาย
+A2	education	n.	การศึกษา
+A2	effect	n.	ผลกระทบ
+A2	either	det., pron., adv.	อย่างใดอย่างหนึ่ง; ก็ไม่ (ด้วย)
+A2	electric	adj.	ไฟฟ้า (ที่ใช้ไฟฟ้า)
+A2	electrical	adj.	เกี่ยวกับไฟฟ้า
+A2	electricity	n.	กระแสไฟฟ้า
+A2	electronic	adj.	อิเล็กทรอนิกส์
+A2	employ	v.	จ้างงาน
+A2	employee	n.	ลูกจ้าง, พนักงาน
+A2	employer	n.	นายจ้าง
+A2	empty	adj.	ว่างเปล่า
+A2	ending	n.	ตอนจบ
+A2	energy	n.	พลังงาน
+A2	engine	n.	เครื่องยนต์
+A2	engineer	n.	วิศวกร
+A2	enormous	adj.	ใหญ่มหึมา
+A2	enter	v.	เข้า
+A2	environment	n.	สิ่งแวดล้อม
+A2	equipment	n.	อุปกรณ์
+A2	error	n.	ข้อผิดพลาด
+A2	especially	adv.	โดยเฉพาะ
+A2	essay	n.	เรียงความ
+A2	everyday	adj.	ประจำวัน
+A2	everywhere	adv.	ทุกที่
+A2	evidence	n.	หลักฐาน
+A2	exact	adj.	แน่นอน, ถูกต้องแม่นยำ
+A2	exactly	adv.	อย่างแน่นอน, ตรงเป๊ะ
+A2	excellent	adj.	ยอดเยี่ยม
+A2	except	prep.	ยกเว้น
+A2	exist	v.	มีอยู่
+A2	expect	v.	คาดหวัง
+A2	experience	n.	ประสบการณ์
+A2	experiment	n.	การทดลอง
+A2	expert	n., adj.	ผู้เชี่ยวชาญ
+A2	explanation	n.	คำอธิบาย
+A2	express	v.	แสดงออก
+A2	expression	n.	การแสดงออก; สำนวน
+A2	extreme	adj.	สุดขั้ว
+A2	extremely	adv.	อย่างยิ่ง
+A2	factor	n.	ปัจจัย
+A2	factory	n.	โรงงาน
+A2	fail	v.	ล้มเหลว; สอบตก
+A2	fair	adj.	ยุติธรรม
+A2	fall	n.	ฤดูใบไม้ร่วง; การตก
+A2	fan	n.	แฟนคลับ; พัดลม
+A2	farm	v.	ทำฟาร์ม
+A2	farming	n.	การทำเกษตร
+A2	fashion	n.	แฟชั่น
+A2	fat	n.	ไขมัน
+A2	fear	n.	ความกลัว
+A2	feature	n.	ลักษณะเด่น
+A2	feed	v.	ให้อาหาร
+A2	female	adj., n.	เพศหญิง
+A2	fiction	n.	นิยาย
+A2	field	n.	ทุ่งนา; สาขา
+A2	fight	v., n.	ต่อสู้; การต่อสู้
+A2	figure	n.	ตัวเลข; รูปร่าง
+A2	film	v.	ถ่ายทำภาพยนตร์
+A2	final	n.	รอบชิงชนะเลิศ
+A2	finally	adv.	ในที่สุด
+A2	finger	n.	นิ้วมือ
+A2	finish	n.	การจบ, เส้นชัย
+A2	first	n.	คนแรก, สิ่งแรก
+A2	firstly	adv.	ประการแรก
+A2	fish	v.	ตกปลา
+A2	fishing	n.	การตกปลา
+A2	fit	v., adj.	พอดี; แข็งแรง
+A2	fix	v.	ซ่อม
+A2	flat	adj.	แบน, ราบ
+A2	flu	n.	ไข้หวัดใหญ่
+A2	fly	n.	แมลงวัน
+A2	flying	n., adj.	การบิน
+A2	focus	v., n.	จดจ่อ; จุดสนใจ
+A2	following	adj.	ต่อไปนี้
+A2	foreign	adj.	ต่างชาติ
+A2	forest	n.	ป่า
+A2	fork	n.	ส้อม
+A2	formal	adj.	เป็นทางการ
+A2	fortunately	adv.	โชคดีที่
+A2	forward	adv.	ไปข้างหน้า
+A2	free	adv.	ฟรี (โดยไม่เสียเงิน)
+A2	fresh	adj.	สด
+A2	fridge	n.	ตู้เย็น
+A2	frog	n.	กบ
+A2	fun	adj.	สนุก
+A2	furniture	n.	เฟอร์นิเจอร์
+A2	further	adj.	เพิ่มเติม; ไกลออกไป
+A2	future	adj.	ในอนาคต
+A2	gallery	n.	หอศิลป์
+A2	gap	n.	ช่องว่าง
+A2	gas	n.	ก๊าซ
+A2	gate	n.	ประตูรั้ว
+A2	general	adj.	ทั่วไป
+A2	gift	n.	ของขวัญ
+A2	goal	n.	เป้าหมาย; ประตู (กีฬา)
+A2	god	n.	พระเจ้า
+A2	gold	n., adj.	ทองคำ
+A2	golf	n.	กอล์ฟ
+A2	good	n.	ความดี
+A2	government	n.	รัฐบาล
+A2	grass	n.	หญ้า
+A2	greet	v.	ทักทาย
+A2	ground	n.	พื้นดิน
+A2	guest	n.	แขก
+A2	guide	n., v.	ไกด์; นำทาง
+A2	gun	n.	ปืน
+A2	guy	n.	ผู้ชาย, หมอนี่
+A2	habit	n.	นิสัย
+A2	half	adv.	ครึ่งหนึ่ง (อย่าง)
+A2	hall	n.	ห้องโถง
+A2	happily	adv.	อย่างมีความสุข
+A2	have	auxiliary v.	ได้... แล้ว (กริยาช่วย)
+A2	headache	n.	ปวดหัว
+A2	heart	n.	หัวใจ
+A2	heat	n., v.	ความร้อน; ทำให้ร้อน
+A2	heavy	adj.	หนัก
+A2	height	n.	ความสูง
+A2	helpful	adj.	เป็นประโยชน์
+A2	hero	n.	ฮีโร่, วีรบุรุษ
+A2	hers	pron.	ของเธอ
+A2	herself	pron.	ตัวเธอเอง
+A2	hide	v.	ซ่อน
+A2	high	adv.	สูง (อย่าง)
+A2	hill	n.	เนินเขา
+A2	himself	pron.	ตัวเขาเอง
+A2	his	pron.	ของเขา (สรรพนาม)
+A2	hit	v., n.	ตี, ชน
+A2	hockey	n.	ฮอกกี้
+A2	hold	v.	ถือ
+A2	hole	n.	หลุม, รู
+A2	home	adj.	ภายในบ้าน, ในประเทศ
+A2	hope	n.	ความหวัง
+A2	huge	adj.	ใหญ่มาก
+A2	human	adj., n.	มนุษย์
+A2	hurt	v., adj.	ทำให้เจ็บ; บาดเจ็บ
+A2	ideal	adj.	ในอุดมคติ
+A2	identify	v.	ระบุ
+A2	ill	adj.	ป่วย
+A2	illness	n.	ความเจ็บป่วย
+A2	image	n.	ภาพ
+A2	immediately	adv.	ทันที
+A2	impossible	adj.	เป็นไปไม่ได้
+A2	included	adj.	รวมอยู่ด้วย
+A2	including	prep.	รวมถึง
+A2	increase	v., n.	เพิ่มขึ้น; การเพิ่มขึ้น
+A2	incredible	adj.	เหลือเชื่อ
+A2	independent	adj.	อิสระ
+A2	individual	n., adj.	บุคคล; เฉพาะบุคคล
+A2	industry	n.	อุตสาหกรรม
+A2	informal	adj.	ไม่เป็นทางการ
+A2	injury	n.	การบาดเจ็บ
+A2	insect	n.	แมลง
+A2	inside	prep., adv., n., adj.	ข้างใน
+A2	instead	adv.	แทน
+A2	instruction	n.	คำสั่ง, คำแนะนำ
+A2	instructor	n.	ครูฝึก
+A2	instrument	n.	เครื่องดนตรี; เครื่องมือ
+A2	intelligent	adj.	ฉลาด
+A2	international	adj.	ระหว่างประเทศ
+A2	introduction	n.	บทนำ; การแนะนำ
+A2	invent	v.	ประดิษฐ์
+A2	invention	n.	สิ่งประดิษฐ์
+A2	invitation	n.	คำเชิญ
+A2	invite	v.	เชิญ
+A2	involve	v.	เกี่ยวข้อง
+A2	item	n.	สิ่งของ, รายการ
+A2	itself	pron.	ตัวมันเอง
+A2	jam	n.	แยม
+A2	jazz	n.	ดนตรีแจ๊ส
+A2	jewellery	n.	เครื่องประดับ
+A2	joke	n., v.	เรื่องตลก; พูดล้อเล่น
+A2	journalist	n.	นักข่าว
+A2	jump	v., n.	กระโดด
+A2	kid	n.	เด็ก
+A2	kill	v.	ฆ่า
+A2	king	n.	กษัตริย์
+A2	knee	n.	หัวเข่า
+A2	knife	n.	มีด
+A2	knock	v.	เคาะ
+A2	knowledge	n.	ความรู้
+A2	lab	n.	ห้องปฏิบัติการ
+A2	lady	n.	สุภาพสตรี
+A2	lake	n.	ทะเลสาบ
+A2	lamp	n.	โคมไฟ
+A2	land	v.	ลงจอด
+A2	laptop	n.	แล็ปท็อป
+A2	last	adv., n.(final); v.(taking time)	สุดท้าย; คงอยู่ (เป็นเวลา)
+A2	later	adj.	ภายหลัง, ต่อมา
+A2	laughter	n.	เสียงหัวเราะ
+A2	law	n.	กฎหมาย
+A2	lawyer	n.	ทนายความ
+A2	lazy	adj.	ขี้เกียจ
+A2	lead	v.	นำ
+A2	leader	n.	ผู้นำ
+A2	learning	n.	การเรียนรู้
+A2	least	det., pron., adv.	น้อยที่สุด
+A2	lecture	n., v.	การบรรยาย
+A2	lemon	n.	มะนาวเหลือง
+A2	lend	v.	ให้ยืม
+A2	less	det., pron., adv.	น้อยกว่า
+A2	level	n.	ระดับ
+A2	lifestyle	n.	วิถีชีวิต
+A2	lift	v., n.	ยก; ลิฟต์
+A2	light	v.(from the sun/a lamp); adj.(not heavy)	จุดไฟ; เบา
+A2	likely	adj.	น่าจะเป็นไปได้
+A2	link	n., v.	ลิงก์; เชื่อมโยง
+A2	listener	n.	ผู้ฟัง
+A2	little	adv.	เล็กน้อย (อย่าง)
+A2	lock	v., n.	ล็อก; กุญแจล็อก
+A2	look	n.	การมอง
+A2	lorry	n.	รถบรรทุก
+A2	lost	adj.	หลงทาง; หายไป
+A2	loud	adj., adv.	ดัง
+A2	loudly	adv.	อย่างเสียงดัง
+A2	lovely	adj.	น่ารัก
+A2	low	adj., adv.	ต่ำ
+A2	luck	n.	โชค
+A2	lucky	adj.	โชคดี
+A2	mail	n., v.	จดหมาย; ส่งไปรษณีย์
+A2	major	adj.	สำคัญ, หลัก
+A2	male	adj., n.	เพศชาย
+A2	manage	v.	จัดการ
+A2	manager	n.	ผู้จัดการ
+A2	manner	n.	ลักษณะ, ท่าที
+A2	mark	v., n.	คะแนน; ทำเครื่องหมาย
+A2	marry	v.	แต่งงาน
+A2	material	n.	วัสดุ
+A2	mathematics	n.	คณิตศาสตร์
+A2	maths	n.	คณิตศาสตร์ (ย่อ)
+A2	matter	n., v.	เรื่อง; สำคัญ
+A2	may	modal v.	อาจจะ; ได้ (ขออนุญาต)
+A2	media	n.	สื่อ
+A2	medical	adj.	ทางการแพทย์
+A2	medicine	n.	ยา
+A2	memory	n.	ความทรงจำ
+A2	mention	v.	กล่าวถึง
+A2	metal	n.	โลหะ
+A2	method	n.	วิธีการ
+A2	middle	n., adj.	ตรงกลาง
+A2	might	modal v.	อาจจะ
+A2	mind	n., v.	จิตใจ; รังเกียจ
+A2	mine	pron.(belongs to me)	ของฉัน
+A2	mirror	n.	กระจกเงา
+A2	missing	adj.	หายไป
+A2	mobile	adj., n.	เคลื่อนที่ได้; โทรศัพท์มือถือ
+A2	monkey	n.	ลิง
+A2	moon	n.	ดวงจันทร์
+A2	mostly	adv.	ส่วนใหญ่
+A2	motorcycle	n.	รถจักรยานยนต์
+A2	movement	n.	การเคลื่อนไหว
+A2	musical	adj.	เกี่ยวกับดนตรี
+A2	musician	n.	นักดนตรี
+A2	myself	pron.	ตัวฉันเอง
+A2	narrow	adj.	แคบ
+A2	national	adj.	แห่งชาติ
+A2	nature	n.	ธรรมชาติ
+A2	nearly	adv.	เกือบ
+A2	necessary	adj.	จำเป็น
+A2	neck	n.	คอ
+A2	need	n.	ความจำเป็น
+A2	neither	det., pron.	ไม่ทั้งสอง
+A2	nervous	adj.	ประหม่า
+A2	network	n.	เครือข่าย
+A2	noise	n.	เสียงดัง
+A2	noisy	adj.	เสียงดัง, อึกทึก
+A2	none	pron.	ไม่มีเลย
+A2	normal	adj.	ปกติ
+A2	normally	adv.	ตามปกติ
+A2	notice	v., n.	สังเกต; ประกาศ
+A2	novel	n.	นวนิยาย
+A2	nowhere	adv.	ไม่มีที่ไหน
+A2	number	v.	ใส่หมายเลข
+A2	nut	n.	ถั่ว (เปลือกแข็ง)
+A2	ocean	n.	มหาสมุทร
+A2	offer	v., n.	เสนอ; ข้อเสนอ
+A2	officer	n.	เจ้าหน้าที่
+A2	oil	n.	น้ำมัน
+A2	onto	prep.	ขึ้นไปบน
+A2	opportunity	n.	โอกาส
+A2	option	n.	ตัวเลือก
+A2	ordinary	adj.	ธรรมดา
+A2	organization	n.	องค์กร
+A2	organize	v.	จัดระเบียบ, จัดงาน
+A2	original	adj.	ดั้งเดิม
+A2	ourselves	pron.	ตัวพวกเราเอง
+A2	outside	prep., n., adj.	ด้านนอก
+A2	oven	n.	เตาอบ
+A2	own	v.	เป็นเจ้าของ
+A2	owner	n.	เจ้าของ
+A2	pack	v.	แพ็กของ
+A2	pain	n.	ความเจ็บปวด
+A2	painter	n.	จิตรกร; ช่างทาสี
+A2	palace	n.	พระราชวัง
+A2	pants	n.	กางเกง
+A2	parking	n.	ที่จอดรถ
+A2	particular	adj.	เฉพาะ
+A2	pass	v.	ผ่าน; สอบผ่าน
+A2	passenger	n.	ผู้โดยสาร
+A2	past	adv.	ผ่านไป (อย่าง)
+A2	patient	n.	ผู้ป่วย
+A2	pattern	n.	รูปแบบ; ลวดลาย
+A2	pay	n.	ค่าจ้าง
+A2	peace	n.	สันติภาพ
+A2	penny	n.	เพนนี
+A2	per	prep.	ต่อ
+A2	per cent	n., adj., adv.	เปอร์เซ็นต์
+A2	perform	v.	แสดง
+A2	perhaps	adv.	บางที
+A2	permission	n.	การอนุญาต
+A2	personality	n.	บุคลิกภาพ
+A2	pet	n.	สัตว์เลี้ยง
+A2	petrol	n.	น้ำมันเบนซิน
+A2	photograph	v.	ถ่ายรูป
+A2	physical	adj.	ทางกาย
+A2	physics	n.	ฟิสิกส์
+A2	pick	v.	เลือก; เก็บ
+A2	pilot	n.	นักบิน
+A2	planet	n.	ดาวเคราะห์
+A2	plant	v.	ปลูก
+A2	plastic	n., adj.	พลาสติก
+A2	plate	n.	จาน
+A2	platform	n.	ชานชาลา
+A2	please	v.	ทำให้พอใจ
+A2	pleased	adj.	ยินดี, พอใจ
+A2	pocket	n.	กระเป๋าเสื้อ/กางเกง
+A2	polite	adj.	สุภาพ
+A2	pollution	n.	มลพิษ
+A2	pop	n., adj.	เพลงป๊อป
+A2	population	n.	ประชากร
+A2	position	n.	ตำแหน่ง
+A2	possession	n.	ทรัพย์สิน
+A2	possibility	n.	ความเป็นไปได้
+A2	poster	n.	โปสเตอร์
+A2	power	n.	พลัง, อำนาจ
+A2	predict	v.	ทำนาย
+A2	present	v.	นำเสนอ
+A2	president	n.	ประธานาธิบดี
+A2	prevent	v.	ป้องกัน
+A2	print	v.	พิมพ์
+A2	printer	n.	เครื่องพิมพ์
+A2	prison	n.	คุก
+A2	prize	n.	รางวัล
+A2	process	n.	กระบวนการ
+A2	produce	v.	ผลิต
+A2	professional	adj.	มืออาชีพ
+A2	professor	n.	ศาสตราจารย์
+A2	profile	n.	ประวัติย่อ, โปรไฟล์
+A2	program	n.	โปรแกรม
+A2	progress	n.	ความก้าวหน้า
+A2	promise	v., n.	สัญญา
+A2	pronounce	v.	ออกเสียง
+A2	protect	v.	ปกป้อง
+A2	provide	v.	จัดหาให้
+A2	pub	n.	ผับ
+A2	public	adj., n.	สาธารณะ
+A2	publish	v.	ตีพิมพ์
+A2	pull	v.	ดึง
+A2	purpose	n.	จุดประสงค์
+A2	push	v.	ผลัก
+A2	quality	n.	คุณภาพ
+A2	quantity	n.	ปริมาณ
+A2	queen	n.	ราชินี
+A2	question	v.	ตั้งคำถาม
+A2	quietly	adv.	อย่างเงียบๆ
+A2	race	n., v.(competition)	การแข่งขัน; แข่ง
+A2	railway	n.	ทางรถไฟ
+A2	raise	v.	ยกขึ้น
+A2	rate	n.	อัตรา
+A2	rather	adv.	ค่อนข้าง
+A2	reach	v.	ไปถึง
+A2	react	v.	ตอบสนอง
+A2	realize	v.	ตระหนัก
+A2	receive	v.	ได้รับ
+A2	recent	adj.	ล่าสุด
+A2	recently	adv.	เมื่อเร็วๆ นี้
+A2	reception	n.	แผนกต้อนรับ
+A2	recipe	n.	สูตรอาหาร
+A2	recognize	v.	จำได้
+A2	recommend	v.	แนะนำ
+A2	record	n., v.	บันทึก; สถิติ
+A2	recording	n.	การบันทึกเสียง
+A2	recycle	v.	รีไซเคิล
+A2	reduce	v.	ลด
+A2	refer	v.	อ้างถึง
+A2	refuse	v.	ปฏิเสธ
+A2	region	n.	ภูมิภาค
+A2	regular	adj.	สม่ำเสมอ
+A2	relationship	n.	ความสัมพันธ์
+A2	remove	v.	เอาออก
+A2	repair	v.	ซ่อมแซม
+A2	replace	v.	แทนที่
+A2	reply	v., n.	ตอบ; คำตอบ
+A2	report	v.	รายงาน (กริยา)
+A2	reporter	n.	ผู้สื่อข่าว
+A2	request	n.	คำขอ
+A2	research	n., v.	การวิจัย; วิจัย
+A2	researcher	n.	นักวิจัย
+A2	respond	v.	ตอบสนอง
+A2	response	n.	การตอบสนอง
+A2	rest	n.(remaining part); n., v.(sleep/relax)	ส่วนที่เหลือ; พักผ่อน
+A2	review	n., v.	ทบทวน; บทวิจารณ์
+A2	ride	n.	การขี่, การโดยสาร
+A2	ring	n.; v.	แหวน; (โทรศัพท์) ดัง
+A2	rise	v.	เพิ่มขึ้น; ขึ้น
+A2	rock	n.(stone); n.(music)	หิน; ดนตรีร็อก
+A2	role	n.	บทบาท
+A2	roof	n.	หลังคา
+A2	round	adj., adv., prep.	กลม; รอบๆ
+A2	route	n.	เส้นทาง
+A2	rubbish	n.	ขยะ
+A2	rude	adj.	หยาบคาย
+A2	run	n.	การวิ่ง
+A2	runner	n.	นักวิ่ง
+A2	running	n.	การวิ่ง
+A2	sadly	adv.	อย่างน่าเศร้า
+A2	safe	adj.	ปลอดภัย
+A2	sail	v.	แล่นเรือ
+A2	sailing	n.	การแล่นเรือใบ
+A2	salary	n.	เงินเดือน
+A2	sale	n.	การขาย
+A2	sauce	n.	ซอส
+A2	save	v.	ช่วยชีวิต; เก็บออม
+A2	scared	adj.	กลัว
+A2	scary	adj.	น่ากลัว
+A2	scene	n.	ฉาก
+A2	schedule	n.	ตารางเวลา
+A2	score	v., n.	คะแนน; ทำคะแนน
+A2	screen	n.	หน้าจอ
+A2	search	n., v.	ค้นหา; การค้นหา
+A2	season	n.	ฤดูกาล
+A2	seat	n.	ที่นั่ง
+A2	second	adv.(next after the first)	ประการที่สอง
+A2	secondly	adv.	ประการที่สอง
+A2	secret	adj., n.	ความลับ; ลับ
+A2	secretary	n.	เลขานุการ
+A2	seem	v.	ดูเหมือน
+A2	sense	n.	ความรู้สึก; ประสาทสัมผัส
+A2	separate	adj.	แยกกัน
+A2	series	n.	ซีรีส์; ชุด
+A2	serious	adj.	จริงจัง; ร้ายแรง
+A2	serve	v.	บริการ; เสิร์ฟ
+A2	service	n.	บริการ
+A2	several	det., pron.	หลาย
+A2	shake	v.	เขย่า
+A2	shall	modal v.	จะ
+A2	shape	n.	รูปร่าง
+A2	sheet	n.	แผ่น; ผ้าปูที่นอน
+A2	ship	n.	เรือ
+A2	shoulder	n.	ไหล่
+A2	shout	v., n.	ตะโกน
+A2	shut	v., adj.	ปิด
+A2	side	n.	ด้าน
+A2	sign	n., v.	ป้าย; เซ็นชื่อ
+A2	silver	n., adj.	เงิน (โลหะ)
+A2	simple	adj.	ง่าย
+A2	since	prep., conj.	ตั้งแต่; เนื่องจาก
+A2	singing	n.	การร้องเพลง
+A2	single	adj., n.	โสด; เดี่ยว
+A2	sir	n.	ท่าน (ชาย)
+A2	site	n.	สถานที่
+A2	size	n.	ขนาด
+A2	ski	v., adj., n.	เล่นสกี
+A2	skiing	n.	การเล่นสกี
+A2	skin	n.	ผิวหนัง
+A2	sky	n.	ท้องฟ้า
+A2	sleep	n.	การนอนหลับ
+A2	slowly	adv.	อย่างช้าๆ
+A2	smartphone	n.	สมาร์ตโฟน
+A2	smell	v., n.	กลิ่น; ได้กลิ่น
+A2	smile	v., n.	ยิ้ม; รอยยิ้ม
+A2	smoke	n., v.	ควัน; สูบบุหรี่
+A2	smoking	n.	การสูบบุหรี่
+A2	soap	n.	สบู่
+A2	soccer	n.	ฟุตบอล
+A2	social	adj.	ทางสังคม
+A2	society	n.	สังคม
+A2	sock	n.	ถุงเท้า
+A2	soft	adj.	นุ่ม
+A2	soldier	n.	ทหาร
+A2	solution	n.	ทางแก้
+A2	solve	v.	แก้ปัญหา
+A2	somewhere	adv., pron.	ที่ไหนสักแห่ง
+A2	sort	n.	ประเภท
+A2	source	n.	แหล่งที่มา
+A2	speaker	n.	ผู้พูด; ลำโพง
+A2	specific	adj.	เฉพาะเจาะจง
+A2	speech	n.	สุนทรพจน์
+A2	speed	n.	ความเร็ว
+A2	spider	n.	แมงมุม
+A2	spoon	n.	ช้อน
+A2	square	adj., n.	สี่เหลี่ยมจัตุรัส; จัตุรัส
+A2	stage	n.	เวที; ขั้น
+A2	stair	n.	ขั้นบันได
+A2	stamp	n.	แสตมป์
+A2	star	v.	แสดงนำ
+A2	start	n.	การเริ่มต้น
+A2	state	n.	รัฐ; สภาวะ
+A2	stay	n.	การพักอาศัย
+A2	steal	v.	ขโมย
+A2	step	n.	ก้าว; ขั้นตอน
+A2	stomach	n.	กระเพาะอาหาร, ท้อง
+A2	stone	n.	หิน
+A2	store	n.	ร้านค้า
+A2	storm	n.	พายุ
+A2	straight	adv., adj.	ตรง
+A2	strange	adj.	แปลก
+A2	strategy	n.	กลยุทธ์
+A2	stress	n., v.	ความเครียด
+A2	structure	n.	โครงสร้าง
+A2	stupid	adj.	โง่
+A2	succeed	v.	ประสบความสำเร็จ
+A2	successful	adj.	ประสบความสำเร็จ
+A2	such	det., pron.	เช่นนั้น
+A2	suddenly	adv.	ทันใดนั้น
+A2	suggest	v.	เสนอแนะ
+A2	suggestion	n.	ข้อเสนอแนะ
+A2	suit	n.	ชุดสูท
+A2	support	v., n.	สนับสนุน; การสนับสนุน
+A2	suppose	v.	สมมติ, คาดว่า
+A2	sure	adv.	แน่นอน (อย่าง)
+A2	surprise	n., v.	ความประหลาดใจ; ทำให้ประหลาดใจ
+A2	surprised	adj.	ประหลาดใจ
+A2	surprising	adj.	น่าประหลาดใจ
+A2	survey	n.	การสำรวจ
+A2	sweet	adj., n.	หวาน; ขนมหวาน
+A2	symbol	n.	สัญลักษณ์
+A2	system	n.	ระบบ
+A2	tablet	n.	แท็บเล็ต; ยาเม็ด
+A2	talk	n.	การพูดคุย; การบรรยาย
+A2	target	n.	เป้าหมาย
+A2	task	n.	งาน, ภารกิจ
+A2	taste	n., v.	รสชาติ; ชิม
+A2	teaching	n.	การสอน
+A2	technology	n.	เทคโนโลยี
+A2	teenage	adj.	วัยรุ่น
+A2	temperature	n.	อุณหภูมิ
+A2	term	n.	ภาคเรียน; ศัพท์
+A2	text	v.	ส่งข้อความ
+A2	themselves	pron.	ตัวพวกเขาเอง
+A2	thick	adj.	หนา
+A2	thief	n.	ขโมย
+A2	thin	adj.	บาง; ผอม
+A2	thinking	n.	ความคิด
+A2	third	n.	หนึ่งในสาม
+A2	thought	n.	ความคิด
+A2	throw	v.	ขว้าง, โยน
+A2	tidy	adj., v.	เป็นระเบียบ; จัดให้เรียบร้อย
+A2	tie	v., n.	ผูก; เนกไท
+A2	tip	n.	ปลาย; เคล็ดลับ; ทิป
+A2	tool	n.	เครื่องมือ
+A2	top	n., adj.	ด้านบนสุด
+A2	touch	v.	สัมผัส
+A2	tour	n.	ทัวร์
+A2	tourism	n.	การท่องเที่ยว
+A2	towards	prep.	ไปทาง
+A2	towel	n.	ผ้าเช็ดตัว
+A2	tower	n.	หอคอย
+A2	toy	n., adj.	ของเล่น
+A2	track	n.	ลู่วิ่ง; ทางเดิน
+A2	tradition	n.	ประเพณี
+A2	traditional	adj.	ดั้งเดิม
+A2	train	v.	ฝึก
+A2	trainer	n.	ผู้ฝึกสอน; รองเท้าผ้าใบ
+A2	training	n.	การฝึกอบรม
+A2	transport	n.	การขนส่ง
+A2	traveller	n.	นักเดินทาง
+A2	trouble	n.	ปัญหา
+A2	truck	n.	รถบรรทุก
+A2	twin	n., adj.	ฝาแฝด
+A2	typical	adj.	ทั่วไป, ตามแบบฉบับ
+A2	underground	adj., adv.	ใต้ดิน
+A2	understanding	n.	ความเข้าใจ
+A2	unfortunately	adv.	โชคไม่ดีที่
+A2	unhappy	adj.	ไม่มีความสุข
+A2	uniform	n.	เครื่องแบบ
+A2	unit	n.	หน่วย
+A2	united	adj.	รวมกัน
+A2	unusual	adj.	ผิดปกติ
+A2	upstairs	adj.	ที่อยู่ชั้นบน
+A2	use	n.	การใช้
+A2	used to	modal v.	เคย (ในอดีต)
+A2	user	n.	ผู้ใช้
+A2	usual	adj.	ปกติ
+A2	valley	n.	หุบเขา
+A2	van	n.	รถตู้
+A2	variety	n.	ความหลากหลาย
+A2	vehicle	n.	ยานพาหนะ
+A2	view	n.	ทิวทัศน์; มุมมอง
+A2	virus	n.	ไวรัส
+A2	voice	n.	เสียง
+A2	wait	n.	การรอคอย
+A2	war	n.	สงคราม
+A2	wash	n.	การล้าง
+A2	washing	n.	การซักผ้า
+A2	wave	n.	คลื่น; โบกมือ
+A2	weak	adj.	อ่อนแอ
+A2	web	n.	เว็บ
+A2	wedding	n.	งานแต่งงาน
+A2	weight	n.	น้ำหนัก
+A2	welcome	n.	การต้อนรับ
+A2	wet	adj.	เปียก
+A2	wheel	n.	ล้อ
+A2	while	conj.	ขณะที่
+A2	whole	adj.	ทั้งหมด
+A2	whose	det., pron.	ของใคร
+A2	wide	adj.	กว้าง
+A2	wild	adj.	ป่า, ดุร้าย
+A2	wind	n.	ลม
+A2	winner	n.	ผู้ชนะ
+A2	wish	v., n.	ปรารถนา; คำอวยพร
+A2	wood	n.	ไม้
+A2	wooden	adj.	ทำด้วยไม้
+A2	working	adj.	ที่ทำงานอยู่
+A2	worried	adj.	กังวล
+A2	worry	v.	กังวล
+A2	worse	adj.	แย่กว่า
+A2	worst	adj.	แย่ที่สุด
+A2	wow	exclam.	ว้าว
+A2	yet	adv.	ยัง
+A2	yours	pron.	ของคุณ
+A2	zero	number	ศูนย์
+B1	absolutely	adv.	อย่างแน่นอน, อย่างสิ้นเชิง
+B1	academic	adj.	ทางวิชาการ
+B1	access	n., v.	การเข้าถึง; เข้าถึง
+B1	accommodation	n.	ที่พัก
+B1	account	n.	บัญชี
+B1	achievement	n.	ความสำเร็จ
+B1	act	n.	การกระทำ; พระราชบัญญัติ
+B1	ad	n.	โฆษณา
+B1	addition	n.	การเพิ่ม
+B1	admire	v.	ชื่นชม
+B1	admit	v.	ยอมรับ
+B1	advanced	adj.	ขั้นสูง
+B1	advise	v.	แนะนำ
+B1	afford	v.	มีเงินพอจ่าย
+B1	age	v.	แก่ขึ้น
+B1	aged	adj.	มีอายุ
+B1	agent	n.	ตัวแทน
+B1	agreement	n.	ข้อตกลง
+B1	ahead	adv.	ข้างหน้า
+B1	aim	v., n.	มุ่งหมาย; เป้าหมาย
+B1	alarm	n.	สัญญาณเตือน
+B1	album	n.	อัลบั้ม
+B1	alcohol	n.	แอลกอฮอล์
+B1	alcoholic	adj.	มีแอลกอฮอล์
+B1	alternative	adj.	ที่เป็นทางเลือก
+B1	amazed	adj.	ประหลาดใจมาก
+B1	ambition	n.	ความทะเยอทะยาน
+B1	ambitious	adj.	ทะเยอทะยาน
+B1	analyse	v.	วิเคราะห์
+B1	analysis	n.	การวิเคราะห์
+B1	announce	v.	ประกาศ
+B1	announcement	n.	การประกาศ
+B1	annoy	v.	ทำให้รำคาญ
+B1	annoyed	adj.	รำคาญ
+B1	annoying	adj.	น่ารำคาญ
+B1	apart	adv.	แยกจากกัน
+B1	apologize	v.	ขอโทษ
+B1	application	n.	ใบสมัคร; การประยุกต์ใช้
+B1	appointment	n.	การนัดหมาย
+B1	appreciate	v.	ซาบซึ้ง, เห็นคุณค่า
+B1	approximately	adv.	ประมาณ
+B1	arrest	v., n.	จับกุม; การจับกุม
+B1	arrival	n.	การมาถึง
+B1	assignment	n.	งานที่ได้รับมอบหมาย
+B1	assist	v.	ช่วยเหลือ
+B1	atmosphere	n.	บรรยากาศ
+B1	attach	v.	แนบ
+B1	attitude	n.	ทัศนคติ
+B1	attract	v.	ดึงดูด
+B1	attraction	n.	สถานที่ท่องเที่ยว; แรงดึงดูด
+B1	authority	n.	อำนาจ; เจ้าหน้าที่
+B1	average	v.	เฉลี่ยได้
+B1	award	v.	มอบรางวัล
+B1	aware	adj.	ตระหนัก, รู้ตัว
+B1	backwards	adv.	ถอยหลัง
+B1	bake	v.	อบ
+B1	balance	n., v.	ความสมดุล; ทรงตัว
+B1	ban	v., n.	ห้าม; การห้าม
+B1	bank	n.(river)	ตลิ่ง, ริมฝั่งแม่น้ำ
+B1	base	n., v.	ฐาน; ตั้งอยู่บน
+B1	basic	adj.	พื้นฐาน
+B1	basis	n.	พื้นฐาน, หลัก
+B1	battery	n.	แบตเตอรี่
+B1	battle	n.	การต่อสู้
+B1	beauty	n.	ความงาม
+B1	bee	n.	ผึ้ง
+B1	belief	n.	ความเชื่อ
+B1	bell	n.	กระดิ่ง
+B1	bend	v., n.	งอ; ทางโค้ง
+B1	benefit	v.	ได้ประโยชน์
+B1	better	n.	สิ่งที่ดีกว่า
+B1	bite	v., n.	กัด; รอยกัด
+B1	block	n., v.	ตึก, ช่วงถนน; ปิดกั้น
+B1	board	v.	ขึ้น (เรือ/เครื่องบิน)
+B1	bomb	n., v.	ระเบิด; ทิ้งระเบิด
+B1	border	n.	ชายแดน
+B1	bother	v.	รบกวน
+B1	branch	n.	กิ่งไม้; สาขา
+B1	brand	n., v.	ยี่ห้อ, แบรนด์
+B1	brave	adj.	กล้าหาญ
+B1	breath	n.	ลมหายใจ
+B1	breathe	v.	หายใจ
+B1	breathing	n.	การหายใจ
+B1	bride	n.	เจ้าสาว
+B1	bubble	n.	ฟองอากาศ
+B1	bury	v.	ฝัง
+B1	by	adv.	ผ่านไป
+B1	calm	adj., v., n.	สงบ; ทำให้สงบ
+B1	campaign	n., v.	การรณรงค์; รณรงค์
+B1	campus	n.	วิทยาเขต
+B1	candidate	n.	ผู้สมัคร
+B1	cap	n.	หมวกแก๊ป; ฝา
+B1	captain	n.	กัปตัน
+B1	careless	adj.	สะเพร่า
+B1	category	n.	ประเภท
+B1	ceiling	n.	เพดาน
+B1	celebration	n.	การเฉลิมฉลอง
+B1	central	adj.	ส่วนกลาง
+B1	centre	v.	ทำให้อยู่ตรงกลาง
+B1	ceremony	n.	พิธี
+B1	chain	n.	โซ่; เครือ (ร้าน)
+B1	challenge	n.	ความท้าทาย
+B1	champion	n.	แชมป์
+B1	channel	n.	ช่อง (ทีวี)
+B1	chapter	n.	บท (หนังสือ)
+B1	charge	n., v.	ค่าธรรมเนียม; คิดค่า; ชาร์จ
+B1	cheap	adv.	ในราคาถูก
+B1	cheat	v., n.	โกง; คนโกง
+B1	cheerful	adj.	ร่าเริง
+B1	chemical	adj., n.	สารเคมี; ทางเคมี
+B1	chest	n.	หน้าอก
+B1	childhood	n.	วัยเด็ก
+B1	claim	v., n.	อ้าง; การอ้างสิทธิ์
+B1	clause	n.	อนุประโยค
+B1	clear	v.	เคลียร์, ทำให้ว่าง
+B1	click	v., n.	คลิก
+B1	client	n.	ลูกค้า
+B1	climb	n.	การปีน
+B1	close	adv.	ใกล้ (อย่าง)
+B1	cloth	n.	ผ้า
+B1	clue	n.	เบาะแส
+B1	coach	v.	ฝึกสอน
+B1	coal	n.	ถ่านหิน
+B1	coin	n.	เหรียญ
+B1	collection	n.	การสะสม; คอลเลกชัน
+B1	coloured	adj.	มีสี
+B1	combine	v.	ผสมผสาน
+B1	comment	v.	แสดงความคิดเห็น
+B1	commercial	adj., n.	ทางการค้า; โฆษณาทางทีวี
+B1	commit	v.	กระทำ (ความผิด)
+B1	communication	n.	การสื่อสาร
+B1	comparison	n.	การเปรียบเทียบ
+B1	competitor	n.	คู่แข่ง
+B1	competitive	adj.	เชิงแข่งขัน
+B1	complaint	n.	การร้องเรียน
+B1	complex	adj.	ซับซ้อน
+B1	concentrate	v.	ตั้งสมาธิ
+B1	conclude	v.	สรุป
+B1	conclusion	n.	บทสรุป
+B1	confident	adj.	มั่นใจ
+B1	confirm	v.	ยืนยัน
+B1	confuse	v.	ทำให้สับสน
+B1	confused	adj.	สับสน
+B1	connection	n.	การเชื่อมต่อ
+B1	consequence	n.	ผลที่ตามมา
+B1	consist	v.	ประกอบด้วย
+B1	consume	v.	บริโภค
+B1	consumer	n.	ผู้บริโภค
+B1	contact	n., v.	การติดต่อ; ติดต่อ
+B1	container	n.	ภาชนะ
+B1	content	n.	เนื้อหา
+B1	continuous	adj.	ต่อเนื่อง
+B1	contrast	n., v.	ความแตกต่าง; เปรียบเทียบ
+B1	convenient	adj.	สะดวก
+B1	convince	v.	โน้มน้าว
+B1	cool	v.	ทำให้เย็น
+B1	costume	n.	เครื่องแต่งกาย
+B1	cottage	n.	กระท่อม
+B1	cotton	n.	ฝ้าย
+B1	count	n.	การนับ
+B1	countryside	n.	ชนบท
+B1	court	n.	ศาล; สนาม
+B1	cover	n.	ปก; ฝาครอบ
+B1	covered	adj.	ถูกปกคลุม
+B1	cream	adj.	สีครีม
+B1	criminal	adj.	ทางอาญา
+B1	cruel	adj.	โหดร้าย
+B1	cultural	adj.	ทางวัฒนธรรม
+B1	currency	n.	สกุลเงิน
+B1	current	adj.	ปัจจุบัน
+B1	currently	adv.	ในปัจจุบัน
+B1	curtain	n.	ผ้าม่าน
+B1	custom	n.	ธรรมเนียม
+B1	cut	n.	รอยตัด; การลด
+B1	daily	adv.	ทุกวัน (อย่าง)
+B1	damage	n., v.	ความเสียหาย; ทำให้เสียหาย
+B1	deal	n.	ข้อตกลง
+B1	decade	n.	ทศวรรษ
+B1	decorate	v.	ตกแต่ง
+B1	deep	adv.	ลึก (อย่าง)
+B1	define	v.	นิยาม
+B1	definite	adj.	แน่นอน
+B1	definition	n.	คำนิยาม
+B1	deliver	v.	ส่งมอบ
+B1	departure	n.	การออกเดินทาง
+B1	despite	prep.	แม้ว่า
+B1	destination	n.	จุดหมายปลายทาง
+B1	determine	v.	กำหนด
+B1	determined	adj.	มุ่งมั่น
+B1	development	n.	การพัฒนา
+B1	diagram	n.	แผนภาพ
+B1	diamond	n.	เพชร
+B1	difficulty	n.	ความยากลำบาก
+B1	direct	v., adv.	กำกับ; โดยตรง
+B1	directly	adv.	โดยตรง
+B1	dirt	n.	สิ่งสกปรก
+B1	disadvantage	n.	ข้อเสีย
+B1	disappointed	adj.	ผิดหวัง
+B1	disappointing	adj.	น่าผิดหวัง
+B1	discount	n.	ส่วนลด
+B1	dislike	v., n.	ไม่ชอบ
+B1	divide	v.	แบ่ง
+B1	documentary	n.	สารคดี
+B1	donate	v.	บริจาค
+B1	double	adv.	เป็นสองเท่า
+B1	doubt	n., v.	ความสงสัย; สงสัย
+B1	dressed	adj.	แต่งตัวแล้ว
+B1	drop	n.	หยด; การลดลง
+B1	drum	n.	กลอง
+B1	drunk	adj.	เมา
+B1	due	adj.	ครบกำหนด; เนื่องจาก
+B1	dust	n.	ฝุ่น
+B1	duty	n.	หน้าที่
+B1	earthquake	n.	แผ่นดินไหว
+B1	eastern	adj.	ทางตะวันออก
+B1	economic	adj.	ทางเศรษฐกิจ
+B1	economy	n.	เศรษฐกิจ
+B1	edge	n.	ขอบ
+B1	editor	n.	บรรณาธิการ
+B1	educate	v.	ให้การศึกษา
+B1	educated	adj.	มีการศึกษา
+B1	educational	adj.	ทางการศึกษา
+B1	effective	adj.	มีประสิทธิผล
+B1	effectively	adv.	อย่างมีประสิทธิผล
+B1	effort	n.	ความพยายาม
+B1	election	n.	การเลือกตั้ง
+B1	element	n.	องค์ประกอบ; ธาตุ
+B1	embarrassed	adj.	อาย
+B1	embarrassing	adj.	น่าอาย
+B1	emergency	n.	เหตุฉุกเฉิน
+B1	emotion	n.	อารมณ์
+B1	employment	n.	การจ้างงาน
+B1	empty	v.	ทำให้ว่าง
+B1	encourage	v.	สนับสนุน, ให้กำลังใจ
+B1	enemy	n.	ศัตรู
+B1	engaged	adj.	หมั้นแล้ว; ไม่ว่าง
+B1	engineering	n.	วิศวกรรม
+B1	entertain	v.	ให้ความบันเทิง
+B1	entertainment	n.	ความบันเทิง
+B1	entrance	n.	ทางเข้า
+B1	entry	n.	การเข้า
+B1	environmental	adj.	ทางสิ่งแวดล้อม
+B1	episode	n.	ตอน (ละคร)
+B1	equal	adj., v.	เท่ากัน; เท่ากับ
+B1	equally	adv.	อย่างเท่าเทียม
+B1	escape	v., n.	หลบหนี; การหลบหนี
+B1	essential	adj.	จำเป็นอย่างยิ่ง
+B1	eventually	adv.	ในที่สุด
+B1	examine	v.	ตรวจสอบ
+B1	except	conj.	ยกเว้นว่า
+B1	exchange	n., v.	การแลกเปลี่ยน; แลกเปลี่ยน
+B1	excitement	n.	ความตื่นเต้น
+B1	exhibition	n.	นิทรรศการ
+B1	expand	v.	ขยาย
+B1	expected	adj.	ที่คาดไว้
+B1	expedition	n.	การสำรวจ
+B1	experience	v.	ประสบ
+B1	experienced	adj.	มีประสบการณ์
+B1	experiment	v.	ทดลอง
+B1	explode	v.	ระเบิด
+B1	explore	v.	สำรวจ
+B1	explosion	n.	การระเบิด
+B1	export	n., v.	การส่งออก; ส่งออก
+B1	extra	n., adv.	สิ่งที่เพิ่มเติม; เป็นพิเศษ
+B1	face	v.	เผชิญหน้า
+B1	fairly	adv.	ค่อนข้าง; อย่างยุติธรรม
+B1	familiar	adj.	คุ้นเคย
+B1	fancy	v., adj.	อยาก; หรูหรา
+B1	far	adj.	ไกล (คำคุณศัพท์)
+B1	fascinating	adj.	น่าหลงใหล
+B1	fashionable	adj.	ทันสมัย
+B1	fasten	v.	รัด, ผูก
+B1	favour	n.	ความช่วยเหลือ
+B1	fear	v.	กลัว
+B1	feature	v.	มี... เป็นจุดเด่น
+B1	fence	n.	รั้ว
+B1	fighting	n.	การต่อสู้
+B1	file	n.	แฟ้ม, ไฟล์
+B1	financial	adj.	ทางการเงิน
+B1	fire	v.	ยิง; ไล่ออก
+B1	fitness	n.	สมรรถภาพร่างกาย
+B1	fixed	adj.	คงที่
+B1	flag	n.	ธง
+B1	flood	n., v.	น้ำท่วม
+B1	flour	n.	แป้ง
+B1	flow	v., n.	ไหล; การไหล
+B1	fold	v.	พับ
+B1	folk	n., adj.	ผู้คน; พื้นบ้าน
+B1	following	n.	ผู้ติดตาม
+B1	force	n., v.	กำลัง; บังคับ
+B1	forever	adv.	ตลอดไป
+B1	frame	n., v.	กรอบ; ใส่กรอบ
+B1	freeze	v.	แช่แข็ง
+B1	frequently	adv.	บ่อยๆ
+B1	friendship	n.	มิตรภาพ
+B1	frighten	v.	ทำให้ตกใจ
+B1	frightened	adj.	ตกใจกลัว
+B1	frightening	adj.	น่ากลัว
+B1	frozen	adj.	แช่แข็ง
+B1	fry	v.	ทอด
+B1	fuel	n.	เชื้อเพลิง
+B1	function	n.	หน้าที่, การทำงาน
+B1	fur	n.	ขนสัตว์
+B1	further	adv.	ยิ่งไปกว่านั้น
+B1	garage	n.	โรงรถ
+B1	gather	v.	รวบรวม
+B1	generally	adv.	โดยทั่วไป
+B1	generation	n.	รุ่น, คนรุ่น
+B1	generous	adj.	ใจกว้าง
+B1	gentle	adj.	อ่อนโยน
+B1	gentleman	n.	สุภาพบุรุษ
+B1	ghost	n.	ผี
+B1	giant	adj., n.	ยักษ์; ใหญ่โต
+B1	glad	adj.	ดีใจ
+B1	global	adj.	ระดับโลก
+B1	glove	n.	ถุงมือ
+B1	go	n.	ตา (ถึงคิว), การลอง
+B1	goods	n.	สินค้า
+B1	grade	n.	เกรด, ระดับ
+B1	graduate	n., v.	บัณฑิต; สำเร็จการศึกษา
+B1	grain	n.	เมล็ดพืช
+B1	grateful	adj.	รู้สึกขอบคุณ
+B1	growth	n.	การเติบโต
+B1	guard	n., v.	ยาม; เฝ้า
+B1	guilty	adj.	มีความผิด; รู้สึกผิด
+B1	hand	v.	ยื่นให้
+B1	hang	v.	แขวน
+B1	happiness	n.	ความสุข
+B1	hardly	adv.	แทบจะไม่
+B1	hate	n.	ความเกลียด
+B1	head	v.	มุ่งหน้าไป
+B1	headline	n.	พาดหัวข่าว
+B1	heating	n.	ระบบทำความร้อน
+B1	heavily	adv.	อย่างหนัก
+B1	helicopter	n.	เฮลิคอปเตอร์
+B1	highlight	v., n.	เน้น; ไฮไลต์
+B1	highly	adv.	อย่างสูง
+B1	hire	v.	เช่า; จ้าง
+B1	historic	adj.	สำคัญทางประวัติศาสตร์
+B1	historical	adj.	ทางประวัติศาสตร์
+B1	honest	adj.	ซื่อสัตย์
+B1	horrible	adj.	น่ากลัว, แย่มาก
+B1	horror	n.	ความสยองขวัญ
+B1	host	n.	เจ้าภาพ; พิธีกร
+B1	hunt	v.	ล่า
+B1	hurricane	n.	พายุเฮอริเคน
+B1	hurry	n., v.	รีบ; ความรีบร้อน
+B1	identity	n.	ตัวตน
+B1	ignore	v.	เพิกเฉย
+B1	illegal	adj.	ผิดกฎหมาย
+B1	imaginary	adj.	ในจินตนาการ
+B1	immediate	adj.	ทันที
+B1	immigrant	n.	ผู้อพยพ
+B1	impact	n., v.	ผลกระทบ; ส่งผลกระทบ
+B1	import	n., v.	การนำเข้า; นำเข้า
+B1	importance	n.	ความสำคัญ
+B1	impression	n.	ความประทับใจ
+B1	impressive	adj.	น่าประทับใจ
+B1	improvement	n.	การปรับปรุง
+B1	incredibly	adv.	อย่างเหลือเชื่อ
+B1	indeed	adv.	จริงๆ
+B1	indicate	v.	บ่งชี้
+B1	indirect	adj.	ทางอ้อม
+B1	indoor	adj.	ในร่ม
+B1	indoors	adv.	ภายในอาคาร
+B1	influence	n., v.	อิทธิพล; มีอิทธิพล
+B1	ingredient	n.	ส่วนผสม
+B1	injure	v.	ทำให้บาดเจ็บ
+B1	injured	adj.	ได้รับบาดเจ็บ
+B1	innocent	adj.	บริสุทธิ์
+B1	intelligence	n.	สติปัญญา
+B1	intend	v.	ตั้งใจ
+B1	intention	n.	ความตั้งใจ
+B1	invest	v.	ลงทุน
+B1	investigate	v.	สืบสวน
+B1	involved	adj.	มีส่วนเกี่ยวข้อง
+B1	iron	n., v.	เหล็ก; รีดผ้า
+B1	issue	n.	ประเด็น
+B1	IT	n.	เทคโนโลยีสารสนเทศ
+B1	journal	n.	วารสาร
+B1	judge	n., v.	ผู้พิพากษา; ตัดสิน
+B1	keen	adj.	กระตือรือร้น
+B1	key	v.	พิมพ์ (ข้อมูล)
+B1	keyboard	n.	แป้นพิมพ์
+B1	kick	v., n.	เตะ
+B1	killing	n.	การฆ่า
+B1	kind	adj.(caring)	ใจดี
+B1	kiss	v., n.	จูบ
+B1	knock	n.	การเคาะ
+B1	label	n., v.	ป้าย; ติดป้าย
+B1	laboratory	n.	ห้องปฏิบัติการ
+B1	lack	n., v.	การขาด; ขาด
+B1	latest	adj.	ล่าสุด
+B1	lay	v.	วาง
+B1	layer	n.	ชั้น
+B1	lead	n.	การนำ; ตัวนำ
+B1	leading	adj.	ชั้นนำ
+B1	leaf	n.	ใบไม้
+B1	leather	n.	หนัง (สัตว์)
+B1	legal	adj.	ถูกกฎหมาย
+B1	leisure	n.	เวลาว่าง
+B1	length	n.	ความยาว
+B1	level	adj.	ระดับเดียวกัน, ราบ
+B1	lie	v., n.(tell a lie)	โกหก; คำโกหก
+B1	like	n.(find sb/sth pleasant)	สิ่งที่ชอบ
+B1	limit	n., v.	ขีดจำกัด; จำกัด
+B1	lip	n.	ริมฝีปาก
+B1	liquid	n., adj.	ของเหลว
+B1	literature	n.	วรรณกรรม
+B1	live	adj., adv.	สด; ถ่ายทอดสด
+B1	living	adj., n.	การดำรงชีวิต; มีชีวิต
+B1	local	n.	คนท้องถิ่น
+B1	locate	v.	หาตำแหน่ง
+B1	located	adj.	ตั้งอยู่
+B1	location	n.	ทำเล, ตำแหน่ง
+B1	lonely	adj.	เหงา
+B1	loss	n.	การสูญเสีย
+B1	luxury	n.	ความหรูหรา
+B1	mad	adj.	บ้า; โกรธ
+B1	magic	n., adj.	เวทมนตร์
+B1	mainly	adv.	ส่วนใหญ่
+B1	mall	n.	ห้างสรรพสินค้า
+B1	management	n.	การจัดการ
+B1	market	v.	ทำการตลาด
+B1	marketing	n.	การตลาด
+B1	marriage	n.	การแต่งงาน
+B1	meanwhile	adv.	ในขณะเดียวกัน
+B1	measure	v., n.	วัด; มาตรการ
+B1	medium	adj.	ขนาดกลาง
+B1	mental	adj.	ทางจิตใจ
+B1	mention	n.	การกล่าวถึง
+B1	mess	n.	ความรก
+B1	mild	adj.	อ่อนๆ, ไม่รุนแรง
+B1	mine	n.(hole in the ground)	เหมือง
+B1	mix	v., n.	ผสม; ส่วนผสม
+B1	mixture	n.	ส่วนผสม
+B1	mood	n.	อารมณ์
+B1	move	n.	การเคลื่อนไหว; การย้าย
+B1	mud	n.	โคลน
+B1	murder	n., v.	การฆาตกรรม; ฆาตกรรม
+B1	muscle	n.	กล้ามเนื้อ
+B1	musical	n.	ละครเพลง
+B1	mystery	n.	ความลึกลับ
+B1	nail	n.	เล็บ; ตะปู
+B1	narrative	n., adj.	เรื่องเล่า
+B1	nation	n.	ชาติ
+B1	native	adj., n.	พื้นเมือง; เจ้าของภาษา
+B1	naturally	adv.	โดยธรรมชาติ
+B1	necessarily	adv.	อย่างจำเป็น
+B1	need	modal v.	จำเป็นต้อง
+B1	needle	n.	เข็ม
+B1	neighbourhood	n.	ละแวกบ้าน
+B1	neither	adv.	ก็ไม่ (เช่นกัน)
+B1	net	n.	ตาข่าย
+B1	next	n.	คนถัดไป
+B1	nor	conj., adv.	และไม่
+B1	normal	n.	ภาวะปกติ
+B1	northern	adj.	ทางเหนือ
+B1	note	v.	จดบันทึก
+B1	now	conj.	ตอนนี้ที่
+B1	nuclear	adj.	นิวเคลียร์
+B1	obvious	adj.	ชัดเจน
+B1	obviously	adv.	อย่างเห็นได้ชัด
+B1	occasion	n.	โอกาส, วาระ
+B1	occur	v.	เกิดขึ้น
+B1	odd	adj.	แปลก; คี่
+B1	official	adj.	อย่างเป็นทางการ
+B1	old-fashioned	adj.	ล้าสมัย
+B1	once	conj.	ทันทีที่
+B1	operation	n.	การผ่าตัด; การดำเนินการ
+B1	organized	adj.	เป็นระเบียบ
+B1	organizer	n.	ผู้จัด
+B1	original	n.	ต้นฉบับ
+B1	originally	adv.	แต่เดิม
+B1	ought	modal v.	ควรจะ
+B1	ours	pron.	ของเรา
+B1	outdoor	adj.	กลางแจ้ง
+B1	outdoors	adv.	ข้างนอก, กลางแจ้ง
+B1	pack	n.	ห่อ, แพ็ก
+B1	package	n.	พัสดุ
+B1	painful	adj.	เจ็บปวด
+B1	pale	adj.	ซีด
+B1	pan	n.	กระทะ
+B1	participate	v.	มีส่วนร่วม
+B1	particularly	adv.	โดยเฉพาะอย่างยิ่ง
+B1	pass	n.	บัตรผ่าน
+B1	passion	n.	ความหลงใหล
+B1	path	n.	ทางเดิน
+B1	payment	n.	การชำระเงิน
+B1	peaceful	adj.	สงบสุข
+B1	percentage	n.	ร้อยละ
+B1	perfectly	adv.	อย่างสมบูรณ์แบบ
+B1	performance	n.	การแสดง; ผลการปฏิบัติงาน
+B1	personally	adv.	โดยส่วนตัว
+B1	persuade	v.	ชักชวน, โน้มน้าว
+B1	photographer	n.	ช่างภาพ
+B1	photography	n.	การถ่ายภาพ
+B1	pin	n., v.	เข็มหมุด; ปักหมุด
+B1	pipe	n.	ท่อ
+B1	place	v.	วาง
+B1	planning	n.	การวางแผน
+B1	pleasant	adj.	น่ารื่นรมย์
+B1	pleasure	n.	ความพอใจ
+B1	plenty	pron.	มากมาย
+B1	plot	n.	โครงเรื่อง
+B1	plus	prep.	บวก
+B1	poem	n.	บทกวี
+B1	poet	n.	กวี
+B1	poetry	n.	กวีนิพนธ์
+B1	point	v.	ชี้
+B1	poison	n., v.	ยาพิษ; วางยาพิษ
+B1	poisonous	adj.	มีพิษ
+B1	policy	n.	นโยบาย
+B1	political	adj.	ทางการเมือง
+B1	politician	n.	นักการเมือง
+B1	politics	n.	การเมือง
+B1	port	n.	ท่าเรือ
+B1	portrait	n.	ภาพเหมือน
+B1	possibly	adv.	อาจจะ
+B1	pot	n.	หม้อ
+B1	pour	v.	เท
+B1	poverty	n.	ความยากจน
+B1	powder	n.	ผง
+B1	powerful	adj.	ทรงพลัง
+B1	practical	adj.	ใช้ได้จริง
+B1	pray	v.	สวดมนต์
+B1	prayer	n.	คำอธิษฐาน
+B1	prediction	n.	การทำนาย
+B1	prepared	adj.	เตรียมพร้อม
+B1	presentation	n.	การนำเสนอ
+B1	press	n., v.	สื่อมวลชน; กด
+B1	pressure	n.	ความกดดัน
+B1	pretend	v.	แกล้งทำ
+B1	previous	adj.	ก่อนหน้า
+B1	previously	adv.	ก่อนหน้านี้
+B1	priest	n.	บาทหลวง
+B1	primary	adj.	หลัก; ประถม
+B1	prince	n.	เจ้าชาย
+B1	princess	n.	เจ้าหญิง
+B1	printing	n.	การพิมพ์
+B1	prisoner	n.	นักโทษ
+B1	private	adj.	ส่วนตัว; เอกชน
+B1	producer	n.	ผู้ผลิต
+B1	production	n.	การผลิต
+B1	profession	n.	อาชีพ
+B1	profit	n.	กำไร
+B1	program	v.	เขียนโปรแกรม
+B1	promote	v.	ส่งเสริม; เลื่อนตำแหน่ง
+B1	proper	adj.	เหมาะสม
+B1	properly	adv.	อย่างเหมาะสม
+B1	property	n.	ทรัพย์สิน
+B1	protest	n., v.	การประท้วง; ประท้วง
+B1	proud	adj.	ภูมิใจ
+B1	prove	v.	พิสูจน์
+B1	pull	n.	การดึง
+B1	punish	v.	ลงโทษ
+B1	punishment	n.	การลงโทษ
+B1	push	n.	การผลัก
+B1	qualification	n.	คุณวุฒิ
+B1	qualified	adj.	มีคุณสมบัติ
+B1	qualify	v.	มีคุณสมบัติ; ผ่านเข้ารอบ
+B1	queue	n., v.	แถว; เข้าแถว
+B1	quit	v.	ลาออก, เลิก
+B1	quotation	n.	คำพูดที่ยกมา
+B1	quote	v., n.	ยกคำพูด
+B1	race	n.(people)	เชื้อชาติ
+B1	racing	n.	การแข่ง (รถ/ม้า)
+B1	range	n.	ขอบเขต, ช่วง
+B1	rare	adj.	หายาก
+B1	rarely	adv.	แทบไม่เคย
+B1	reaction	n.	ปฏิกิริยา
+B1	reality	n.	ความเป็นจริง
+B1	receipt	n.	ใบเสร็จ
+B1	recommendation	n.	คำแนะนำ
+B1	reference	n.	การอ้างอิง
+B1	reflect	v.	สะท้อน
+B1	regularly	adv.	อย่างสม่ำเสมอ
+B1	reject	v.	ปฏิเสธ
+B1	relate	v.	เกี่ยวข้อง
+B1	related	adj.	ที่เกี่ยวข้อง
+B1	relation	n.	ความสัมพันธ์
+B1	relative	adj., n.	ญาติ; สัมพัทธ์
+B1	relaxed	adj.	ผ่อนคลาย
+B1	relaxing	adj.	ที่ทำให้ผ่อนคลาย
+B1	release	v., n.	ปล่อย; การปล่อย
+B1	reliable	adj.	เชื่อถือได้
+B1	religion	n.	ศาสนา
+B1	religious	adj.	ทางศาสนา
+B1	remain	v.	คงอยู่
+B1	remind	v.	เตือนความจำ
+B1	remote	adj.	ห่างไกล
+B1	rent	n., v.	ค่าเช่า; เช่า
+B1	repair	n.	การซ่อมแซม
+B1	repeat	n.	การทำซ้ำ; รายการฉายซ้ำ
+B1	repeated	adj.	ซ้ำๆ
+B1	represent	v.	เป็นตัวแทน
+B1	request	v.	ขอร้อง
+B1	require	v.	ต้องการ
+B1	reservation	n.	การจอง
+B1	resource	n.	ทรัพยากร
+B1	respect	n., v.	ความเคารพ; เคารพ
+B1	responsibility	n.	ความรับผิดชอบ
+B1	responsible	adj.	รับผิดชอบ
+B1	result	v.	เป็นผลให้
+B1	retire	v.	เกษียณ
+B1	retired	adj.	เกษียณแล้ว
+B1	revise	v.	ทบทวน; แก้ไข
+B1	ring	n.	วง; เสียงกริ่ง
+B1	rise	n.	การเพิ่มขึ้น
+B1	risk	n., v.	ความเสี่ยง; เสี่ยง
+B1	robot	n.	หุ่นยนต์
+B1	roll	v., n.	กลิ้ง; ม้วน
+B1	romantic	adj.	โรแมนติก
+B1	rope	n.	เชือก
+B1	rough	adj.	หยาบ; คร่าวๆ
+B1	row	n.	แถว
+B1	royal	adj.	ของราชวงศ์
+B1	rugby	n.	รักบี้
+B1	rule	v.	ปกครอง
+B1	safety	n.	ความปลอดภัย
+B1	sail	n.	ใบเรือ
+B1	sailor	n.	กะลาสี
+B1	sample	n.	ตัวอย่าง
+B1	sand	n.	ทราย
+B1	scan	v.	สแกน
+B1	scientific	adj.	ทางวิทยาศาสตร์
+B1	script	n.	บท (ละคร/ภาพยนตร์)
+B1	sculpture	n.	ประติมากรรม
+B1	secondary	adj.	รอง; มัธยม
+B1	security	n.	ความปลอดภัย; การรักษาความปลอดภัย
+B1	seed	n.	เมล็ดพันธุ์
+B1	sensible	adj.	มีเหตุผล
+B1	separate	v.	แยก
+B1	seriously	adv.	อย่างจริงจัง
+B1	servant	n.	คนรับใช้
+B1	set	v.(put); n.(group)	วาง, ตั้ง; ชุด
+B1	setting	n.	ฉาก, สภาพแวดล้อม
+B1	sex	n.	เพศ
+B1	sexual	adj.	ทางเพศ
+B1	shake	n.	การเขย่า
+B1	share	n.	ส่วนแบ่ง; หุ้น
+B1	sharp	adj.	คม
+B1	shelf	n.	ชั้นวาง
+B1	shell	n.	เปลือก
+B1	shift	n.	กะ (ทำงาน)
+B1	shine	v.	ส่องแสง
+B1	shiny	adj.	เป็นเงางาม
+B1	shoot	v.	ยิง; ถ่ายทำ
+B1	shy	adj.	ขี้อาย
+B1	sight	n.	การมองเห็น; สถานที่น่าชม
+B1	signal	n., v.	สัญญาณ
+B1	silent	adj.	เงียบ
+B1	silly	adj.	โง่, ไร้สาระ
+B1	similarity	n.	ความคล้ายคลึง
+B1	similarly	adv.	ในทำนองเดียวกัน
+B1	simply	adv.	เพียงแค่
+B1	since	adv.	ตั้งแต่นั้น
+B1	sink	v.	จม; อ่างล้างจาน
+B1	slice	n., v.	ชิ้น (บาง); หั่น
+B1	slightly	adv.	เล็กน้อย
+B1	slow	v.	ชะลอ
+B1	smart	adj.	ฉลาด; เรียบร้อย
+B1	smooth	adj.	เรียบ
+B1	software	n.	ซอฟต์แวร์
+B1	soil	n.	ดิน
+B1	solid	adj., n.	แข็ง; ของแข็ง
+B1	sort	v.	จัดเรียง
+B1	southern	adj.	ทางใต้
+B1	specifically	adv.	โดยเฉพาะ
+B1	spending	n.	การใช้จ่าย
+B1	spicy	adj.	เผ็ด
+B1	spirit	n.	จิตวิญญาณ
+B1	spoken	adj.	ที่พูด
+B1	spot	n.	จุด; สถานที่
+B1	spread	v.	แพร่กระจาย
+B1	spring	v.	กระโดด
+B1	stadium	n.	สนามกีฬา
+B1	staff	n.	พนักงาน
+B1	standard	n., adj.	มาตรฐาน
+B1	state	adj., v.	ของรัฐ; ระบุ
+B1	statistic	n.	สถิติ
+B1	statue	n.	รูปปั้น
+B1	stick	v.(push into/attach); n.(piece of wood)	ติด; ไม้
+B1	still	adj.	นิ่ง
+B1	store	v.	เก็บรักษา
+B1	stranger	n.	คนแปลกหน้า
+B1	strength	n.	ความแข็งแรง
+B1	string	n.	เชือก
+B1	strongly	adv.	อย่างมาก
+B1	studio	n.	สตูดิโอ
+B1	stuff	n.	ของ, สิ่งของ
+B1	substance	n.	สาร
+B1	successfully	adv.	อย่างประสบความสำเร็จ
+B1	sudden	adj.	ฉับพลัน
+B1	suffer	v.	ทนทุกข์
+B1	suit	v.	เหมาะกับ
+B1	suitable	adj.	เหมาะสม
+B1	summarize	v.	สรุป
+B1	summary	n.	บทสรุป
+B1	supply	n., v.	อุปทาน; จัดหา
+B1	supporter	n.	ผู้สนับสนุน
+B1	surely	adv.	แน่นอน
+B1	surface	n.	พื้นผิว
+B1	survive	v.	รอดชีวิต
+B1	swim	n.	การว่ายน้ำ
+B1	switch	v.	เปลี่ยน; สับสวิตช์
+B1	symptom	n.	อาการ
+B1	tail	n.	หาง
+B1	talent	n.	พรสวรรค์
+B1	talented	adj.	มีพรสวรรค์
+B1	tape	n.	เทป
+B1	tax	n., v.	ภาษี; เก็บภาษี
+B1	technical	adj.	ทางเทคนิค
+B1	technique	n.	เทคนิค
+B1	tend	v.	มีแนวโน้ม
+B1	tent	n.	เต็นท์
+B1	that	adv.	ขนาดนั้น
+B1	theirs	pron.	ของพวกเขา
+B1	theme	n.	ธีม, แก่นเรื่อง
+B1	theory	n.	ทฤษฎี
+B1	therefore	adv.	ดังนั้น
+B1	this	adv.	ขนาดนี้
+B1	though	conj., adv.	แม้ว่า
+B1	throat	n.	ลำคอ
+B1	throughout	prep., adv.	ตลอด
+B1	tight	adj.	แน่น, คับ
+B1	till	conj., prep.	จนกระทั่ง
+B1	tin	n.	กระป๋อง; ดีบุก
+B1	tiny	adj.	เล็กมาก
+B1	tip	v.	ให้ทิป
+B1	toe	n.	นิ้วเท้า
+B1	tongue	n.	ลิ้น
+B1	total	adj., n.	ทั้งหมด; ยอดรวม
+B1	totally	adv.	โดยสิ้นเชิง
+B1	touch	n.	การสัมผัส
+B1	tour	v.	ท่องเที่ยว
+B1	trade	n., v.	การค้า; ค้าขาย
+B1	translate	v.	แปล
+B1	translation	n.	การแปล
+B1	transport	v.	ขนส่ง
+B1	treat	v.	ปฏิบัติต่อ; รักษา
+B1	treatment	n.	การรักษา
+B1	trend	n.	แนวโน้ม
+B1	trick	n., v.	กลอุบาย; หลอก
+B1	truth	n.	ความจริง
+B1	tube	n.	หลอด
+B1	type	v.	พิมพ์ (ดีด)
+B1	typically	adv.	โดยทั่วไป
+B1	tyre	n.	ยางรถ
+B1	ugly	adj.	น่าเกลียด
+B1	unable	adj.	ไม่สามารถ
+B1	uncomfortable	adj.	ไม่สบายตัว
+B1	underwear	n.	ชุดชั้นใน
+B1	unemployed	adj.	ว่างงาน
+B1	unemployment	n.	การว่างงาน
+B1	unfair	adj.	ไม่ยุติธรรม
+B1	union	n.	สหภาพ
+B1	unless	conj.	เว้นแต่
+B1	unlike	prep.	ไม่เหมือน
+B1	unlikely	adj.	ไม่น่าเป็นไปได้
+B1	unnecessary	adj.	ไม่จำเป็น
+B1	unpleasant	adj.	ไม่น่าพอใจ
+B1	update	v., n.	อัปเดต
+B1	upon	prep.	บน
+B1	upset	adj., v.	เสียใจ; ทำให้ไม่สบายใจ
+B1	used	adj.; adj.	ใช้แล้ว; คุ้นเคย
+B1	valuable	adj.	มีค่า
+B1	value	n.	คุณค่า
+B1	various	adj.	หลากหลาย
+B1	version	n.	รุ่น, ฉบับ
+B1	victim	n.	เหยื่อ
+B1	view	v.	มอง, ชม
+B1	viewer	n.	ผู้ชม
+B1	violent	adj.	รุนแรง
+B1	volunteer	n., v.	อาสาสมัคร
+B1	vote	n., v.	โหวต, ลงคะแนน
+B1	warm	v.	ทำให้อุ่น
+B1	warn	v.	เตือน
+B1	warning	n.	คำเตือน
+B1	waste	n., v., adj.	ขยะ; เสียเปล่า
+B1	water	v.	รดน้ำ
+B1	wave	v.	โบก
+B1	weapon	n.	อาวุธ
+B1	weigh	v.	ชั่งน้ำหนัก
+B1	western	adj.	ทางตะวันตก
+B1	whatever	det., pron.	อะไรก็ตาม
+B1	whenever	conj.	เมื่อใดก็ตาม
+B1	whether	conj.	ไม่ว่า, หรือไม่
+B1	while	n.	ชั่วครู่
+B1	whole	n.	ทั้งหมด (คำนาม)
+B1	will	n.	ความตั้งใจ; พินัยกรรม
+B1	win	n.	ชัยชนะ
+B1	wing	n.	ปีก
+B1	within	prep.	ภายใน
+B1	wonder	v., n.	สงสัย; ความมหัศจรรย์
+B1	wool	n.	ขนแกะ
+B1	worldwide	adj., adv.	ทั่วโลก
+B1	worry	n.	ความกังวล
+B1	worse	adv.	แย่ลง (อย่าง)
+B1	worst	adv.	แย่ที่สุด (อย่าง)
+B1	worth	adj.	มีค่า, คุ้มค่า
+B1	written	adj.	ที่เขียนไว้
+B1	wrong	adv.	อย่างผิดพลาด
+B1	yard	n.	สนาม; หลา
+B1	young	n.	ลูกสัตว์
+B1	youth	n.	เยาวชน; วัยหนุ่มสาว
+B2	abandon	v.	ละทิ้ง
+B2	absolute	adj.	สมบูรณ์, เด็ดขาด
+B2	academic	n.	นักวิชาการ
+B2	acceptable	adj.	ยอมรับได้
+B2	accompany	v.	ไปด้วย, ติดตาม
+B2	account	v.	อธิบาย; คิดเป็น (สัดส่วน)
+B2	accurate	adj.	แม่นยำ
+B2	accuse	v.	กล่าวหา
+B2	acknowledge	v.	ยอมรับ
+B2	acquire	v.	ได้มา
+B2	actual	adj.	ที่แท้จริง
+B2	adapt	v.	ปรับตัว
+B2	additional	adj.	เพิ่มเติม
+B2	address	v.	จัดการ (ปัญหา); กล่าวปราศรัย
+B2	administration	n.	การบริหาร
+B2	adopt	v.	รับเลี้ยง; นำมาใช้
+B2	advance	n., v., adj.	ความก้าวหน้า; ก้าวหน้า; ล่วงหน้า
+B2	affair	n.	เรื่อง, กิจการ
+B2	afterwards	adv.	หลังจากนั้น
+B2	agency	n.	หน่วยงาน, บริษัทตัวแทน
+B2	agenda	n.	วาระการประชุม
+B2	aggressive	adj.	ก้าวร้าว
+B2	aid	n., v.	ความช่วยเหลือ; ช่วยเหลือ
+B2	aircraft	n.	อากาศยาน
+B2	alarm	v.	ทำให้ตกใจ
+B2	alter	v.	เปลี่ยนแปลง
+B2	amount	v.	มีจำนวนรวม
+B2	anger	n.	ความโกรธ
+B2	angle	n.	มุม
+B2	anniversary	n.	วันครบรอบ
+B2	annual	adj.	ประจำปี
+B2	anxious	adj.	วิตกกังวล
+B2	apparent	adj.	ชัดเจน, ปรากฏ
+B2	apparently	adv.	ดูเหมือนว่า
+B2	appeal	n., v.	การอุทธรณ์; ดึงดูดใจ
+B2	approach	n., v.	วิธีการ; เข้าใกล้
+B2	appropriate	adj.	เหมาะสม
+B2	approval	n.	การอนุมัติ
+B2	approve	v.	อนุมัติ, เห็นชอบ
+B2	arise	v.	เกิดขึ้น
+B2	armed	adj.	มีอาวุธ
+B2	arms	n.	อาวุธ
+B2	artificial	adj.	เทียม, ประดิษฐ์
+B2	artistic	adj.	มีศิลปะ
+B2	ashamed	adj.	ละอายใจ
+B2	aspect	n.	แง่มุม
+B2	assess	v.	ประเมิน
+B2	assessment	n.	การประเมิน
+B2	associate	v.	เชื่อมโยง
+B2	associated	adj.	ที่เกี่ยวข้อง
+B2	association	n.	สมาคม
+B2	assume	v.	สันนิษฐาน
+B2	attempt	n., v.	ความพยายาม; พยายาม
+B2	back	v.	สนับสนุน
+B2	bacteria	n.	แบคทีเรีย
+B2	bar	v.	ห้าม, กีดกัน
+B2	barrier	n.	อุปสรรค, สิ่งกีดขวาง
+B2	basically	adv.	โดยพื้นฐาน
+B2	battle	v.	ต่อสู้
+B2	bear	v.(deal with)	ทน
+B2	beat	n.	จังหวะ
+B2	beg	v.	ขอร้อง; ขอทาน
+B2	being	n.	สิ่งมีชีวิต
+B2	bent	adj.	งอ
+B2	bet	v., n.	พนัน; การพนัน
+B2	beyond	prep., adv.	เกินกว่า
+B2	bill	v.	ส่งใบแจ้งหนี้
+B2	bitter	adj.	ขม; ขมขื่น
+B2	blame	v., n.	ตำหนิ; การกล่าวโทษ
+B2	blind	adj.	ตาบอด
+B2	bond	n.	ความผูกพัน; พันธบัตร
+B2	border	v.	มีพรมแดนติดกับ
+B2	breast	n.	หน้าอก
+B2	brief	adj.	สั้นๆ
+B2	broad	adj.	กว้าง
+B2	broadcast	v., n.	ออกอากาศ; รายการออกอากาศ
+B2	budget	n.	งบประมาณ
+B2	bullet	n.	กระสุน
+B2	bunch	n.	พวง, กลุ่ม
+B2	burn	n.	แผลไหม้
+B2	bush	n.	พุ่มไม้
+B2	but	prep.	ยกเว้น
+B2	cable	n.	สายเคเบิล
+B2	calculate	v.	คำนวณ
+B2	cancel	v.	ยกเลิก
+B2	cancer	n.	มะเร็ง
+B2	capable	adj.	มีความสามารถ
+B2	capacity	n.	ความจุ; ขีดความสามารถ
+B2	capture	v., n.	จับกุม; การยึด
+B2	cast	n., v.	นักแสดงทั้งหมด; คัดเลือกนักแสดง
+B2	catch	n.	การรับ (ลูกบอล); ข้อแม้
+B2	cell	n.	เซลล์; ห้องขัง
+B2	chain	v.	ล่ามโซ่
+B2	chair	v.	เป็นประธาน
+B2	chairman	n.	ประธาน
+B2	challenge	v.	ท้าทาย
+B2	characteristic	n., adj.	ลักษณะเฉพาะ
+B2	chart	v.	ทำแผนภูมิ
+B2	chief	adj., n.	หัวหน้า; หลัก
+B2	circumstance	n.	สถานการณ์แวดล้อม
+B2	cite	v.	อ้างอิง
+B2	citizen	n.	พลเมือง
+B2	civil	adj.	พลเรือน; ทางแพ่ง
+B2	classic	adj., n.	คลาสสิก; ผลงานชั้นยอด
+B2	close	n.	ตอนจบ
+B2	closely	adv.	อย่างใกล้ชิด
+B2	collapse	v., n.	พังทลาย; การล่มสลาย
+B2	combination	n.	การรวมกัน
+B2	comfort	n., v.	ความสบาย; ปลอบโยน
+B2	command	n., v.	คำสั่ง; สั่งการ
+B2	commission	n., v.	คณะกรรมการ; ค่านายหน้า
+B2	commitment	n.	ความมุ่งมั่น
+B2	committee	n.	คณะกรรมการ
+B2	commonly	adv.	โดยทั่วไป
+B2	complex	n.	อาคารชุด, ศูนย์รวม
+B2	complicated	adj.	ซับซ้อน
+B2	component	n.	ส่วนประกอบ
+B2	concentration	n.	สมาธิ; ความเข้มข้น
+B2	concept	n.	แนวคิด
+B2	concern	n., v.	ความกังวล; เกี่ยวข้อง
+B2	concerned	adj.	กังวล; ที่เกี่ยวข้อง
+B2	conduct	v., n.	ดำเนินการ; ความประพฤติ
+B2	confidence	n.	ความมั่นใจ
+B2	conflict	n., v.	ความขัดแย้ง; ขัดแย้ง
+B2	confusing	adj.	น่าสับสน
+B2	conscious	adj.	มีสติ, รู้ตัว
+B2	conservative	adj., n.	อนุรักษ์นิยม
+B2	consideration	n.	การพิจารณา
+B2	consistent	adj.	สม่ำเสมอ
+B2	constant	adj.	คงที่
+B2	constantly	adv.	อย่างต่อเนื่อง
+B2	construct	v.	ก่อสร้าง
+B2	construction	n.	การก่อสร้าง
+B2	contemporary	adj.	ร่วมสมัย
+B2	contest	n., v.	การแข่งขัน; แข่งขัน
+B2	contract	n., v.	สัญญา; ทำสัญญา
+B2	contribute	v.	มีส่วนร่วม, บริจาค
+B2	contribution	n.	การมีส่วนร่วม
+B2	convert	v.	แปลง
+B2	convinced	adj.	เชื่อมั่น
+B2	core	n., adj.	แกนกลาง; หลัก
+B2	corporate	adj.	ของบริษัท
+B2	council	n.	สภา
+B2	county	n.	มณฑล, เขตปกครอง
+B2	courage	n.	ความกล้าหาญ
+B2	crash	n., v.	การชน; ชน
+B2	creation	n.	การสร้าง
+B2	creature	n.	สิ่งมีชีวิต
+B2	credit	v.	ให้เครดิต
+B2	crew	n.	ลูกเรือ, ทีมงาน
+B2	crisis	n.	วิกฤต
+B2	criterion	n.	เกณฑ์
+B2	critic	n.	นักวิจารณ์
+B2	critical	adj.	วิกฤต; ช่างวิจารณ์
+B2	criticism	n.	คำวิจารณ์
+B2	criticize	v.	วิจารณ์
+B2	crop	n.	พืชผล
+B2	crucial	adj.	สำคัญอย่างยิ่ง
+B2	cry	n.	เสียงร้อง
+B2	cure	v., n.	รักษา; วิธีรักษา
+B2	current	n.	กระแส (น้ำ/ไฟฟ้า)
+B2	curve	n., v.	เส้นโค้ง; โค้ง
+B2	curved	adj.	โค้ง
+B2	date	v.	ระบุวันที่; ออกเดท
+B2	debate	n., v.	การอภิปราย; อภิปราย
+B2	debt	n.	หนี้
+B2	decent	adj.	ดีพอสมควร, เหมาะสม
+B2	declare	v.	ประกาศ
+B2	decline	v., n.	ลดลง; การลดลง
+B2	decoration	n.	การตกแต่ง
+B2	decrease	v., n.	ลดลง; การลดลง
+B2	deeply	adv.	อย่างลึกซึ้ง
+B2	defeat	v., n.	เอาชนะ; ความพ่ายแพ้
+B2	defence	n.	การป้องกัน
+B2	defend	v.	ปกป้อง
+B2	delay	v., n.	ล่าช้า; ความล่าช้า
+B2	deliberate	adj.	โดยเจตนา
+B2	deliberately	adv.	อย่างจงใจ
+B2	delight	v., n.	ทำให้ยินดี; ความยินดี
+B2	delighted	adj.	ยินดีมาก
+B2	delivery	n.	การจัดส่ง
+B2	demand	n., v.	ความต้องการ; เรียกร้อง
+B2	demonstrate	v.	สาธิต; แสดงให้เห็น
+B2	deny	v.	ปฏิเสธ
+B2	depressed	adj.	หดหู่
+B2	depressing	adj.	น่าหดหู่
+B2	depth	n.	ความลึก
+B2	desert	v.	ละทิ้ง
+B2	deserve	v.	สมควรได้รับ
+B2	desire	n., v.	ความปรารถนา; ปรารถนา
+B2	desperate	adj.	สิ้นหวัง
+B2	detail	v.	ระบุรายละเอียด
+B2	detailed	adj.	ละเอียด
+B2	detect	v.	ตรวจพบ
+B2	dig	v.	ขุด
+B2	disc	n.	แผ่นดิสก์
+B2	discipline	n.	วินัย
+B2	discount	v.	ลดราคา
+B2	dishonest	adj.	ไม่ซื่อสัตย์
+B2	dismiss	v.	ปัดตก; ไล่ออก
+B2	display	v., n.	แสดง; การจัดแสดง
+B2	distribute	v.	แจกจ่าย
+B2	distribution	n.	การกระจาย
+B2	district	n.	เขต, อำเภอ
+B2	divide	n.	ความแตกแยก
+B2	division	n.	การแบ่ง; ฝ่าย
+B2	document	v.	บันทึกเป็นเอกสาร
+B2	domestic	adj.	ภายในประเทศ; ในบ้าน
+B2	dominate	v.	ครอบงำ
+B2	downwards	adv.	ลงข้างล่าง
+B2	dozen	n., det.	โหล
+B2	draft	n., v.	ร่าง; ร่าง (เอกสาร)
+B2	drag	v.	ลาก
+B2	dramatic	adj.	น่าตื่นเต้น, ฉับพลัน
+B2	edit	v.	แก้ไข, ตัดต่อ
+B2	edition	n.	ฉบับ
+B2	efficient	adj.	มีประสิทธิภาพ
+B2	elderly	adj.	สูงอายุ
+B2	elect	v.	เลือกตั้ง
+B2	elsewhere	adv.	ที่อื่น
+B2	emerge	v.	ปรากฏขึ้น
+B2	emotional	adj.	ทางอารมณ์
+B2	emphasis	n.	การเน้น
+B2	emphasize	v.	เน้น
+B2	enable	v.	ทำให้สามารถ
+B2	encounter	v., n.	พบเจอ; การเผชิญ
+B2	engage	v.	มีส่วนร่วม
+B2	enhance	v.	เสริม, เพิ่ม
+B2	enquiry	n.	การสอบถาม
+B2	ensure	v.	ทำให้แน่ใจ
+B2	enthusiasm	n.	ความกระตือรือร้น
+B2	enthusiastic	adj.	กระตือรือร้น
+B2	entire	adj.	ทั้งหมด
+B2	entirely	adv.	โดยสิ้นเชิง
+B2	equal	n.	ผู้ที่เท่าเทียมกัน
+B2	establish	v.	ก่อตั้ง
+B2	estate	n.	ที่ดิน, อสังหาริมทรัพย์
+B2	estimate	v., n.	ประมาณการ; การประมาณ
+B2	ethical	adj.	ทางจริยธรรม
+B2	evaluate	v.	ประเมินผล
+B2	even	adj.	เรียบ; เท่ากัน; เลขคู่
+B2	evil	adj., n.	ชั่วร้าย; ความชั่ว
+B2	examination	n.	การตรวจสอบ; การสอบ
+B2	excuse	n., v.	ข้ออ้าง; ให้อภัย
+B2	executive	n., adj.	ผู้บริหาร
+B2	existence	n.	การมีอยู่
+B2	expectation	n.	ความคาดหวัง
+B2	expense	n.	ค่าใช้จ่าย
+B2	exploration	n.	การสำรวจ
+B2	expose	v.	เปิดเผย
+B2	extend	v.	ขยาย
+B2	extent	n.	ขอบเขต
+B2	external	adj.	ภายนอก
+B2	extraordinary	adj.	พิเศษ, ไม่ธรรมดา
+B2	extreme	n.	ความสุดขั้ว
+B2	facility	n.	สิ่งอำนวยความสะดวก
+B2	failure	n.	ความล้มเหลว
+B2	faith	n.	ศรัทธา
+B2	fault	n.	ความผิด; ข้อบกพร่อง
+B2	favour	v.	ชอบ, สนับสนุน
+B2	feather	n.	ขนนก
+B2	fee	n.	ค่าธรรมเนียม
+B2	feed	n.	อาหาร (สัตว์); ฟีด
+B2	feedback	n.	ข้อเสนอแนะ, ผลตอบรับ
+B2	feel	n.	ความรู้สึก (สัมผัส)
+B2	fellow	adj.	เพื่อนร่วม...
+B2	figure	v.	คิดว่า
+B2	file	v.	ยื่น (เอกสาร); จัดเก็บ
+B2	finance	n., v.	การเงิน; ให้เงินทุน
+B2	finding	n.	ผลการค้นพบ
+B2	firm	n.	บริษัท
+B2	fix	n.	การแก้ไข
+B2	flame	n.	เปลวไฟ
+B2	flash	n., v.	แสงวาบ; กะพริบ
+B2	flexible	adj.	ยืดหยุ่น
+B2	float	v.	ลอย
+B2	fold	n.	รอยพับ
+B2	folding	adj.	พับได้
+B2	following	prep.	หลังจาก
+B2	forgive	v.	ให้อภัย
+B2	former	adj.	อดีต
+B2	fortune	n.	โชคลาภ
+B2	forward	adj.	ข้างหน้า; ล่วงหน้า
+B2	found	v.	ก่อตั้ง
+B2	free	v.	ปล่อยให้เป็นอิสระ
+B2	freedom	n.	อิสรภาพ
+B2	frequency	n.	ความถี่
+B2	fuel	v.	เติมเชื้อเพลิง
+B2	fully	adv.	อย่างเต็มที่
+B2	function	v.	ทำงาน
+B2	fund	n., v.	กองทุน; ให้ทุน
+B2	fundamental	adj.	พื้นฐาน
+B2	funding	n.	เงินทุน
+B2	furthermore	adv.	นอกจากนี้
+B2	gain	v., n.	ได้รับ; ผลได้
+B2	gang	n.	แก๊ง
+B2	generate	v.	สร้าง, ผลิต
+B2	genre	n.	ประเภท (ศิลปะ/วรรณกรรม)
+B2	govern	v.	ปกครอง
+B2	grab	v.	คว้า
+B2	grade	v.	ให้เกรด
+B2	gradually	adv.	ทีละน้อย
+B2	grand	adj.	ยิ่งใหญ่
+B2	grant	v., n.	ให้; เงินทุน
+B2	guarantee	v., n.	รับประกัน; การรับประกัน
+B2	handle	v., n.	จัดการ; ด้ามจับ
+B2	harm	n., v.	อันตราย; ทำร้าย
+B2	harmful	adj.	เป็นอันตราย
+B2	hearing	n.	การได้ยิน; การพิจารณาคดี
+B2	heaven	n.	สวรรค์
+B2	heel	n.	ส้นเท้า
+B2	hell	n.	นรก
+B2	hesitate	v.	ลังเล
+B2	high	n.	จุดสูงสุด
+B2	hire	n.	การเช่า
+B2	hold	n.	การจับ
+B2	hollow	adj.	กลวง
+B2	holy	adj.	ศักดิ์สิทธิ์
+B2	honour	n., v.	เกียรติ; ให้เกียรติ
+B2	host	v.	เป็นเจ้าภาพ
+B2	house	v.	ให้ที่อยู่
+B2	household	n.	ครัวเรือน
+B2	housing	n.	ที่อยู่อาศัย
+B2	humorous	adj.	ขบขัน
+B2	humour	n.	อารมณ์ขัน
+B2	hunt	n.	การล่า
+B2	hunting	n.	การล่าสัตว์
+B2	hurt	n.	ความเจ็บปวด
+B2	ideal	n.	อุดมคติ
+B2	illustrate	v.	แสดงให้เห็น
+B2	illustration	n.	ภาพประกอบ
+B2	imagination	n.	จินตนาการ
+B2	impatient	adj.	ใจร้อน
+B2	imply	v.	บ่งบอกเป็นนัย
+B2	impose	v.	กำหนด, บังคับใช้
+B2	impress	v.	สร้างความประทับใจ
+B2	impressed	adj.	ประทับใจ
+B2	inch	n.	นิ้ว (หน่วยวัด)
+B2	incident	n.	เหตุการณ์
+B2	income	n.	รายได้
+B2	increasingly	adv.	มากขึ้นเรื่อยๆ
+B2	industrial	adj.	ทางอุตสาหกรรม
+B2	infection	n.	การติดเชื้อ
+B2	inform	v.	แจ้ง
+B2	initial	adj.	เริ่มแรก
+B2	initially	adv.	ในตอนแรก
+B2	initiative	n.	ความคิดริเริ่ม
+B2	inner	adj.	ภายใน
+B2	insight	n.	ความเข้าใจลึกซึ้ง
+B2	insist	v.	ยืนกราน
+B2	inspire	v.	สร้างแรงบันดาลใจ
+B2	install	v.	ติดตั้ง
+B2	instance	n.	ตัวอย่าง, กรณี
+B2	institute	n.	สถาบัน
+B2	institution	n.	สถาบัน, องค์กร
+B2	insurance	n.	การประกันภัย
+B2	intended	adj.	ที่ตั้งใจไว้
+B2	intense	adj.	เข้มข้น, รุนแรง
+B2	internal	adj.	ภายใน
+B2	interpret	v.	ตีความ; ล่ามแปล
+B2	interrupt	v.	ขัดจังหวะ
+B2	investigation	n.	การสืบสวน
+B2	investment	n.	การลงทุน
+B2	issue	v.	ออก (เอกสาร), ประกาศ
+B2	joy	n.	ความปีติยินดี
+B2	judgement	n.	การตัดสิน, วิจารณญาณ
+B2	junior	adj.	รุ่นน้อง; ระดับต้น
+B2	justice	n.	ความยุติธรรม
+B2	justify	v.	ให้เหตุผลสนับสนุน
+B2	labour	n.	แรงงาน
+B2	landscape	n.	ภูมิทัศน์
+B2	largely	adv.	ส่วนใหญ่
+B2	latest	n.	ข่าวล่าสุด, สิ่งล่าสุด
+B2	launch	v., n.	เปิดตัว; การเปิดตัว
+B2	leadership	n.	ความเป็นผู้นำ
+B2	league	n.	ลีก, สมาคม
+B2	lean	v.	เอนพิง
+B2	leave	n.	การลา
+B2	level	v.	ทำให้ราบ
+B2	licence	n.	ใบอนุญาต
+B2	limited	adj.	จำกัด
+B2	line	v.	เรียงแถว
+B2	lively	adj.	มีชีวิตชีวา
+B2	load	n., v.	น้ำหนักบรรทุก; บรรทุก
+B2	loan	n.	เงินกู้
+B2	logical	adj.	มีเหตุผล
+B2	long-term	adj., adv.	ระยะยาว
+B2	loose	adj.	หลวม
+B2	lord	n.	ท่านลอร์ด, เจ้านาย
+B2	low	n.	จุดต่ำสุด
+B2	lower	v.	ลดลง
+B2	lung	n.	ปอด
+B2	maintain	v.	รักษา, บำรุง
+B2	majority	n.	เสียงข้างมาก
+B2	make	n.	ยี่ห้อ
+B2	map	v.	ทำแผนที่
+B2	mass	n., adj.	มวล; จำนวนมาก
+B2	massive	adj.	ใหญ่โต
+B2	master	n., v.	เจ้านาย; เชี่ยวชาญ
+B2	matching	adj.	เข้าชุดกัน
+B2	material	adj.	ทางวัตถุ
+B2	maximum	adj., n.	สูงสุด
+B2	means	n.	วิธีการ
+B2	measurement	n.	การวัด
+B2	medium	n.	สื่อกลาง
+B2	melt	v.	ละลาย
+B2	military	adj., n.	ทางทหาร; กองทัพ
+B2	mineral	n.	แร่ธาตุ
+B2	minimum	adj., n.	ต่ำสุด
+B2	minister	n.	รัฐมนตรี
+B2	minor	adj.	เล็กน้อย
+B2	minority	n.	ชนกลุ่มน้อย
+B2	mission	n.	ภารกิจ
+B2	mistake	v.	เข้าใจผิด
+B2	mixed	adj.	ผสม
+B2	model	v.	เป็นแบบ; จำลอง
+B2	modify	v.	ดัดแปลง
+B2	monitor	n., v.	จอภาพ; ติดตามตรวจสอบ
+B2	moral	adj., n.	ทางศีลธรรม; ข้อคิด
+B2	motor	n., adj.	มอเตอร์
+B2	mount	v.	ขึ้น; ติดตั้ง
+B2	multiple	adj.	หลายอย่าง
+B2	multiply	v.	คูณ
+B2	mysterious	adj.	ลึกลับ
+B2	narrow	v.	ทำให้แคบลง
+B2	national	n.	พลเมือง (ของประเทศ)
+B2	neat	adj.	เรียบร้อย
+B2	negative	n.	ข้อเสีย; ผลลบ
+B2	nerve	n.	เส้นประสาท
+B2	nevertheless	adv.	อย่างไรก็ตาม
+B2	nightmare	n.	ฝันร้าย
+B2	notion	n.	แนวคิด
+B2	numerous	adj.	มากมาย
+B2	obey	v.	เชื่อฟัง
+B2	object	v.	คัดค้าน
+B2	objective	n., adj.	วัตถุประสงค์; ภววิสัย
+B2	obligation	n.	ภาระผูกพัน
+B2	observation	n.	การสังเกต
+B2	observe	v.	สังเกต
+B2	obtain	v.	ได้รับ
+B2	occasionally	adv.	เป็นครั้งคราว
+B2	offence	n.	ความผิด
+B2	offend	v.	ทำให้ขุ่นเคือง
+B2	offensive	adj.	ที่ทำให้ขุ่นเคือง
+B2	official	n.	เจ้าหน้าที่
+B2	opening	n.	การเปิด; ช่องเปิด
+B2	operate	v.	ดำเนินการ; ผ่าตัด
+B2	opponent	n.	คู่ต่อสู้
+B2	oppose	v.	คัดค้าน
+B2	opposed	adj.	ไม่เห็นด้วย
+B2	opposition	n.	ฝ่ายค้าน
+B2	organ	n.	อวัยวะ
+B2	origin	n.	ต้นกำเนิด
+B2	otherwise	adv.	มิฉะนั้น
+B2	outcome	n.	ผลลัพธ์
+B2	outer	adj.	ภายนอก
+B2	outline	n., v.	โครงร่าง; สรุปคร่าวๆ
+B2	overall	adj., adv.	โดยรวม
+B2	owe	v.	เป็นหนี้
+B2	pace	n., v.	ก้าว, จังหวะ; เดินไปมา
+B2	package	v.	บรรจุหีบห่อ
+B2	panel	n.	แผง; คณะกรรมการ
+B2	parliament	n.	รัฐสภา
+B2	participant	n.	ผู้เข้าร่วม
+B2	partly	adv.	บางส่วน
+B2	passage	n.	ข้อความ (ตอนหนึ่ง); ทางเดิน
+B2	patient	adj.	อดทน
+B2	pension	n.	เงินบำนาญ
+B2	permanent	adj.	ถาวร
+B2	permit	v., n.	อนุญาต; ใบอนุญาต
+B2	perspective	n.	มุมมอง
+B2	phase	n.	ระยะ, ขั้น
+B2	phenomenon	n.	ปรากฏการณ์
+B2	philosophy	n.	ปรัชญา
+B2	pick	n.	การเลือก
+B2	picture	v.	นึกภาพ
+B2	pile	n., v.	กอง; กองซ้อน
+B2	pitch	n.	สนาม; ระดับเสียง
+B2	plain	adj.	เรียบๆ, ธรรมดา
+B2	plot	v.	วางแผน (ร้าย)
+B2	plus	adj., n., conj.	ข้อดี; บวก
+B2	pointed	adj.	แหลม
+B2	popularity	n.	ความนิยม
+B2	pose	v.	ก่อให้เกิด; โพสท่า
+B2	position	v.	วางตำแหน่ง
+B2	positive	n.	ข้อดี
+B2	possess	v.	ครอบครอง
+B2	potential	adj., n.	มีศักยภาพ; ศักยภาพ
+B2	power	v.	ให้พลังงาน
+B2	praise	n., v.	คำชม; ชมเชย
+B2	pregnant	adj.	ตั้งครรภ์
+B2	preparation	n.	การเตรียมการ
+B2	presence	n.	การปรากฏตัว
+B2	preserve	v.	อนุรักษ์
+B2	price	v.	ตั้งราคา
+B2	prime	adj.	สำคัญที่สุด
+B2	principle	n.	หลักการ
+B2	print	n.	สิ่งพิมพ์; ภาพพิมพ์
+B2	priority	n.	ลำดับความสำคัญ
+B2	privacy	n.	ความเป็นส่วนตัว
+B2	procedure	n.	ขั้นตอน
+B2	process	v.	ดำเนินการ, ประมวลผล
+B2	produce	n.	ผลผลิต
+B2	professional	n.	มืออาชีพ (บุคคล)
+B2	progress	v.	ก้าวหน้า
+B2	project	v.	ฉาย; คาดการณ์
+B2	proof	n.	หลักฐาน
+B2	proposal	n.	ข้อเสนอ
+B2	propose	v.	เสนอ
+B2	prospect	n.	โอกาส, ความเป็นไปได้
+B2	protection	n.	การคุ้มครอง
+B2	psychologist	n.	นักจิตวิทยา
+B2	psychology	n.	จิตวิทยา
+B2	publication	n.	สิ่งตีพิมพ์
+B2	pupil	n.	นักเรียน
+B2	purchase	n., v.	การซื้อ; ซื้อ
+B2	pure	adj.	บริสุทธิ์
+B2	pursue	v.	ติดตาม, ไล่ตาม
+B2	range	v.	อยู่ในช่วง
+B2	rank	n., v.	ยศ, อันดับ; จัดอันดับ
+B2	rapid	adj.	รวดเร็ว
+B2	rapidly	adv.	อย่างรวดเร็ว
+B2	rate	v.	ให้คะแนน, ประเมิน
+B2	raw	adj.	ดิบ
+B2	reach	n.	ระยะเอื้อมถึง
+B2	realistic	adj.	สมจริง
+B2	reasonable	adj.	สมเหตุสมผล
+B2	recall	v.	ระลึกได้
+B2	recover	v.	ฟื้นตัว
+B2	reduction	n.	การลดลง
+B2	regard	v., n.	พิจารณา; ความนับถือ
+B2	regional	adj.	ระดับภูมิภาค
+B2	register	v., n.	ลงทะเบียน; ทะเบียน
+B2	regret	v., n.	เสียใจ; ความเสียใจ
+B2	regulation	n.	ระเบียบ
+B2	relatively	adv.	ค่อนข้าง
+B2	relevant	adj.	เกี่ยวข้อง
+B2	relief	n.	ความโล่งใจ
+B2	rely	v.	พึ่งพา
+B2	remark	n., v.	คำพูด; กล่าว
+B2	representative	n., adj.	ตัวแทน
+B2	reputation	n.	ชื่อเสียง
+B2	requirement	n.	ข้อกำหนด
+B2	rescue	v., n.	ช่วยชีวิต; การช่วยเหลือ
+B2	reserve	n., v.	สำรอง; จอง
+B2	resident	n., adj.	ผู้อยู่อาศัย
+B2	resist	v.	ต่อต้าน
+B2	resolve	v.	แก้ไข (ปัญหา)
+B2	resort	n.	รีสอร์ต
+B2	retain	v.	คงไว้
+B2	reveal	v.	เปิดเผย
+B2	revolution	n.	การปฏิวัติ
+B2	reward	n., v.	รางวัล; ให้รางวัล
+B2	rhythm	n.	จังหวะ
+B2	rid	v.	กำจัด (get rid of)
+B2	root	n.	ราก
+B2	round	n.	รอบ (การแข่งขัน)
+B2	routine	adj.	ประจำ
+B2	rub	v.	ถู
+B2	rubber	n., adj.	ยาง
+B2	rural	adj.	ชนบท
+B2	rush	v., n.	รีบเร่ง; ความเร่งรีบ
+B2	sample	v.	สุ่มตัวอย่าง
+B2	satellite	n.	ดาวเทียม
+B2	satisfied	adj.	พอใจ
+B2	satisfy	v.	ทำให้พอใจ
+B2	saving	n.	การออม
+B2	scale	n.	ขนาด, มาตราส่วน
+B2	schedule	v.	กำหนดเวลา
+B2	scheme	n.	แผน, โครงการ
+B2	scream	v., n.	กรีดร้อง
+B2	screen	v.	คัดกรอง; ฉาย
+B2	seat	v.	จัดที่นั่ง
+B2	sector	n.	ภาค (เศรษฐกิจ)
+B2	secure	v., adj.	ปลอดภัย; ได้มา
+B2	seek	v.	แสวงหา
+B2	select	v.	เลือก
+B2	selection	n.	การคัดเลือก
+B2	self	n.	ตัวตน
+B2	senior	adj.	อาวุโส
+B2	sense	v.	รับรู้
+B2	sensitive	adj.	อ่อนไหว
+B2	sentence	v.	ตัดสินลงโทษ
+B2	sequence	n.	ลำดับ
+B2	session	n.	ช่วง, คาบ
+B2	settle	v.	ตั้งถิ่นฐาน; ตกลง
+B2	severe	adj.	รุนแรง
+B2	shade	n.	ร่มเงา
+B2	shadow	n.	เงา
+B2	shallow	adj.	ตื้น
+B2	shame	n.	ความอับอาย
+B2	shape	v.	ก่อรูป
+B2	shelter	n., v.	ที่พักพิง; หลบภัย
+B2	shift	v.	เปลี่ยน, ย้าย
+B2	ship	v.	ส่งสินค้า
+B2	shock	n., v.	ความตกใจ; ทำให้ตกใจ
+B2	shocked	adj.	ตกใจ
+B2	shooting	n.	การยิง
+B2	shot	n.	การยิง; ช็อต
+B2	significant	adj.	สำคัญ
+B2	significantly	adv.	อย่างมีนัยสำคัญ
+B2	silence	n.	ความเงียบ
+B2	silk	n.	ผ้าไหม
+B2	sincere	adj.	จริงใจ
+B2	slave	n.	ทาส
+B2	slide	v., n.	เลื่อน; สไลด์
+B2	slight	adj.	เล็กน้อย
+B2	slip	v.	ลื่น
+B2	slope	n., v.	ทางลาด; ลาดเอียง
+B2	solar	adj.	แสงอาทิตย์
+B2	somewhat	adv.	ค่อนข้าง
+B2	soul	n.	วิญญาณ
+B2	specialist	n., adj.	ผู้เชี่ยวชาญ
+B2	species	n.	สายพันธุ์
+B2	speed	v.	เร่งความเร็ว
+B2	spiritual	adj.	ทางจิตวิญญาณ
+B2	split	v., n.	แยก; การแตกแยก
+B2	sponsor	v., n.	สนับสนุน; ผู้สนับสนุน
+B2	spot	v.	สังเกตเห็น
+B2	spread	n.	การแพร่กระจาย
+B2	stable	adj.	มั่นคง
+B2	stage	v.	จัดแสดง
+B2	stand	n.	แผงลอย; ขาตั้ง
+B2	stare	v.	จ้องมอง
+B2	status	n.	สถานะ
+B2	steady	adj.	มั่นคง
+B2	steel	n.	เหล็กกล้า
+B2	steep	adj.	ชัน
+B2	step	v.	ก้าว
+B2	sticky	adj.	เหนียว
+B2	stiff	adj.	แข็ง
+B2	stock	n.	สินค้าคงคลัง; หุ้น
+B2	stream	n.	ลำธาร
+B2	stretch	v., n.	ยืด; ช่วง
+B2	strict	adj.	เข้มงวด
+B2	strike	v., n.	ตี; การนัดหยุดงาน
+B2	structure	v.	จัดโครงสร้าง
+B2	struggle	v., n.	ดิ้นรน; การต่อสู้
+B2	stuff	v.	ยัด
+B2	subject	adj.	ขึ้นอยู่กับ
+B2	submit	v.	ส่ง (งาน)
+B2	sum	n., v.	ผลรวม; สรุป
+B2	surgery	n.	การผ่าตัด
+B2	surround	v.	ล้อมรอบ
+B2	surrounding	adj.	รอบๆ
+B2	survey	v.	สำรวจ
+B2	suspect	v., n.	สงสัย; ผู้ต้องสงสัย
+B2	swear	v.	สาบาน; สบถ
+B2	sweep	v.	กวาด
+B2	switch	n.	สวิตช์
+B2	sympathy	n.	ความเห็นใจ
+B2	tale	n.	นิทาน
+B2	tank	n.	ถัง; รถถัง
+B2	target	v.	มุ่งเป้า
+B2	tear	v., n.; n.	ฉีก; น้ำตา
+B2	temporary	adj.	ชั่วคราว
+B2	term	v.	เรียกว่า
+B2	therapy	n.	การบำบัด
+B2	threat	n.	ภัยคุกคาม
+B2	threaten	v.	ขู่
+B2	thus	adv.	ดังนั้น
+B2	time	v.	จับเวลา
+B2	title	v.	ตั้งชื่อ
+B2	tone	n.	น้ำเสียง
+B2	tough	adj.	ยาก; แข็งแกร่ง
+B2	track	v.	ติดตาม
+B2	transfer	v., n.	โอน; การโอน
+B2	transform	v.	เปลี่ยนแปลงรูป
+B2	transition	n.	การเปลี่ยนผ่าน
+B2	trial	n.	การพิจารณาคดี; การทดลอง
+B2	trip	v.	สะดุด
+B2	tropical	adj.	เขตร้อน
+B2	trouble	v.	รบกวน
+B2	truly	adv.	อย่างแท้จริง
+B2	trust	n., v.	ความไว้วางใจ; ไว้ใจ
+B2	try	n.	การลอง
+B2	tune	n.	ทำนอง
+B2	tunnel	n.	อุโมงค์
+B2	ultimately	adv.	ในที่สุด
+B2	unconscious	adj.	หมดสติ
+B2	unexpected	adj.	ไม่คาดคิด
+B2	unique	adj.	เป็นเอกลักษณ์
+B2	universe	n.	จักรวาล
+B2	unknown	adj.	ไม่รู้จัก
+B2	upper	adj.	ด้านบน
+B2	upwards	adv.	ขึ้นไปข้างบน
+B2	urban	adj.	เมือง
+B2	urge	v.	กระตุ้น, เร่งเร้า
+B2	value	v.	ให้คุณค่า
+B2	vary	v.	แตกต่างกันไป
+B2	vast	adj.	กว้างใหญ่
+B2	venue	n.	สถานที่จัดงาน
+B2	very	adj.	นั่นเอง, แท้ๆ
+B2	via	prep.	ผ่านทาง
+B2	victory	n.	ชัยชนะ
+B2	violence	n.	ความรุนแรง
+B2	virtual	adj.	เสมือนจริง
+B2	vision	n.	วิสัยทัศน์; การมองเห็น
+B2	visual	adj.	ทางภาพ
+B2	vital	adj.	สำคัญยิ่ง
+B2	vitamin	n.	วิตามิน
+B2	volume	n.	ปริมาตร; ระดับเสียง; เล่ม
+B2	wage	n.	ค่าแรง
+B2	way	adv.	มากเกิน (way too)
+B2	weakness	n.	จุดอ่อน
+B2	wealth	n.	ความมั่งคั่ง
+B2	wealthy	adj.	ร่ำรวย
+B2	whereas	conj.	ในขณะที่
+B2	wherever	conj.	ที่ใดก็ตาม
+B2	whisper	v., n.	กระซิบ
+B2	whom	pron.	ผู้ซึ่ง (กรรม)
+B2	widely	adv.	อย่างกว้างขวาง
+B2	wildlife	n.	สัตว์ป่า
+B2	willing	adj.	เต็มใจ
+B2	wind	v.	หมุน, ไขลาน
+B2	wire	n.	ลวด, สายไฟ
+B2	wise	adj.	ฉลาด, มีปัญญา
+B2	witness	n., v.	พยาน; เป็นพยาน
+B2	worse	n.	สิ่งที่แย่กว่า
+B2	worst	n.	สิ่งที่แย่ที่สุด
+B2	worth	n.	คุณค่า
+B2	wound	n., v.	บาดแผล; ทำให้บาดเจ็บ
+B2	wrap	v.	ห่อ
+B2	wrong	n.	ความผิด
+B2	yet	conj.	แต่ทว่า
+B2	zone	n.	เขต
+C1	abolish	v.	ยกเลิก (กฎหมาย/ระบบ)
+C1	abortion	n.	การทำแท้ง
+C1	absence	n.	การขาด, การไม่อยู่
+C1	absent	adj.	ขาด, ไม่อยู่
+C1	absorb	v.	ดูดซับ
+C1	abstract	adj.	นามธรรม
+C1	absurd	adj.	ไร้สาระ, เหลวไหล
+C1	abundance	n.	ความอุดมสมบูรณ์
+C1	abuse	n., v.	การละเมิด; ทำร้าย
+C1	academy	n.	สถาบันการศึกษา
+C1	accelerate	v.	เร่ง
+C1	acceptance	n.	การยอมรับ
+C1	accessible	adj.	เข้าถึงได้
+C1	accidentally	adv.	โดยบังเอิญ
+C1	acclaim	n.	การยกย่อง
+C1	accommodate	v.	รองรับ; ให้ที่พัก
+C1	accomplish	v.	ทำให้สำเร็จ
+C1	accomplishment	n.	ความสำเร็จ
+C1	accordance	n.	ความสอดคล้อง (in accordance with)
+C1	accordingly	adv.	ตามนั้น
+C1	accountability	n.	ความรับผิดชอบที่ตรวจสอบได้
+C1	accountable	adj.	ต้องรับผิดชอบ
+C1	accountant	n.	นักบัญชี
+C1	accumulate	v.	สะสม
+C1	accumulation	n.	การสะสม
+C1	accuracy	n.	ความแม่นยำ
+C1	accusation	n.	ข้อกล่าวหา
+C1	accused	n.	จำเลย
+C1	acid	n.	กรด
+C1	acquisition	n.	การได้มา; การเข้าซื้อกิจการ
+C1	activate	v.	เปิดใช้งาน
+C1	activation	n.	การเปิดใช้งาน
+C1	activist	n.	นักเคลื่อนไหว
+C1	acute	adj.	รุนแรงเฉียบพลัน
+C1	adaptation	n.	การปรับตัว; การดัดแปลง
+C1	addiction	n.	การเสพติด
+C1	additionally	adv.	นอกจากนี้
+C1	adequate	adj.	เพียงพอ
+C1	adequately	adv.	อย่างเพียงพอ
+C1	adjacent	adj.	ติดกัน, ใกล้เคียง
+C1	adjust	v.	ปรับ
+C1	adjustment	n.	การปรับเปลี่ยน
+C1	administer	v.	บริหาร; ให้ (ยา)
+C1	administrative	adj.	ทางการบริหาร
+C1	administrator	n.	ผู้ดูแลระบบ, ผู้บริหาร
+C1	admission	n.	การรับเข้า; ค่าเข้าชม
+C1	adolescent	n.	วัยรุ่น
+C1	adoption	n.	การรับเลี้ยง; การนำมาใช้
+C1	adverse	adj.	ในทางลบ, เป็นผลร้าย
+C1	advocate	n., v.	ผู้สนับสนุน; สนับสนุน
+C1	aesthetic	adj.	ทางสุนทรียะ
+C1	affection	n.	ความรักใคร่
+C1	affordable	adj.	ราคาที่จ่ายได้
+C1	aftermath	n.	ผลที่ตามมา (หลังเหตุร้าย)
+C1	aggression	n.	ความก้าวร้าว
+C1	agricultural	adj.	ทางการเกษตร
+C1	agriculture	n.	เกษตรกรรม
+C1	aide	n.	ผู้ช่วย
+C1	AIDS	n.	โรคเอดส์
+C1	airway	n.	ทางเดินหายใจ
+C1	alien	n., adj.	มนุษย์ต่างดาว; แปลกปลอม
+C1	align	v.	จัดแนว; สอดคล้อง
+C1	alignment	n.	การจัดแนว
+C1	alike	adj., adv.	เหมือนกัน
+C1	allegation	n.	ข้อกล่าวหา
+C1	allege	v.	กล่าวหา
+C1	allegedly	adv.	ตามที่กล่าวหา
+C1	alliance	n.	พันธมิตร
+C1	allocate	v.	จัดสรร
+C1	allocation	n.	การจัดสรร
+C1	allowance	n.	เบี้ยเลี้ยง
+C1	ally	n.	พันธมิตร
+C1	alongside	prep.	ควบคู่กับ
+C1	altogether	adv.	ทั้งหมด; โดยสิ้นเชิง
+C1	aluminium	n.	อะลูมิเนียม
+C1	amateur	adj., n.	มือสมัครเล่น
+C1	ambassador	n.	เอกอัครราชทูต
+C1	amend	v.	แก้ไข (กฎหมาย)
+C1	amendment	n.	การแก้ไขเพิ่มเติม
+C1	amid	prep.	ท่ามกลาง
+C1	analogy	n.	การเปรียบเทียบ
+C1	analyst	n.	นักวิเคราะห์
+C1	ancestor	n.	บรรพบุรุษ
+C1	anchor	n., v.	สมอเรือ; ผู้ประกาศข่าว; ยึด
+C1	angel	n.	นางฟ้า, เทวดา
+C1	animation	n.	ภาพเคลื่อนไหว
+C1	anonymous	adj.	ไม่ระบุชื่อ
+C1	answerable	adj.	ต้องรับผิดชอบ
+C1	anticipate	v.	คาดการณ์
+C1	anxiety	n.	ความวิตกกังวล
+C1	apology	n.	คำขอโทษ
+C1	appalling	adj.	น่าตกใจ, แย่มาก
+C1	apparatus	n.	เครื่องมือ, อุปกรณ์
+C1	appealing	adj.	น่าดึงดูด
+C1	appetite	n.	ความอยากอาหาร
+C1	applaud	v.	ปรบมือ; ชื่นชม
+C1	applicable	adj.	ใช้ได้, เกี่ยวข้อง
+C1	applicant	n.	ผู้สมัคร
+C1	appoint	v.	แต่งตั้ง
+C1	appreciation	n.	ความซาบซึ้ง
+C1	apprentice	n.	เด็กฝึกงาน
+C1	appropriately	adv.	อย่างเหมาะสม
+C1	approximate	adj.	โดยประมาณ
+C1	arbitrary	adj.	ตามอำเภอใจ
+C1	arc	n.	ส่วนโค้ง
+C1	archive	n.	หอจดหมายเหตุ, คลังข้อมูล
+C1	arena	n.	สนามกีฬา, เวที
+C1	arguably	adv.	อาจกล่าวได้ว่า
+C1	array	n.	ชุด, แถว
+C1	arrow	n.	ลูกศร
+C1	articulate	v., adj.	แสดงออกชัดเจน; พูดเก่ง
+C1	artwork	n.	งานศิลปะ
+C1	ash	n.	ขี้เถ้า
+C1	aside	adv.	ไปด้านข้าง
+C1	aspiration	n.	ความปรารถนา
+C1	aspire	v.	ใฝ่ฝัน
+C1	assault	n., v.	การทำร้ายร่างกาย; จู่โจม
+C1	assemble	v.	ประกอบ; รวมตัว
+C1	assembly	n.	การประชุม; การประกอบ
+C1	assert	v.	ยืนยัน
+C1	assertion	n.	การยืนยัน
+C1	asset	n.	ทรัพย์สิน
+C1	assign	v.	มอบหมาย
+C1	assistance	n.	ความช่วยเหลือ
+C1	assumption	n.	ข้อสันนิษฐาน
+C1	assurance	n.	การรับรอง
+C1	assure	v.	ให้ความมั่นใจ
+C1	astonishing	adj.	น่าประหลาดใจมาก
+C1	asylum	n.	การลี้ภัย
+C1	athletic	adj.	เกี่ยวกับกรีฑา; แข็งแรง
+C1	attain	v.	บรรลุ
+C1	attendance	n.	การเข้าร่วม
+C1	attic	n.	ห้องใต้หลังคา
+C1	attorney	n.	ทนายความ
+C1	attribute	n., v.	คุณลักษณะ; ให้เหตุว่า
+C1	audit	n., v.	การตรวจสอบบัญชี
+C1	authentic	adj.	แท้จริง
+C1	authorize	v.	อนุญาต, มอบอำนาจ
+C1	autonomy	n.	ความเป็นอิสระ, อำนาจปกครองตนเอง
+C1	availability	n.	ความพร้อมใช้งาน
+C1	await	v.	รอคอย
+C1	awareness	n.	ความตระหนัก
+C1	awesome	adj.	ยอดเยี่ยม
+C1	awkward	adj.	อึดอัด; เก้งก้าง
+C1	backing	n.	การสนับสนุน
+C1	backup	n.	การสำรองข้อมูล
+C1	bail	n.	เงินประกันตัว
+C1	ballet	n.	บัลเลต์
+C1	ballot	n.	บัตรเลือกตั้ง
+C1	bankruptcy	n.	การล้มละลาย
+C1	banner	n.	ป้ายผ้า, แบนเนอร์
+C1	bare	adj.	เปลือย, เปล่า
+C1	barely	adv.	แทบจะไม่
+C1	bargain	n.	ของราคาถูก; การต่อรอง
+C1	barrel	n.	ถัง
+C1	baseline	n.	เกณฑ์พื้นฐาน
+C1	basement	n.	ห้องใต้ดิน
+C1	batch	n.	ชุด, ล็อต
+C1	beam	n.	ลำแสง; คาน
+C1	bearing	n.	ความเกี่ยวข้อง
+C1	behalf	n.	ในนามของ (on behalf of)
+C1	beloved	adj.	เป็นที่รัก
+C1	bench	n.	ม้านั่ง
+C1	benchmark	n.	เกณฑ์มาตรฐาน
+C1	beneath	prep.	ข้างใต้
+C1	beneficial	adj.	เป็นประโยชน์
+C1	beneficiary	n.	ผู้รับผลประโยชน์
+C1	betray	v.	ทรยศ
+C1	bias	n.	อคติ
+C1	biased	adj.	มีอคติ
+C1	bid	n., v.	การประมูล; ประมูล
+C1	biography	n.	ชีวประวัติ
+C1	bizarre	adj.	แปลกประหลาด
+C1	blade	n.	ใบมีด
+C1	blast	n., v.	การระเบิด; ระเบิด
+C1	bleed	v.	เลือดออก
+C1	blend	v., n.	ผสม; ส่วนผสม
+C1	bless	v.	อวยพร
+C1	blessing	n.	พร
+C1	bold	adj.	กล้าหาญ; ตัวหนา
+C1	bombing	n.	การทิ้งระเบิด
+C1	bonus	n.	โบนัส
+C1	boom	n.	การเติบโตอย่างรวดเร็ว
+C1	boost	v., n.	กระตุ้น, เพิ่ม
+C1	boundary	n.	ขอบเขต
+C1	bow	v., n.	โค้งคำนับ; คันธนู
+C1	breach	n., v.	การละเมิด; ละเมิด
+C1	breakdown	n.	การเสีย; การแยกย่อย
+C1	breakthrough	n.	ความก้าวหน้าครั้งสำคัญ
+C1	breed	v., n.	ผสมพันธุ์; สายพันธุ์
+C1	bribe	n., v.	สินบน; ติดสินบน
+C1	brick	n.	อิฐ
+C1	briefly	adv.	โดยย่อ
+C1	brutal	adj.	โหดร้าย
+C1	bulk	n.	จำนวนมาก, ส่วนใหญ่
+C1	burden	n.	ภาระ
+C1	bureaucracy	n.	ระบบราชการ
+C1	burial	n.	การฝังศพ
+C1	burst	v.	ระเบิดออก, แตก
+C1	buyer	n.	ผู้ซื้อ
+C1	cabinet	n.	ตู้; คณะรัฐมนตรี
+C1	calculation	n.	การคำนวณ
+C1	canal	n.	คลอง
+C1	candle	n.	เทียน
+C1	canvas	n.	ผ้าใบ
+C1	capability	n.	ขีดความสามารถ
+C1	capitalism	n.	ทุนนิยม
+C1	capitalist	adj., n.	นายทุน; ทุนนิยม
+C1	cargo	n.	สินค้าบรรทุก
+C1	carriage	n.	รถม้า; ตู้รถไฟ
+C1	carve	v.	แกะสลัก
+C1	casualty	n.	ผู้บาดเจ็บ/เสียชีวิต
+C1	catalogue	n.	แคตตาล็อก
+C1	cater	v.	จัดเลี้ยง; ตอบสนอง
+C1	cattle	n.	ปศุสัตว์ (วัว)
+C1	caution	n.	ความระมัดระวัง
+C1	cautious	adj.	ระมัดระวัง
+C1	cease	v.	หยุด
+C1	ceasefire	n.	การหยุดยิง
+C1	celebrated	adj.	มีชื่อเสียง
+C1	cemetery	n.	สุสาน
+C1	certainty	n.	ความแน่นอน
+C1	certificate	n.	ใบรับรอง
+C1	chamber	n.	ห้อง; สภา
+C1	chaos	n.	ความวุ่นวาย
+C1	chaotic	adj.	วุ่นวาย
+C1	characterize	v.	มีลักษณะเฉพาะ
+C1	charm	n.	เสน่ห์
+C1	charming	adj.	มีเสน่ห์
+C1	charter	n.	กฎบัตร; การเช่าเหมา
+C1	chase	v., n.	ไล่ล่า
+C1	cheek	n.	แก้ม
+C1	cheer	v., n.	โห่ร้องเชียร์
+C1	chemist	n.	นักเคมี; เภสัชกร
+C1	choir	n.	คณะนักร้องประสานเสียง
+C1	chronic	adj.	เรื้อรัง
+C1	chunk	n.	ก้อนใหญ่
+C1	circuit	n.	วงจร
+C1	circulate	v.	หมุนเวียน
+C1	circulation	n.	การไหลเวียน
+C1	citizenship	n.	สัญชาติ, ความเป็นพลเมือง
+C1	civic	adj.	เกี่ยวกับพลเมือง
+C1	civilian	n., adj.	พลเรือน
+C1	civilization	n.	อารยธรรม
+C1	clarify	v.	ชี้แจง
+C1	clarity	n.	ความชัดเจน
+C1	clash	n., v.	การปะทะ
+C1	classification	n.	การจัดประเภท
+C1	classify	v.	จำแนก
+C1	cleaner	n.	พนักงานทำความสะอาด
+C1	clerk	n.	เสมียน
+C1	cliff	n.	หน้าผา
+C1	clinic	n.	คลินิก
+C1	clinical	adj.	ทางคลินิก
+C1	clip	n.	คลิป; ที่หนีบ
+C1	closure	n.	การปิด
+C1	cluster	n.	กลุ่ม, กระจุก
+C1	coalition	n.	รัฐบาลผสม, แนวร่วม
+C1	coastal	adj.	ชายฝั่ง
+C1	cognitive	adj.	เกี่ยวกับการรับรู้
+C1	coincidence	n.	ความบังเอิญ
+C1	collaborate	v.	ร่วมมือ
+C1	collaboration	n.	ความร่วมมือ
+C1	collective	adj.	ร่วมกัน
+C1	collector	n.	นักสะสม
+C1	collision	n.	การชน
+C1	colonial	adj.	อาณานิคม
+C1	colony	n.	อาณานิคม
+C1	columnist	n.	นักเขียนคอลัมน์
+C1	combat	n., v.	การต่อสู้; ต่อต้าน
+C1	comeback	n.	การกลับมา
+C1	comic	adj., n.	ตลก; หนังสือการ์ตูน
+C1	commander	n.	ผู้บัญชาการ
+C1	commence	v.	เริ่มต้น
+C1	commentary	n.	คำบรรยาย, บทวิจารณ์
+C1	commentator	n.	ผู้บรรยาย
+C1	commerce	n.	การพาณิชย์
+C1	commissioner	n.	กรรมาธิการ
+C1	commodity	n.	สินค้าโภคภัณฑ์
+C1	communist	adj., n.	คอมมิวนิสต์
+C1	companion	n.	เพื่อนร่วมทาง
+C1	comparable	adj.	เทียบเคียงได้
+C1	comparative	adj.	เชิงเปรียบเทียบ
+C1	compassion	n.	ความเมตตา
+C1	compel	v.	บังคับ
+C1	compelling	adj.	น่าสนใจมาก, น่าเชื่อ
+C1	compensate	v.	ชดเชย
+C1	compensation	n.	ค่าชดเชย
+C1	competence	n.	ความสามารถ
+C1	competent	adj.	มีความสามารถ
+C1	compile	v.	รวบรวม
+C1	complement	v.	ส่งเสริมกัน
+C1	completion	n.	การเสร็จสิ้น
+C1	complexity	n.	ความซับซ้อน
+C1	compliance	n.	การปฏิบัติตาม
+C1	complication	n.	ภาวะแทรกซ้อน
+C1	comply	v.	ปฏิบัติตาม
+C1	compose	v.	แต่ง (เพลง); ประกอบด้วย
+C1	composer	n.	นักแต่งเพลง
+C1	composition	n.	องค์ประกอบ; บทประพันธ์
+C1	compound	n.	สารประกอบ
+C1	comprehensive	adj.	ครอบคลุม
+C1	comprise	v.	ประกอบด้วย
+C1	compromise	n., v.	การประนีประนอม
+C1	compulsory	adj.	บังคับ
+C1	compute	v.	คำนวณ
+C1	conceal	v.	ปกปิด
+C1	concede	v.	ยอมรับ (อย่างไม่เต็มใจ)
+C1	conceive	v.	คิดขึ้น; ตั้งครรภ์
+C1	conception	n.	ความเข้าใจ, แนวความคิด
+C1	concession	n.	การยอมผ่อนปรน
+C1	condemn	v.	ประณาม
+C1	confer	v.	ปรึกษาหารือ; มอบให้
+C1	confession	n.	คำสารภาพ
+C1	configuration	n.	การตั้งค่า, รูปแบบ
+C1	confine	v.	จำกัด; กักขัง
+C1	confront	v.	เผชิญหน้า
+C1	confrontation	n.	การเผชิญหน้า
+C1	congratulate	v.	แสดงความยินดี
+C1	conquer	v.	พิชิต
+C1	conscience	n.	มโนธรรม
+C1	consciousness	n.	จิตสำนึก, สติ
+C1	consecutive	adj.	ติดต่อกัน
+C1	consensus	n.	ฉันทามติ
+C1	consent	n., v.	ความยินยอม
+C1	conservation	n.	การอนุรักษ์
+C1	conserve	v.	อนุรักษ์
+C1	considerable	adj.	มากพอสมควร
+C1	considerably	adv.	อย่างมาก
+C1	consistency	n.	ความสม่ำเสมอ
+C1	consistently	adv.	อย่างสม่ำเสมอ
+C1	consolidate	v.	รวบรวม, ทำให้มั่นคง
+C1	conspiracy	n.	การสมคบคิด
+C1	constituency	n.	เขตเลือกตั้ง
+C1	constitute	v.	ประกอบเป็น
+C1	constitution	n.	รัฐธรรมนูญ
+C1	constitutional	adj.	ตามรัฐธรรมนูญ
+C1	constraint	n.	ข้อจำกัด
+C1	consult	v.	ปรึกษา
+C1	consultant	n.	ที่ปรึกษา
+C1	consultation	n.	การปรึกษา
+C1	consumption	n.	การบริโภค
+C1	contempt	n.	ความดูถูก
+C1	contend	v.	โต้แย้ง; แข่งขัน
+C1	contender	n.	ผู้เข้าแข่งขัน
+C1	contention	n.	การโต้แย้ง
+C1	continually	adv.	อย่างต่อเนื่อง
+C1	continuity	n.	ความต่อเนื่อง
+C1	contractor	n.	ผู้รับเหมา
+C1	contradiction	n.	ความขัดแย้ง
+C1	contrary	adj., n.	ตรงกันข้าม
+C1	controversial	adj.	เป็นที่ถกเถียง
+C1	controversy	n.	ข้อถกเถียง
+C1	convention	n.	การประชุมใหญ่; ธรรมเนียม
+C1	conventional	adj.	ตามแบบแผน
+C1	conversion	n.	การแปลง; การเปลี่ยนศาสนา
+C1	conviction	n.	ความเชื่อมั่น; การตัดสินว่าผิด
+C1	cooperate	v.	ร่วมมือ
+C1	cooperation	n.	ความร่วมมือ
+C1	cooperative	adj.	ร่วมมือ
+C1	coordinate	v.	ประสานงาน
+C1	coordination	n.	การประสานงาน
+C1	coordinator	n.	ผู้ประสานงาน
+C1	cope	v.	รับมือ
+C1	copyright	n.	ลิขสิทธิ์
+C1	correction	n.	การแก้ไข
+C1	correlate	v.	มีความสัมพันธ์กัน
+C1	correlation	n.	ความสัมพันธ์
+C1	correspond	v.	สอดคล้อง; ติดต่อทางจดหมาย
+C1	correspondence	n.	จดหมายโต้ตอบ
+C1	correspondent	n.	ผู้สื่อข่าว
+C1	corresponding	adj.	ที่สอดคล้องกัน
+C1	corridor	n.	ทางเดิน
+C1	corrupt	adj., v.	ทุจริต
+C1	corruption	n.	การทุจริต
+C1	costly	adj.	แพง
+C1	councillor	n.	สมาชิกสภา
+C1	counselling	n.	การให้คำปรึกษา
+C1	counsellor	n.	ผู้ให้คำปรึกษา
+C1	counter	n., v.	เคาน์เตอร์; ตอบโต้
+C1	counterpart	n.	คู่เทียบ
+C1	countless	adj.	นับไม่ถ้วน
+C1	coup	n.	รัฐประหาร
+C1	courtesy	n.	ความสุภาพ
+C1	coverage	n.	การรายงานข่าว; ความคุ้มครอง
+C1	crack	n., v.	รอยแตก; แตก
+C1	craft	n.	งานฝีมือ
+C1	creativity	n.	ความคิดสร้างสรรค์
+C1	credibility	n.	ความน่าเชื่อถือ
+C1	credible	adj.	น่าเชื่อถือ
+C1	critically	adv.	อย่างวิกฤต; อย่างวิพากษ์
+C1	crown	n.	มงกุฎ
+C1	crude	adj.	หยาบ; ดิบ (น้ำมัน)
+C1	crush	v.	บดขยี้
+C1	crystal	n.	คริสตัล
+C1	cult	n.	ลัทธิ
+C1	cultivate	v.	เพาะปลูก; บ่มเพาะ
+C1	curator	n.	ภัณฑารักษ์
+C1	curiosity	n.	ความอยากรู้อยากเห็น
+C1	curious	adj.	อยากรู้อยากเห็น
+C1	custody	n.	การควบคุมตัว; สิทธิ์เลี้ยงดู
+C1	customs	n.	ศุลกากร
+C1	cutting	n.	การตัด
+C1	cynical	adj.	มองโลกในแง่ร้าย
+C1	dairy	n.	ผลิตภัณฑ์นม
+C1	damaging	adj.	สร้างความเสียหาย
+C1	dare	v.	กล้า
+C1	darkness	n.	ความมืด
+C1	database	n.	ฐานข้อมูล
+C1	dawn	n.	รุ่งอรุณ
+C1	deadline	n.	กำหนดส่ง
+C1	deadly	adj.	ร้ายแรงถึงตาย
+C1	dealer	n.	ผู้ค้า
+C1	debris	n.	เศษซาก
+C1	debut	n.	การเปิดตัวครั้งแรก
+C1	decisive	adj.	เด็ดขาด
+C1	deck	n.	ดาดฟ้าเรือ
+C1	declaration	n.	การประกาศ
+C1	dedicate	v.	อุทิศ
+C1	dedicated	adj.	ทุ่มเท
+C1	dedication	n.	ความทุ่มเท
+C1	deed	n.	การกระทำ; โฉนด
+C1	deem	v.	ถือว่า
+C1	default	n.	ค่าเริ่มต้น; การผิดนัดชำระ
+C1	defect	n.	ข้อบกพร่อง
+C1	defender	n.	ผู้ป้องกัน, กองหลัง
+C1	defensive	adj.	เชิงป้องกัน
+C1	deficiency	n.	การขาดแคลน
+C1	deficit	n.	การขาดดุล
+C1	defy	v.	ท้าทาย, ขัดขืน
+C1	delegate	n., v.	ผู้แทน; มอบหมาย
+C1	delegation	n.	คณะผู้แทน
+C1	delete	v.	ลบ
+C1	delicate	adj.	บอบบาง, ละเอียดอ่อน
+C1	democracy	n.	ประชาธิปไตย
+C1	democratic	adj.	เป็นประชาธิปไตย
+C1	demonstration	n.	การสาธิต; การเดินขบวน
+C1	denial	n.	การปฏิเสธ
+C1	dense	adj.	หนาแน่น
+C1	density	n.	ความหนาแน่น
+C1	dependence	n.	การพึ่งพา
+C1	dependent	adj.	ขึ้นอยู่กับ, พึ่งพา
+C1	depict	v.	พรรณนา, วาดภาพ
+C1	deploy	v.	ส่งกำลัง, นำไปใช้
+C1	deployment	n.	การนำไปใช้
+C1	deposit	n., v.	เงินมัดจำ; ฝาก
+C1	depression	n.	ภาวะซึมเศร้า; ภาวะเศรษฐกิจตกต่ำ
+C1	deprive	v.	กีดกัน, พราก
+C1	deputy	n.	รอง (ตำแหน่ง)
+C1	derive	v.	ได้มาจาก
+C1	descend	v.	ลงมา
+C1	descent	n.	การลง; เชื้อสาย
+C1	designate	v.	กำหนด, แต่งตั้ง
+C1	desirable	adj.	น่าปรารถนา
+C1	desktop	n.	คอมพิวเตอร์ตั้งโต๊ะ
+C1	despair	n.	ความสิ้นหวัง
+C1	desperately	adv.	อย่างสิ้นหวัง
+C1	destruction	n.	การทำลาย
+C1	destructive	adj.	ทำลายล้าง
+C1	detain	v.	กักตัว
+C1	detection	n.	การตรวจจับ
+C1	detention	n.	การกักขัง
+C1	deteriorate	v.	เสื่อมลง
+C1	devastate	v.	ทำลายล้าง
+C1	devastating	adj.	ร้ายแรงมาก
+C1	devise	v.	คิดค้น
+C1	devote	v.	อุทิศ
+C1	devoted	adj.	ทุ่มเท, ซื่อสัตย์
+C1	diagnose	v.	วินิจฉัย
+C1	diagnosis	n.	การวินิจฉัย
+C1	differ	v.	แตกต่าง
+C1	differentiate	v.	แยกแยะ
+C1	dignity	n.	ศักดิ์ศรี
+C1	dilemma	n.	ภาวะกลืนไม่เข้าคายไม่ออก
+C1	dimension	n.	มิติ
+C1	diminish	v.	ลดลง
+C1	dip	v., n.	จุ่ม; การลดลง
+C1	diplomat	n.	นักการทูต
+C1	diplomatic	adj.	ทางการทูต
+C1	directory	n.	สมุดรายชื่อ; ไดเรกทอรี
+C1	disability	n.	ความพิการ
+C1	disabled	adj.	พิการ
+C1	disagreement	n.	ความขัดแย้ง
+C1	disappointment	n.	ความผิดหวัง
+C1	disastrous	adj.	หายนะ
+C1	discard	v.	ทิ้ง
+C1	discharge	v., n.	ปล่อยออก; จำหน่าย (ผู้ป่วย)
+C1	disclose	v.	เปิดเผย
+C1	disclosure	n.	การเปิดเผย
+C1	discourage	v.	ทำให้ท้อ
+C1	discourse	n.	วาทกรรม
+C1	discretion	n.	ดุลยพินิจ
+C1	discrimination	n.	การเลือกปฏิบัติ
+C1	dismissal	n.	การไล่ออก
+C1	disorder	n.	ความผิดปกติ; ความวุ่นวาย
+C1	displace	v.	ทำให้พลัดถิ่น
+C1	disposal	n.	การกำจัด
+C1	dispose	v.	กำจัด
+C1	dispute	n., v.	ข้อพิพาท; โต้แย้ง
+C1	disrupt	v.	รบกวน, ขัดขวาง
+C1	disruption	n.	การหยุดชะงัก
+C1	dissolve	v.	ละลาย; ยุบ
+C1	distinct	adj.	แตกต่างชัดเจน
+C1	distinction	n.	ความแตกต่าง; เกียรตินิยม
+C1	distinctive	adj.	โดดเด่น
+C1	distinguish	v.	แยกแยะ
+C1	distort	v.	บิดเบือน
+C1	distract	v.	ทำให้เสียสมาธิ
+C1	distress	n.	ความทุกข์
+C1	disturb	v.	รบกวน
+C1	disturbing	adj.	น่าวิตก
+C1	diverse	adj.	หลากหลาย
+C1	diversity	n.	ความหลากหลาย
+C1	divert	v.	เบี่ยงเบน
+C1	divine	adj.	ศักดิ์สิทธิ์, ของพระเจ้า
+C1	doctrine	n.	หลักคำสอน
+C1	documentation	n.	เอกสารประกอบ
+C1	domain	n.	ขอบเขต; โดเมน
+C1	dominance	n.	การครอบงำ
+C1	dominant	adj.	โดดเด่น, มีอำนาจเหนือ
+C1	donation	n.	การบริจาค
+C1	donor	n.	ผู้บริจาค
+C1	dose	n.	ปริมาณยา
+C1	drain	v., n.	ระบายน้ำ; ท่อระบาย
+C1	drift	v.	ลอยไป
+C1	drown	v.	จมน้ำ
+C1	dual	adj.	คู่
+C1	dub	v.	ตั้งฉายา; พากย์
+C1	dump	v.	ทิ้ง
+C1	duration	n.	ระยะเวลา
+C1	dynamic	adj., n.	มีพลวัต; พลวัต
+C1	eager	adj.	กระตือรือร้น
+C1	earnings	n.	รายได้
+C1	ease	n., v.	ความง่าย; บรรเทา
+C1	echo	n., v.	เสียงสะท้อน
+C1	ecological	adj.	ทางนิเวศ
+C1	economics	n.	เศรษฐศาสตร์
+C1	economist	n.	นักเศรษฐศาสตร์
+C1	ecosystem	n.	ระบบนิเวศ
+C1	educator	n.	นักการศึกษา
+C1	effectiveness	n.	ประสิทธิผล
+C1	efficiency	n.	ประสิทธิภาพ
+C1	ego	n.	อัตตา
+C1	elaborate	adj., v.	ประณีต; อธิบายเพิ่มเติม
+C1	electoral	adj.	เกี่ยวกับการเลือกตั้ง
+C1	elegant	adj.	สง่างาม
+C1	elementary	adj.	ขั้นพื้นฐาน, ประถม
+C1	elevate	v.	ยกระดับ
+C1	eligible	adj.	มีสิทธิ์
+C1	eliminate	v.	กำจัด
+C1	elite	n., adj.	ชนชั้นนำ
+C1	embark	v.	เริ่มต้น; ลงเรือ
+C1	embarrassment	n.	ความอับอาย
+C1	embassy	n.	สถานทูต
+C1	embed	v.	ฝัง
+C1	embody	v.	เป็นตัวแทน, รวบรวม
+C1	embrace	v., n.	โอบกอด; ยอมรับ
+C1	emergence	n.	การเกิดขึ้น
+C1	emission	n.	การปล่อย (ก๊าซ)
+C1	empathy	n.	ความเห็นอกเห็นใจ
+C1	empire	n.	จักรวรรดิ
+C1	empirical	adj.	เชิงประจักษ์
+C1	empower	v.	ให้อำนาจ
+C1	enact	v.	ออกกฎหมาย
+C1	encompass	v.	ครอบคลุม
+C1	endless	adj.	ไม่มีที่สิ้นสุด
+C1	endorse	v.	รับรอง, สนับสนุน
+C1	endorsement	n.	การรับรอง
+C1	endure	v.	อดทน
+C1	enforce	v.	บังคับใช้
+C1	enforcement	n.	การบังคับใช้
+C1	engagement	n.	การหมั้น; การมีส่วนร่วม
+C1	engaging	adj.	น่าสนใจ, ดึงดูด
+C1	enormously	adv.	อย่างมหาศาล
+C1	enrich	v.	ทำให้สมบูรณ์ขึ้น
+C1	enrol	v.	ลงทะเบียนเรียน
+C1	ensemble	n.	วงดนตรี, คณะ
+C1	enterprise	n.	วิสาหกิจ
+C1	entertaining	adj.	ให้ความบันเทิง
+C1	enthusiast	n.	ผู้ที่ชื่นชอบ
+C1	entitle	v.	ให้สิทธิ์
+C1	entity	n.	หน่วย, องค์กร
+C1	entrepreneur	n.	ผู้ประกอบการ
+C1	envelope	n.	ซองจดหมาย
+C1	equality	n.	ความเท่าเทียม
+C1	equation	n.	สมการ
+C1	equip	v.	ติดตั้งอุปกรณ์
+C1	equivalent	adj., n.	เทียบเท่า
+C1	era	n.	ยุค, สมัย
+C1	erect	v.	สร้าง, ตั้งขึ้น
+C1	erupt	v.	ปะทุ
+C1	escalate	v.	บานปลาย
+C1	essence	n.	แก่นแท้
+C1	establishment	n.	สถานประกอบการ; การก่อตั้ง
+C1	eternal	adj.	นิรันดร์
+C1	ethic	n.	จรรยาบรรณ
+C1	ethnic	adj.	ชาติพันธุ์
+C1	evacuate	v.	อพยพ
+C1	evident	adj.	เห็นได้ชัด
+C1	evidently	adv.	อย่างเห็นได้ชัด
+C1	evoke	v.	ทำให้ระลึกถึง
+C1	evolution	n.	วิวัฒนาการ
+C1	evolutionary	adj.	เชิงวิวัฒนาการ
+C1	evolve	v.	วิวัฒน์
+C1	exaggerate	v.	พูดเกินจริง
+C1	exceed	v.	เกิน
+C1	excellence	n.	ความเป็นเลิศ
+C1	exceptional	adj.	ยอดเยี่ยม, พิเศษ
+C1	excess	n., adj.	ส่วนเกิน
+C1	excessive	adj.	มากเกินไป
+C1	exclude	v.	ไม่รวม, กีดกัน
+C1	exclusion	n.	การกีดกัน
+C1	exclusive	adj.	เฉพาะ; หรูหรา
+C1	exclusively	adv.	โดยเฉพาะ
+C1	execute	v.	ดำเนินการ; ประหารชีวิต
+C1	execution	n.	การดำเนินการ; การประหาร
+C1	exert	v.	ใช้ (แรง/อิทธิพล)
+C1	exhaust	v., n.	ทำให้หมดแรง; ไอเสีย
+C1	exhibit	v., n.	จัดแสดง; สิ่งจัดแสดง
+C1	exile	n.	การเนรเทศ
+C1	existing	adj.	ที่มีอยู่
+C1	exit	n., v.	ทางออก; ออก
+C1	exotic	adj.	แปลกใหม่ (จากต่างถิ่น)
+C1	expansion	n.	การขยายตัว
+C1	expenditure	n.	รายจ่าย
+C1	experimental	adj.	เชิงทดลอง
+C1	expertise	n.	ความเชี่ยวชาญ
+C1	expire	v.	หมดอายุ
+C1	explicit	adj.	ชัดแจ้ง
+C1	explicitly	adv.	อย่างชัดแจ้ง
+C1	exploit	v.	เอาเปรียบ; ใช้ประโยชน์
+C1	exploitation	n.	การเอารัดเอาเปรียบ
+C1	exposure	n.	การสัมผัส; การเปิดเผย
+C1	extension	n.	การขยาย; ส่วนต่อเติม
+C1	extensive	adj.	กว้างขวาง
+C1	extensively	adv.	อย่างกว้างขวาง
+C1	extract	v., n.	สกัด; ส่วนที่คัดมา
+C1	extremist	n.	ผู้นิยมความรุนแรง
+C1	fabric	n.	ผ้า
+C1	fabulous	adj.	ยอดเยี่ยม
+C1	facilitate	v.	อำนวยความสะดวก
+C1	faculty	n.	คณะ (มหาวิทยาลัย); ความสามารถ
+C1	fade	v.	จางหาย
+C1	fairness	n.	ความยุติธรรม
+C1	fake	adj.	ปลอม
+C1	fame	n.	ชื่อเสียง
+C1	fantasy	n.	จินตนาการ, แฟนตาซี
+C1	fascinate	v.	ทำให้หลงใหล
+C1	fatal	adj.	ถึงตาย
+C1	fatigue	n.	ความเหนื่อยล้า
+C1	favourable	adj.	เป็นผลดี
+C1	feat	n.	ความสำเร็จที่ยาก
+C1	federal	adj.	ของรัฐบาลกลาง
+C1	feminist	n., adj.	สตรีนิยม
+C1	fibre	n.	เส้นใย
+C1	fierce	adj.	ดุร้าย, รุนแรง
+C1	filter	n., v.	ตัวกรอง; กรอง
+C1	firearm	n.	อาวุธปืน
+C1	firework	n.	ดอกไม้ไฟ
+C1	firmly	adv.	อย่างมั่นคง
+C1	fiscal	adj.	ทางการคลัง
+C1	fitting	adj.	เหมาะสม
+C1	flaw	n.	ข้อบกพร่อง
+C1	flawed	adj.	มีข้อบกพร่อง
+C1	flee	v.	หลบหนี
+C1	fleet	n.	กองเรือ
+C1	flesh	n.	เนื้อหนัง
+C1	flexibility	n.	ความยืดหยุ่น
+C1	flourish	v.	เจริญรุ่งเรือง
+C1	fluid	n., adj.	ของไหล
+C1	foam	n.	โฟม
+C1	fog	n.	หมอก
+C1	footage	n.	ฟุตเทจ, ภาพวิดีโอ
+C1	forbid	v.	ห้าม
+C1	forecast	n., v.	การพยากรณ์; พยากรณ์
+C1	foreigner	n.	ชาวต่างชาติ
+C1	forensic	adj.	นิติวิทยาศาสตร์
+C1	forge	v.	ปลอมแปลง; สร้าง (ความสัมพันธ์)
+C1	formation	n.	การก่อตัว
+C1	formula	n.	สูตร
+C1	formulate	v.	กำหนด, คิดสูตร
+C1	forth	adv.	ไปข้างหน้า
+C1	forthcoming	adj.	ที่กำลังจะมาถึง
+C1	fossil	n.	ฟอสซิล
+C1	foster	v.	ส่งเสริม; อุปการะ
+C1	foundation	n.	มูลนิธิ; รากฐาน
+C1	founder	n.	ผู้ก่อตั้ง
+C1	fraction	n.	เศษส่วน
+C1	fragile	adj.	เปราะบาง
+C1	fragment	n.	เศษ, ชิ้นส่วน
+C1	framework	n.	กรอบงาน
+C1	franchise	n.	แฟรนไชส์
+C1	frankly	adv.	พูดตรงๆ
+C1	fraud	n.	การฉ้อโกง
+C1	freely	adv.	อย่างอิสระ
+C1	frustrated	adj.	หงุดหงิด
+C1	frustrating	adj.	น่าหงุดหงิด
+C1	frustration	n.	ความหงุดหงิด
+C1	fulfil	v.	ทำให้สำเร็จ
+C1	fundraising	n.	การระดมทุน
+C1	funeral	n.	งานศพ
+C1	fury	n.	ความเดือดดาล
+C1	gallon	n.	แกลลอน
+C1	gaming	n.	การเล่นเกม
+C1	gaze	v., n.	จ้องมอง
+C1	gear	n.	เกียร์; อุปกรณ์
+C1	gender	n.	เพศสภาพ
+C1	gene	n.	ยีน
+C1	genetic	adj.	ทางพันธุกรรม
+C1	genius	n.	อัจฉริยะ
+C1	genocide	n.	การฆ่าล้างเผ่าพันธุ์
+C1	genuine	adj.	แท้จริง
+C1	genuinely	adv.	อย่างแท้จริง
+C1	gesture	n.	ท่าทาง
+C1	glance	v., n.	เหลือบมอง
+C1	glimpse	n.	การเห็นแวบหนึ่ง
+C1	glory	n.	ความรุ่งโรจน์
+C1	governance	n.	ธรรมาภิบาล, การปกครอง
+C1	governor	n.	ผู้ว่าการ
+C1	grace	n.	ความสง่างาม
+C1	gradual	adj.	ทีละน้อย
+C1	graphic	adj., n.	กราฟิก; ชัดเจน
+C1	graphics	n.	กราฟิก
+C1	grasp	v., n.	จับ; เข้าใจ
+C1	grave	n., adj.	หลุมศพ; ร้ายแรง
+C1	gravity	n.	แรงโน้มถ่วง; ความร้ายแรง
+C1	greenhouse	n.	เรือนกระจก
+C1	grid	n.	ตาราง; โครงข่ายไฟฟ้า
+C1	grief	n.	ความโศกเศร้า
+C1	grind	v.	บด
+C1	grip	n., v.	การจับ; จับแน่น
+C1	gross	adj.	รวม (ก่อนหัก); น่าขยะแขยง
+C1	guidance	n.	คำแนะนำ
+C1	guideline	n.	แนวทาง
+C1	guilt	n.	ความรู้สึกผิด
+C1	gut	n.	ลำไส้; สัญชาตญาณ
+C1	habitat	n.	ถิ่นที่อยู่อาศัย
+C1	halt	v., n.	หยุด
+C1	handful	n.	กำมือหนึ่ง, จำนวนน้อย
+C1	handling	n.	การจัดการ
+C1	handy	adj.	สะดวก, มีประโยชน์
+C1	harassment	n.	การคุกคาม
+C1	hardware	n.	ฮาร์ดแวร์
+C1	harmony	n.	ความกลมกลืน
+C1	harsh	adj.	รุนแรง, โหดร้าย
+C1	harvest	n., v.	การเก็บเกี่ยว
+C1	hatred	n.	ความเกลียดชัง
+C1	haunt	v.	หลอกหลอน
+C1	hazard	n.	อันตราย
+C1	headquarters	n.	สำนักงานใหญ่
+C1	heal	v.	รักษาให้หาย
+C1	healthcare	n.	การดูแลสุขภาพ
+C1	heighten	v.	เพิ่มขึ้น
+C1	helmet	n.	หมวกกันน็อก
+C1	hence	adv.	ดังนั้น
+C1	herb	n.	สมุนไพร
+C1	heritage	n.	มรดก
+C1	hidden	adj.	ซ่อนอยู่
+C1	hierarchy	n.	ลำดับชั้น
+C1	highway	n.	ทางหลวง
+C1	hint	n., v.	คำใบ้; บอกใบ้
+C1	historian	n.	นักประวัติศาสตร์
+C1	hook	n.	ตะขอ
+C1	hopefully	adv.	หวังว่า
+C1	horizon	n.	เส้นขอบฟ้า
+C1	horn	n.	เขา (สัตว์); แตร
+C1	hospitality	n.	การต้อนรับ
+C1	hostage	n.	ตัวประกัน
+C1	hostile	adj.	เป็นศัตรู
+C1	hostility	n.	ความเป็นปรปักษ์
+C1	humanitarian	adj.	มนุษยธรรม
+C1	humanity	n.	มนุษยชาติ; มนุษยธรรม
+C1	humble	adj.	ถ่อมตน
+C1	hydrogen	n.	ไฮโดรเจน
+C1	hypothesis	n.	สมมติฐาน
+C1	icon	n.	ไอคอน; บุคคลสัญลักษณ์
+C1	iconic	adj.	เป็นสัญลักษณ์
+C1	ideological	adj.	ทางอุดมการณ์
+C1	ideology	n.	อุดมการณ์
+C1	ignorance	n.	ความไม่รู้
+C1	illusion	n.	ภาพลวงตา
+C1	imagery	n.	จินตภาพ
+C1	immense	adj.	มหาศาล
+C1	immigration	n.	การย้ายถิ่นเข้า
+C1	imminent	adj.	ใกล้จะเกิด
+C1	immune	adj.	มีภูมิคุ้มกัน
+C1	implement	v.	นำไปปฏิบัติ
+C1	implementation	n.	การนำไปใช้
+C1	implication	n.	ผลที่ตามมา; นัย
+C1	imprison	v.	จำคุก
+C1	imprisonment	n.	การจำคุก
+C1	inability	n.	การไม่สามารถ
+C1	inadequate	adj.	ไม่เพียงพอ
+C1	inappropriate	adj.	ไม่เหมาะสม
+C1	incentive	n.	แรงจูงใจ
+C1	incidence	n.	อุบัติการณ์
+C1	inclined	adj.	มีแนวโน้ม
+C1	inclusion	n.	การรวมเข้า
+C1	incorporate	v.	รวมเข้า
+C1	incorrect	adj.	ไม่ถูกต้อง
+C1	incur	v.	ก่อให้เกิด (ค่าใช้จ่าย)
+C1	independence	n.	อิสรภาพ, เอกราช
+C1	index	n.	ดัชนี
+C1	indication	n.	ข้อบ่งชี้
+C1	indicator	n.	ตัวชี้วัด
+C1	indigenous	adj.	พื้นเมือง
+C1	induce	v.	ชักนำ
+C1	indulge	v.	ตามใจ
+C1	inequality	n.	ความไม่เท่าเทียม
+C1	infamous	adj.	ฉาวโฉ่
+C1	infant	n.	ทารก
+C1	infect	v.	ติดเชื้อ
+C1	inflation	n.	เงินเฟ้อ
+C1	inflict	v.	ทำให้ได้รับ (ความเจ็บปวด)
+C1	influential	adj.	มีอิทธิพล
+C1	infrastructure	n.	โครงสร้างพื้นฐาน
+C1	inhabitant	n.	ผู้อยู่อาศัย
+C1	inherent	adj.	โดยธรรมชาติ, มีอยู่ในตัว
+C1	inherit	v.	สืบทอด, รับมรดก
+C1	inhibit	v.	ยับยั้ง
+C1	initiate	v.	ริเริ่ม
+C1	inject	v.	ฉีด
+C1	injection	n.	การฉีดยา
+C1	injustice	n.	ความอยุติธรรม
+C1	innovation	n.	นวัตกรรม
+C1	innovative	adj.	เป็นนวัตกรรม
+C1	input	n.	ข้อมูลนำเข้า; ความคิดเห็น
+C1	inquiry	n.	การสอบสวน
+C1	insert	v.	แทรก, ใส่
+C1	insider	n.	คนใน
+C1	inspect	v.	ตรวจสอบ
+C1	inspection	n.	การตรวจสอบ
+C1	inspector	n.	ผู้ตรวจการ
+C1	inspiration	n.	แรงบันดาลใจ
+C1	installation	n.	การติดตั้ง
+C1	instant	adj., n.	ทันที; ชั่วขณะ
+C1	instantly	adv.	ทันที
+C1	instinct	n.	สัญชาตญาณ
+C1	institutional	adj.	เชิงสถาบัน
+C1	insufficient	adj.	ไม่เพียงพอ
+C1	insult	n., v.	คำดูถูก; ดูถูก
+C1	insure	v.	ทำประกัน
+C1	intact	adj.	สมบูรณ์, ไม่เสียหาย
+C1	intake	n.	ปริมาณที่รับเข้า
+C1	integral	adj.	เป็นส่วนสำคัญ
+C1	integrate	v.	บูรณาการ
+C1	integration	n.	การบูรณาการ
+C1	integrity	n.	ความซื่อตรง
+C1	intellectual	adj., n.	ทางปัญญา; ปัญญาชน
+C1	intensify	v.	ทวีความรุนแรง
+C1	intensity	n.	ความเข้มข้น
+C1	intensive	adj.	เข้มข้น
+C1	intent	n.	เจตนา
+C1	interact	v.	มีปฏิสัมพันธ์
+C1	interaction	n.	ปฏิสัมพันธ์
+C1	interactive	adj.	โต้ตอบได้
+C1	interface	n.	ส่วนต่อประสาน
+C1	interfere	v.	แทรกแซง
+C1	interference	n.	การแทรกแซง
+C1	interim	adj.	ชั่วคราว
+C1	intermediate	adj.	ระดับกลาง
+C1	interpretation	n.	การตีความ
+C1	interval	n.	ช่วงเวลา, ช่วงห่าง
+C1	intervene	v.	แทรกแซง
+C1	intervention	n.	การแทรกแซง
+C1	intimate	adj.	ใกล้ชิด
+C1	intriguing	adj.	น่าสนใจ, ชวนสงสัย
+C1	invade	v.	รุกราน
+C1	invasion	n.	การรุกราน
+C1	investigator	n.	ผู้สืบสวน
+C1	investor	n.	นักลงทุน
+C1	invisible	adj.	มองไม่เห็น
+C1	invoke	v.	อ้างถึง
+C1	involvement	n.	การมีส่วนร่วม
+C1	ironic	adj.	ย้อนแย้ง, ประชด
+C1	irony	n.	ความย้อนแย้ง
+C1	irrelevant	adj.	ไม่เกี่ยวข้อง
+C1	isolate	v.	แยกออก
+C1	isolated	adj.	โดดเดี่ยว
+C1	isolation	n.	ความโดดเดี่ยว
+C1	jail	n., v.	คุก; จำคุก
+C1	jet	n.	เครื่องบินเจ็ต
+C1	joint	adj., n.	ร่วมกัน; ข้อต่อ
+C1	jointly	adv.	ร่วมกัน
+C1	journalism	n.	วารสารศาสตร์
+C1	judicial	adj.	ทางตุลาการ
+C1	jury	n.	คณะลูกขุน
+C1	justification	n.	การให้เหตุผล
+C1	juvenile	adj.	เยาวชน
+C1	kidnap	v.	ลักพาตัว
+C1	kidney	n.	ไต
+C1	kingdom	n.	ราชอาณาจักร
+C1	kit	n.	ชุดอุปกรณ์
+C1	landing	n.	การลงจอด
+C1	landlord	n.	เจ้าของบ้านเช่า
+C1	landmark	n.	สถานที่สำคัญ
+C1	lane	n.	ช่องทางจราจร; ตรอก
+C1	lap	n.	ตัก; รอบ (สนาม)
+C1	laser	n.	เลเซอร์
+C1	lately	adv.	เมื่อเร็วๆ นี้
+C1	latter	adj., n.	หลัง (ในสองสิ่ง)
+C1	lawn	n.	สนามหญ้า
+C1	lawsuit	n.	คดีความ
+C1	leak	v., n.	รั่ว; การรั่วไหล
+C1	leap	v., n.	กระโดด
+C1	lease	n., v.	สัญญาเช่า; ให้เช่า
+C1	legacy	n.	มรดก
+C1	legend	n.	ตำนาน
+C1	legendary	adj.	เป็นตำนาน
+C1	legislation	n.	กฎหมาย, การออกกฎหมาย
+C1	legislative	adj.	ทางนิติบัญญัติ
+C1	legislature	n.	สภานิติบัญญัติ
+C1	legitimate	adj.	ถูกต้องตามกฎหมาย
+C1	lengthy	adj.	ยาวนาน
+C1	lens	n.	เลนส์
+C1	lesbian	adj., n.	หญิงรักหญิง
+C1	lethal	adj.	ถึงตาย
+C1	liberal	adj., n.	เสรีนิยม
+C1	liberation	n.	การปลดปล่อย
+C1	liberty	n.	เสรีภาพ
+C1	lifelong	adj.	ตลอดชีวิต
+C1	lifetime	n.	ชั่วชีวิต
+C1	likelihood	n.	ความน่าจะเป็น
+C1	likewise	adv.	ในทำนองเดียวกัน
+C1	limb	n.	แขนขา; กิ่งไม้ใหญ่
+C1	limitation	n.	ข้อจำกัด
+C1	linear	adj.	เชิงเส้น
+C1	linger	v.	อ้อยอิ่ง, ค้างอยู่
+C1	linguistic	adj.	ทางภาษาศาสตร์
+C1	lining	n.	ซับใน
+C1	literacy	n.	การรู้หนังสือ
+C1	literally	adv.	ตามตัวอักษร; จริงๆ
+C1	literary	adj.	ทางวรรณกรรม
+C1	litigation	n.	การฟ้องร้อง
+C1	liver	n.	ตับ
+C1	lobby	n., v.	ล็อบบี้; วิ่งเต้น
+C1	locally	adv.	ในท้องถิ่น
+C1	log	n., v.	ท่อนไม้; บันทึก
+C1	logic	n.	ตรรกะ
+C1	logo	n.	โลโก้
+C1	long-standing	adj.	มีมานาน
+C1	loop	n.	วง, ห่วง
+C1	loyal	adj.	ภักดี
+C1	loyalty	n.	ความภักดี
+C1	lyric	n.	เนื้อเพลง
+C1	magical	adj.	มหัศจรรย์
+C1	magnetic	adj.	เป็นแม่เหล็ก
+C1	magnificent	adj.	งดงาม, ยิ่งใหญ่
+C1	magnitude	n.	ขนาด, ความรุนแรง
+C1	maid	n.	แม่บ้าน
+C1	mainland	n.	แผ่นดินใหญ่
+C1	mainstream	n., adj.	กระแสหลัก
+C1	maintenance	n.	การบำรุงรักษา
+C1	makeup	n.	เครื่องสำอาง; องค์ประกอบ
+C1	making	n.	การทำ, การสร้าง
+C1	mandate	n.	อาณัติ, คำสั่ง
+C1	mandatory	adj.	บังคับ
+C1	manifest	v.	แสดงออก
+C1	manipulate	v.	บงการ, จัดการ
+C1	manipulation	n.	การบงการ
+C1	manufacture	v.	ผลิต
+C1	manufacturer	n.	ผู้ผลิต
+C1	manufacturing	n.	การผลิต
+C1	manuscript	n.	ต้นฉบับ
+C1	margin	n.	ขอบ; ส่วนต่าง
+C1	marine	adj.	ทางทะเล
+C1	marker	n.	เครื่องหมาย; ปากกาเมจิก
+C1	martial	adj.	ทางการทหาร; การต่อสู้
+C1	marvellous	adj.	ยอดเยี่ยม
+C1	mask	n.	หน้ากาก
+C1	massacre	n.	การสังหารหมู่
+C1	maternal	adj.	ของแม่
+C1	mathematical	adj.	ทางคณิตศาสตร์
+C1	mature	adj., v.	เป็นผู้ใหญ่; เติบโต
+C1	maximize	v.	เพิ่มให้มากที่สุด
+C1	mayor	n.	นายกเทศมนตรี
+C1	meaningful	adj.	มีความหมาย
+C1	meantime	n.	ในระหว่างนั้น
+C1	mechanic	n.	ช่างเครื่อง
+C1	mechanical	adj.	ทางกลไก
+C1	mechanism	n.	กลไก
+C1	medal	n.	เหรียญรางวัล
+C1	mediate	v.	ไกล่เกลี่ย
+C1	medication	n.	ยารักษาโรค
+C1	medieval	adj.	ยุคกลาง
+C1	meditation	n.	การทำสมาธิ
+C1	memo	n.	บันทึกช่วยจำ
+C1	memoir	n.	บันทึกความทรงจำ
+C1	memorable	adj.	น่าจดจำ
+C1	memorial	n.	อนุสรณ์
+C1	mentally	adv.	ทางจิตใจ
+C1	mentor	n.	พี่เลี้ยง, ที่ปรึกษา
+C1	merchant	n.	พ่อค้า
+C1	mercy	n.	ความเมตตา
+C1	mere	adj.	เพียงแค่
+C1	merely	adv.	เพียงแค่
+C1	merge	v.	รวมกัน
+C1	merger	n.	การควบรวมกิจการ
+C1	merit	n.	ข้อดี, คุณความดี
+C1	metaphor	n.	อุปมา
+C1	methodology	n.	ระเบียบวิธี
+C1	midst	n.	ท่ามกลาง
+C1	migration	n.	การย้ายถิ่น
+C1	militant	adj., n.	หัวรุนแรง; นักรบ
+C1	mill	n.	โรงสี
+C1	minimal	adj.	น้อยที่สุด
+C1	minimize	v.	ลดให้น้อยที่สุด
+C1	mining	n.	การทำเหมือง
+C1	ministry	n.	กระทรวง
+C1	miracle	n.	ปาฏิหาริย์
+C1	misery	n.	ความทุกข์ยาก
+C1	misleading	adj.	ชวนให้เข้าใจผิด
+C1	missile	n.	ขีปนาวุธ
+C1	mobility	n.	การเคลื่อนย้าย
+C1	mobilize	v.	ระดมพล
+C1	mode	n.	โหมด, รูปแบบ
+C1	moderate	adj.	ปานกลาง
+C1	modest	adj.	ถ่อมตัว; พอประมาณ
+C1	molecule	n.	โมเลกุล
+C1	momentum	n.	แรงผลักดัน, โมเมนตัม
+C1	monopoly	n.	การผูกขาด
+C1	monster	n.	สัตว์ประหลาด
+C1	monthly	adj., adv.	รายเดือน
+C1	monument	n.	อนุสาวรีย์
+C1	morality	n.	ศีลธรรม
+C1	moreover	adv.	ยิ่งไปกว่านั้น
+C1	mortgage	n.	การจำนอง
+C1	mosque	n.	มัสยิด
+C1	motion	n.	การเคลื่อนไหว; ญัตติ
+C1	motivate	v.	จูงใจ
+C1	motivation	n.	แรงจูงใจ
+C1	motive	n.	แรงจูงใจ, มูลเหตุ
+C1	municipal	adj.	ของเทศบาล
+C1	mutual	adj.	ซึ่งกันและกัน
+C1	myth	n.	ตำนาน; ความเชื่อผิดๆ
+C1	naked	adj.	เปลือย
+C1	namely	adv.	กล่าวคือ
+C1	naval	adj.	ทางทะเล, ของกองทัพเรือ
+C1	navigation	n.	การนำทาง
+C1	navy	n.	กองทัพเรือ
+C1	necessity	n.	ความจำเป็น
+C1	neglect	v., n.	ละเลย; การละเลย
+C1	negotiate	v.	เจรจาต่อรอง
+C1	negotiation	n.	การเจรจา
+C1	neighbouring	adj.	ใกล้เคียง
+C1	neutral	adj.	เป็นกลาง
+C1	newly	adv.	ใหม่
+C1	newsletter	n.	จดหมายข่าว
+C1	niche	n.	ช่องทางเฉพาะ
+C1	noble	adj.	สูงส่ง
+C1	nod	v.	พยักหน้า
+C1	nominate	v.	เสนอชื่อ
+C1	nomination	n.	การเสนอชื่อ
+C1	nominee	n.	ผู้ได้รับการเสนอชื่อ
+C1	nonetheless	adv.	อย่างไรก็ตาม
+C1	norm	n.	บรรทัดฐาน
+C1	notable	adj.	น่าสังเกต
+C1	notably	adv.	โดยเฉพาะอย่างยิ่ง
+C1	notebook	n.	สมุดบันทึก
+C1	notify	v.	แจ้ง
+C1	notorious	adj.	ฉาวโฉ่
+C1	novelist	n.	นักเขียนนวนิยาย
+C1	nursery	n.	สถานรับเลี้ยงเด็ก
+C1	nursing	n.	การพยาบาล
+C1	nutrition	n.	โภชนาการ
+C1	obesity	n.	โรคอ้วน
+C1	objection	n.	การคัดค้าน
+C1	oblige	v.	บังคับ; ช่วยเหลือ
+C1	obscure	adj., v.	คลุมเครือ; บดบัง
+C1	observer	n.	ผู้สังเกตการณ์
+C1	obsess	v.	หมกมุ่น
+C1	obsession	n.	ความหมกมุ่น
+C1	obstacle	n.	อุปสรรค
+C1	occupation	n.	อาชีพ; การยึดครอง
+C1	occupy	v.	ครอบครอง, ยึด
+C1	occurrence	n.	การเกิดขึ้น
+C1	odds	n.	โอกาส, ความน่าจะเป็น
+C1	offender	n.	ผู้กระทำผิด
+C1	offering	n.	ข้อเสนอ; เครื่องบูชา
+C1	offspring	n.	ลูกหลาน
+C1	ongoing	adj.	ที่ดำเนินอยู่
+C1	openly	adv.	อย่างเปิดเผย
+C1	opera	n.	อุปรากร
+C1	operational	adj.	ในการดำเนินงาน
+C1	operator	n.	ผู้ควบคุม
+C1	opt	v.	เลือก
+C1	optical	adj.	เกี่ยวกับการมองเห็น
+C1	optimism	n.	การมองโลกในแง่ดี
+C1	optimistic	adj.	มองโลกในแง่ดี
+C1	optional	adj.	ไม่บังคับ
+C1	oral	adj.	ทางปาก, ด้วยวาจา
+C1	orbit	n., v.	วงโคจร; โคจร
+C1	orchestra	n.	วงออร์เคสตรา
+C1	organic	adj.	อินทรีย์
+C1	orientation	n.	การปฐมนิเทศ; แนวทาง
+C1	oriented	adj.	มุ่งเน้น
+C1	outbreak	n.	การระบาด
+C1	outfit	n.	ชุดแต่งกาย
+C1	outlet	n.	ร้านจำหน่าย; ปลั๊กไฟ
+C1	output	n.	ผลผลิต
+C1	outrage	n.	ความเดือดดาล
+C1	outsider	n.	คนนอก
+C1	outstanding	adj.	โดดเด่น; ค้างชำระ
+C1	overcome	v.	เอาชนะ
+C1	overlook	v.	มองข้าม; มองเห็น (จากที่สูง)
+C1	overnight	adv., adj.	ข้ามคืน
+C1	oversee	v.	ดูแล, ควบคุม
+C1	overturn	v.	พลิกคว่ำ; กลับคำตัดสิน
+C1	overwhelm	v.	ท่วมท้น
+C1	overwhelming	adj.	ท่วมท้น
+C1	ownership	n.	ความเป็นเจ้าของ
+C1	oxygen	n.	ออกซิเจน
+C1	packet	n.	ซอง, ห่อ
+C1	parade	n.	ขบวนพาเหรด
+C1	paradise	n.	สวรรค์
+C1	parallel	adj., n.	ขนาน; ความคล้ายคลึง
+C1	parameter	n.	พารามิเตอร์, ขอบเขต
+C1	parental	adj.	ของพ่อแม่
+C1	parliamentary	adj.	ทางรัฐสภา
+C1	partial	adj.	บางส่วน
+C1	partially	adv.	บางส่วน
+C1	participation	n.	การมีส่วนร่วม
+C1	particle	n.	อนุภาค
+C1	partnership	n.	ห้างหุ้นส่วน; ความร่วมมือ
+C1	passionate	adj.	หลงใหล
+C1	passive	adj.	เฉยเมย; ถูกกระทำ
+C1	password	n.	รหัสผ่าน
+C1	patch	n.	แผ่นปะ; หย่อม
+C1	patent	n.	สิทธิบัตร
+C1	pathway	n.	ทางเดิน, เส้นทาง
+C1	patience	n.	ความอดทน
+C1	patrol	n., v.	การลาดตระเวน
+C1	patron	n.	ผู้อุปถัมภ์
+C1	peak	n.	ยอด, จุดสูงสุด
+C1	peasant	n.	ชาวนา
+C1	peculiar	adj.	แปลก
+C1	peer	n.	เพื่อนรุ่นเดียวกัน
+C1	penalty	n.	บทลงโทษ; ลูกโทษ
+C1	perceive	v.	รับรู้
+C1	perception	n.	การรับรู้
+C1	performer	n.	ผู้แสดง
+C1	permanently	adv.	อย่างถาวร
+C1	persist	v.	ยืนหยัด; คงอยู่
+C1	persistent	adj.	ดื้อรั้น; ต่อเนื่อง
+C1	personnel	n.	บุคลากร
+C1	petition	n.	คำร้อง
+C1	philosopher	n.	นักปรัชญา
+C1	philosophical	adj.	ทางปรัชญา
+C1	physician	n.	แพทย์
+C1	pioneer	n., v.	ผู้บุกเบิก
+C1	pipeline	n.	ท่อส่ง
+C1	pit	n.	หลุม
+C1	plea	n.	คำร้องขอ; คำให้การ
+C1	plead	v.	อ้อนวอน; ให้การ
+C1	pledge	n., v.	คำมั่นสัญญา
+C1	plug	n., v.	ปลั๊ก; เสียบ
+C1	plunge	v.	ดิ่งลง
+C1	polar	adj.	ขั้วโลก
+C1	pole	n.	เสา; ขั้วโลก
+C1	policing	n.	การรักษาความสงบ
+C1	polish	v.	ขัดเงา
+C1	poll	n.	การสำรวจความคิดเห็น
+C1	pollute	v.	ทำให้เป็นมลพิษ
+C1	pond	n.	บ่อน้ำ
+C1	portfolio	n.	แฟ้มผลงาน
+C1	portion	n.	ส่วน
+C1	portray	v.	พรรณนา, แสดงเป็น
+C1	post-war	adj.	หลังสงคราม
+C1	postpone	v.	เลื่อนออกไป
+C1	potentially	adv.	โดยมีศักยภาพ
+C1	pottery	n.	เครื่องปั้นดินเผา
+C1	practitioner	n.	ผู้ประกอบวิชาชีพ
+C1	precede	v.	มาก่อน
+C1	precious	adj.	ล้ำค่า
+C1	precise	adj.	แม่นยำ
+C1	precisely	adv.	อย่างแม่นยำ
+C1	precision	n.	ความแม่นยำ
+C1	predator	n.	สัตว์นักล่า
+C1	predecessor	n.	ผู้ดำรงตำแหน่งก่อน
+C1	predictable	adj.	คาดเดาได้
+C1	predominantly	adv.	โดยส่วนใหญ่
+C1	pregnancy	n.	การตั้งครรภ์
+C1	prejudice	n.	อคติ
+C1	preliminary	adj.	เบื้องต้น
+C1	premier	adj., n.	ชั้นนำ; นายกรัฐมนตรี
+C1	premise	n.	หลักฐานเบื้องต้น; สถานที่
+C1	premium	n.	เบี้ยประกัน; พรีเมียม
+C1	prescribe	v.	สั่งยา
+C1	prescription	n.	ใบสั่งยา
+C1	presently	adv.	ในขณะนี้
+C1	preservation	n.	การรักษา, การอนุรักษ์
+C1	presidency	n.	ตำแหน่งประธานาธิบดี
+C1	presidential	adj.	ของประธานาธิบดี
+C1	prestigious	adj.	มีเกียรติ
+C1	presumably	adv.	น่าจะ
+C1	presume	v.	สันนิษฐาน
+C1	prevail	v.	มีชัย; แพร่หลาย
+C1	prevalence	n.	ความแพร่หลาย
+C1	prevention	n.	การป้องกัน
+C1	prey	n.	เหยื่อ
+C1	principal	adj., n.	หลัก; ครูใหญ่
+C1	prior	adj.	ก่อน
+C1	privatization	n.	การแปรรูปเป็นเอกชน
+C1	privilege	n.	สิทธิพิเศษ
+C1	probe	n., v.	การสอบสวน; สำรวจ
+C1	problematic	adj.	เป็นปัญหา
+C1	proceed	v.	ดำเนินการต่อ
+C1	proceedings	n.	กระบวนการทางกฎหมาย
+C1	proceeds	n.	รายได้
+C1	processing	n.	การประมวลผล
+C1	processor	n.	หน่วยประมวลผล
+C1	proclaim	v.	ประกาศ
+C1	productive	adj.	มีประสิทธิผล
+C1	productivity	n.	ผลิตภาพ
+C1	profitable	adj.	มีกำไร
+C1	profound	adj.	ลึกซึ้ง
+C1	programming	n.	การเขียนโปรแกรม
+C1	progressive	adj.	ก้าวหน้า
+C1	prohibit	v.	ห้าม
+C1	prominent	adj.	โดดเด่น
+C1	promising	adj.	มีอนาคต
+C1	promotion	n.	การเลื่อนตำแหน่ง; การส่งเสริมการขาย
+C1	prompt	v., adj.	กระตุ้น; ทันที
+C1	prone	adj.	มีแนวโน้ม (ในทางลบ)
+C1	propaganda	n.	การโฆษณาชวนเชื่อ
+C1	proportion	n.	สัดส่วน
+C1	prosecute	v.	ดำเนินคดี
+C1	prosecution	n.	การดำเนินคดี; ฝ่ายโจทก์
+C1	prosecutor	n.	อัยการ
+C1	prospective	adj.	ที่คาดหวัง, ในอนาคต
+C1	prosperity	n.	ความเจริญรุ่งเรือง
+C1	protective	adj.	ปกป้อง
+C1	protester	n.	ผู้ประท้วง
+C1	protocol	n.	ระเบียบการ, โปรโตคอล
+C1	province	n.	จังหวัด
+C1	provincial	adj.	ประจำจังหวัด
+C1	provision	n.	การจัดหา; ข้อกำหนด
+C1	provoke	v.	ยั่วยุ
+C1	psychiatric	adj.	ทางจิตเวช
+C1	psychological	adj.	ทางจิตวิทยา
+C1	publicity	n.	การประชาสัมพันธ์
+C1	publicly	adv.	ต่อสาธารณะ
+C1	publisher	n.	สำนักพิมพ์
+C1	publishing	n.	การพิมพ์เผยแพร่
+C1	pump	n., v.	เครื่องสูบ; สูบ
+C1	punch	v., n.	ต่อย
+C1	puzzle	n.	ปริศนา
+C1	qualitative	adj.	เชิงคุณภาพ
+C1	quest	n.	การแสวงหา
+C1	questionnaire	n.	แบบสอบถาม
+C1	quota	n.	โควตา
+C1	racial	adj.	ทางเชื้อชาติ
+C1	racism	n.	การเหยียดเชื้อชาติ
+C1	racist	adj., n.	ผู้เหยียดเชื้อชาติ
+C1	radar	n.	เรดาร์
+C1	radiation	n.	รังสี
+C1	radical	adj.	รุนแรง, ถึงรากถึงโคน
+C1	rage	n.	ความโกรธจัด
+C1	raid	n., v.	การบุกค้น; บุกโจมตี
+C1	rally	n., v.	การชุมนุม; ระดม
+C1	random	adj.	สุ่ม
+C1	ranking	n.	การจัดอันดับ
+C1	ratio	n.	อัตราส่วน
+C1	rational	adj.	มีเหตุผล
+C1	ray	n.	รังสี, ลำแสง
+C1	readily	adv.	อย่างง่ายดาย, เต็มใจ
+C1	realization	n.	การตระหนัก
+C1	realm	n.	อาณาจักร; ขอบเขต
+C1	rear	adj., n., v.	ด้านหลัง; เลี้ยงดู
+C1	reasoning	n.	การใช้เหตุผล
+C1	reassure	v.	ทำให้มั่นใจ
+C1	rebel	n., v.	กบฏ
+C1	rebellion	n.	การกบฏ
+C1	rebuild	v.	สร้างใหม่
+C1	recession	n.	ภาวะเศรษฐกิจถดถอย
+C1	recipient	n.	ผู้รับ
+C1	reckon	v.	คิดว่า
+C1	recognition	n.	การยอมรับ; การจดจำ
+C1	reconstruction	n.	การฟื้นฟู, การสร้างใหม่
+C1	recount	v.	เล่า
+C1	recovery	n.	การฟื้นตัว
+C1	recruit	v., n.	รับสมัคร; ผู้ถูกรับเข้า
+C1	recruitment	n.	การสรรหา
+C1	referee	n.	ผู้ตัดสิน
+C1	referendum	n.	การลงประชามติ
+C1	reflection	n.	เงาสะท้อน; การไตร่ตรอง
+C1	reform	n., v.	การปฏิรูป; ปฏิรูป
+C1	refuge	n.	ที่หลบภัย
+C1	refugee	n.	ผู้ลี้ภัย
+C1	refusal	n.	การปฏิเสธ
+C1	regain	v.	ได้คืน
+C1	regardless	adv.	โดยไม่คำนึงถึง
+C1	regime	n.	ระบอบ
+C1	regulator	n.	หน่วยงานกำกับดูแล
+C1	regulatory	adj.	ด้านการกำกับดูแล
+C1	rehabilitation	n.	การฟื้นฟูสมรรถภาพ
+C1	reign	n., v.	รัชสมัย; ครองราชย์
+C1	reinforce	v.	เสริมกำลัง
+C1	rejection	n.	การปฏิเสธ
+C1	relevance	n.	ความเกี่ยวข้อง
+C1	reliability	n.	ความน่าเชื่อถือ
+C1	reluctant	adj.	ลังเล, ไม่เต็มใจ
+C1	remainder	n.	ส่วนที่เหลือ
+C1	remains	n.	ซาก, สิ่งที่เหลืออยู่
+C1	remedy	n.	วิธีแก้; ยารักษา
+C1	reminder	n.	สิ่งเตือนความจำ
+C1	removal	n.	การนำออก
+C1	render	v.	ทำให้เป็น
+C1	renew	v.	ต่ออายุ
+C1	renowned	adj.	มีชื่อเสียง
+C1	rental	n.	การเช่า
+C1	replacement	n.	การแทนที่
+C1	reportedly	adv.	ตามรายงาน
+C1	representation	n.	การเป็นตัวแทน
+C1	reproduce	v.	สืบพันธุ์; ทำซ้ำ
+C1	reproduction	n.	การสืบพันธุ์; การทำซ้ำ
+C1	republic	n.	สาธารณรัฐ
+C1	resemble	v.	คล้ายกับ
+C1	reside	v.	พำนัก
+C1	residence	n.	ที่พักอาศัย
+C1	residential	adj.	ย่านที่อยู่อาศัย
+C1	residue	n.	สารตกค้าง
+C1	resign	v.	ลาออก
+C1	resignation	n.	การลาออก
+C1	resistance	n.	การต่อต้าน
+C1	resolution	n.	มติ; ความละเอียด; ความตั้งใจ
+C1	respective	adj.	แต่ละ
+C1	respectively	adv.	ตามลำดับ
+C1	restoration	n.	การฟื้นฟู
+C1	restore	v.	ฟื้นฟู
+C1	restrict	v.	จำกัด
+C1	restriction	n.	ข้อจำกัด
+C1	resume	v.	ดำเนินต่อ
+C1	retail	n.	การค้าปลีก
+C1	retailer	n.	ผู้ค้าปลีก
+C1	retirement	n.	การเกษียณ
+C1	retreat	v., n.	ถอย; การถอยทัพ
+C1	retrieve	v.	ดึงข้อมูล, เอากลับคืน
+C1	revelation	n.	การเปิดเผย
+C1	revenge	n.	การแก้แค้น
+C1	revenue	n.	รายได้
+C1	reverse	v., n., adj.	กลับด้าน; ย้อนกลับ
+C1	revival	n.	การฟื้นคืน
+C1	revive	v.	ฟื้นฟู
+C1	revolutionary	adj.	ปฏิวัติ
+C1	rhetoric	n.	วาทศิลป์
+C1	rifle	n.	ปืนไรเฟิล
+C1	riot	n.	การจลาจล
+C1	ritual	n.	พิธีกรรม
+C1	rival	n., adj.	คู่แข่ง
+C1	robbery	n.	การปล้น
+C1	rocket	n.	จรวด
+C1	rod	n.	คัน, แท่ง
+C1	rotate	v.	หมุน
+C1	rotation	n.	การหมุนเวียน
+C1	ruling	n., adj.	คำตัดสิน; ที่ปกครอง
+C1	rumour	n.	ข่าวลือ
+C1	sacred	adj.	ศักดิ์สิทธิ์
+C1	sacrifice	n., v.	การเสียสละ; สละ
+C1	saint	n.	นักบุญ
+C1	sake	n.	เพื่อประโยชน์ของ (for the sake of)
+C1	sanction	n., v.	มาตรการลงโทษ
+C1	scandal	n.	เรื่องอื้อฉาว
+C1	scare	v., n.	ทำให้กลัว; ความตกใจ
+C1	scatter	v.	โปรยกระจาย
+C1	scenario	n.	สถานการณ์สมมติ
+C1	sceptical	adj.	สงสัย, ไม่เชื่อ
+C1	scholar	n.	นักวิชาการ
+C1	scholarship	n.	ทุนการศึกษา
+C1	scope	n.	ขอบเขต
+C1	scratch	v., n.	ข่วน; รอยขีดข่วน
+C1	screening	n.	การคัดกรอง; การฉาย
+C1	screw	n., v.	สกรู; ขัน
+C1	scrutiny	n.	การตรวจสอบอย่างละเอียด
+C1	seal	v., n.	ปิดผนึก; ตราประทับ; แมวน้ำ
+C1	seemingly	adv.	ดูเหมือนว่า
+C1	segment	n.	ส่วน, ช่วง
+C1	seize	v.	ยึด, คว้า
+C1	seldom	adv.	ไม่ค่อย
+C1	selective	adj.	เลือกสรร
+C1	sensation	n.	ความรู้สึก; สิ่งฮือฮา
+C1	sensitivity	n.	ความอ่อนไหว
+C1	sentiment	n.	ความรู้สึก
+C1	separation	n.	การแยก
+C1	serial	adj.	ต่อเนื่อง
+C1	set-up	n.	การจัดวาง
+C1	settlement	n.	การตั้งถิ่นฐาน; ข้อยุติ
+C1	sexuality	n.	เพศวิถี
+C1	shareholder	n.	ผู้ถือหุ้น
+C1	shatter	v.	แตกละเอียด
+C1	shed	n., v.	โรงเก็บของ; สลัดทิ้ง
+C1	sheer	adj.	ล้วนๆ; สูงชัน
+C1	shipping	n.	การขนส่งทางเรือ
+C1	shortage	n.	การขาดแคลน
+C1	shortly	adv.	ในไม่ช้า
+C1	shrink	v.	หดตัว
+C1	sibling	n.	พี่น้อง
+C1	siege	n.	การปิดล้อม
+C1	signature	n.	ลายเซ็น
+C1	simulate	v.	จำลอง
+C1	simulation	n.	การจำลอง
+C1	simultaneously	adv.	พร้อมกัน
+C1	situated	adj.	ตั้งอยู่
+C1	sketch	n., v.	ภาพร่าง; ร่างภาพ
+C1	skull	n.	กะโหลก
+C1	slavery	n.	ระบบทาส
+C1	slot	n.	ช่อง
+C1	smash	v.	ทุบแตก
+C1	soar	v.	ทะยานขึ้น
+C1	socialist	adj., n.	สังคมนิยม
+C1	sole	adj.	แต่เพียงผู้เดียว
+C1	solely	adv.	แต่เพียงอย่างเดียว
+C1	solicitor	n.	ทนายความ
+C1	solidarity	n.	ความสามัคคี
+C1	solo	adj., n.	เดี่ยว
+C1	sophisticated	adj.	ซับซ้อน, ประณีต
+C1	sovereignty	n.	อธิปไตย
+C1	span	n., v.	ช่วง; ครอบคลุม
+C1	spare	adj., v.	สำรอง; สละ
+C1	spark	n., v.	ประกายไฟ; จุดชนวน
+C1	specialize	v.	เชี่ยวชาญ
+C1	specialized	adj.	เฉพาะทาง
+C1	specify	v.	ระบุ
+C1	specimen	n.	ตัวอย่าง
+C1	spectacle	n.	ภาพที่น่าตื่นตา
+C1	spectacular	adj.	น่าตื่นตา
+C1	spectator	n.	ผู้ชม
+C1	spectrum	n.	สเปกตรัม, ขอบข่าย
+C1	speculate	v.	คาดเดา; เก็งกำไร
+C1	speculation	n.	การคาดเดา
+C1	sphere	n.	ทรงกลม; ขอบเขต
+C1	spill	v.	ทำหก
+C1	spin	v.	หมุน
+C1	spine	n.	กระดูกสันหลัง
+C1	spokesman	n.	โฆษก
+C1	spokesperson	n.	โฆษก
+C1	spokeswoman	n.	โฆษกหญิง
+C1	sponsorship	n.	การสนับสนุน
+C1	spouse	n.	คู่สมรส
+C1	spy	n., v.	สายลับ; สอดแนม
+C1	squad	n.	หน่วย, ทีม
+C1	squeeze	v.	บีบ
+C1	stability	n.	เสถียรภาพ
+C1	stabilize	v.	ทำให้มั่นคง
+C1	stake	n.	เดิมพัน; ส่วนได้เสีย
+C1	stall	n.	แผงขายของ
+C1	stance	n.	จุดยืน
+C1	standing	n., adj.	สถานะ; ถาวร
+C1	stark	adj.	ชัดเจน, โจ่งแจ้ง
+C1	starve	v.	อดอาหาร
+C1	statistical	adj.	ทางสถิติ
+C1	steadily	adv.	อย่างสม่ำเสมอ
+C1	steer	v.	บังคับทิศทาง
+C1	stem	n., v.	ลำต้น; เกิดจาก
+C1	stereotype	n.	ภาพเหมารวม
+C1	stimulate	v.	กระตุ้น
+C1	stimulus	n.	สิ่งเร้า
+C1	stir	v.	คน; ปลุกเร้า
+C1	storage	n.	ที่เก็บ
+C1	straightforward	adj.	ตรงไปตรงมา
+C1	strain	n.	ความตึงเครียด; สายพันธุ์
+C1	strand	n.	เส้น, ใย
+C1	strategic	adj.	เชิงกลยุทธ์
+C1	strengthen	v.	เสริมสร้าง
+C1	strictly	adv.	อย่างเคร่งครัด
+C1	striking	adj.	โดดเด่น
+C1	strip	n., v.	แถบ; ถอด
+C1	stroke	n.	โรคหลอดเลือดสมอง; การลูบ
+C1	structural	adj.	ทางโครงสร้าง
+C1	stumble	v.	สะดุด
+C1	stun	v.	ทำให้ตะลึง
+C1	stunning	adj.	งดงามน่าทึ่ง
+C1	subjective	adj.	อัตวิสัย
+C1	submission	n.	การยื่น; การยอมจำนน
+C1	subscriber	n.	สมาชิก, ผู้บอกรับ
+C1	subscription	n.	การสมัครสมาชิก
+C1	subsequent	adj.	ต่อมา
+C1	subsequently	adv.	ภายหลัง
+C1	subsidy	n.	เงินอุดหนุน
+C1	substantial	adj.	มากพอสมควร
+C1	substantially	adv.	อย่างมาก
+C1	substitute	n., v.	ตัวแทน; แทนที่
+C1	substitution	n.	การทดแทน
+C1	subtle	adj.	ละเอียดอ่อน
+C1	suburb	n.	ชานเมือง
+C1	suburban	adj.	ในเขตชานเมือง
+C1	succession	n.	การสืบทอด; ความต่อเนื่อง
+C1	successive	adj.	ต่อเนื่องกัน
+C1	successor	n.	ผู้สืบทอด
+C1	sue	v.	ฟ้องร้อง
+C1	suicide	n.	การฆ่าตัวตาย
+C1	suite	n.	ห้องชุด
+C1	summit	n.	ยอดเขา; การประชุมสุดยอด
+C1	superb	adj.	ยอดเยี่ยม
+C1	superior	adj., n.	เหนือกว่า; ผู้บังคับบัญชา
+C1	supervise	v.	ควบคุมดูแล
+C1	supervision	n.	การควบคุมดูแล
+C1	supervisor	n.	หัวหน้างาน
+C1	supplement	n., v.	อาหารเสริม; เพิ่มเติม
+C1	supportive	adj.	ให้การสนับสนุน
+C1	supposedly	adv.	ตามที่เข้าใจกัน
+C1	suppress	v.	ปราบปราม; ระงับ
+C1	supreme	adj.	สูงสุด
+C1	surge	n., v.	การพุ่งขึ้น
+C1	surgeon	n.	ศัลยแพทย์
+C1	surgical	adj.	ทางศัลยกรรม
+C1	surplus	n.	ส่วนเกิน
+C1	surrender	v., n.	ยอมจำนน
+C1	surveillance	n.	การเฝ้าระวัง
+C1	survival	n.	การอยู่รอด
+C1	survivor	n.	ผู้รอดชีวิต
+C1	suspend	v.	ระงับ; แขวน
+C1	suspension	n.	การพักงาน; ระบบกันสะเทือน
+C1	suspicion	n.	ความสงสัย
+C1	suspicious	adj.	น่าสงสัย
+C1	sustain	v.	ค้ำจุน; รักษาไว้
+C1	sustainable	adj.	ยั่งยืน
+C1	swallow	v.	กลืน
+C1	swap	v.	แลกเปลี่ยน
+C1	swing	v., n.	แกว่ง; ชิงช้า
+C1	sword	n.	ดาบ
+C1	symbolic	adj.	เชิงสัญลักษณ์
+C1	sympathetic	adj.	เห็นอกเห็นใจ
+C1	syndrome	n.	กลุ่มอาการ
+C1	synthesis	n.	การสังเคราะห์
+C1	systematic	adj.	เป็นระบบ
+C1	tackle	v.	จัดการ (ปัญหา); เข้าแย่งบอล
+C1	tactic	n.	ยุทธวิธี
+C1	tactical	adj.	เชิงยุทธวิธี
+C1	taxpayer	n.	ผู้เสียภาษี
+C1	teens	n.	ช่วงวัยรุ่น
+C1	telescope	n.	กล้องโทรทรรศน์
+C1	temple	n.	วัด; ขมับ
+C1	temporarily	adv.	ชั่วคราว
+C1	tempt	v.	ล่อใจ
+C1	tenant	n.	ผู้เช่า
+C1	tender	adj.	นุ่ม; อ่อนโยน
+C1	tension	n.	ความตึงเครียด
+C1	tenure	n.	วาระการดำรงตำแหน่ง
+C1	terminal	n., adj.	อาคารผู้โดยสาร; ระยะสุดท้าย
+C1	terminate	v.	ยุติ
+C1	terrain	n.	ภูมิประเทศ
+C1	terrific	adj.	ยอดเยี่ยม
+C1	territory	n.	ดินแดน
+C1	terror	n.	ความหวาดกลัว
+C1	terrorism	n.	การก่อการร้าย
+C1	terrorist	n.	ผู้ก่อการร้าย
+C1	testify	v.	ให้การ
+C1	testimony	n.	คำให้การ
+C1	testing	n.	การทดสอบ
+C1	textbook	n.	ตำราเรียน
+C1	texture	n.	พื้นผิว, เนื้อสัมผัส
+C1	thankfully	adv.	โชคดีที่
+C1	theatrical	adj.	ทางการละคร
+C1	theft	n.	การลักขโมย
+C1	theoretical	adj.	ทางทฤษฎี
+C1	therapist	n.	นักบำบัด
+C1	thereafter	adv.	หลังจากนั้น
+C1	thereby	adv.	ด้วยเหตุนั้น
+C1	thesis	n.	วิทยานิพนธ์
+C1	thorough	adj.	ละเอียดถี่ถ้วน
+C1	thoroughly	adv.	อย่างละเอียด
+C1	thought-provoking	adj.	กระตุ้นความคิด
+C1	thoughtful	adj.	รอบคอบ; มีน้ำใจ
+C1	thread	n.	ด้าย
+C1	threshold	n.	ธรณีประตู; เกณฑ์
+C1	thrilled	adj.	ตื่นเต้นดีใจ
+C1	thrilling	adj.	น่าตื่นเต้น
+C1	thrive	v.	เจริญงอกงาม
+C1	tide	n.	กระแสน้ำขึ้นลง
+C1	tighten	v.	ทำให้แน่น
+C1	timber	n.	ไม้ซุง
+C1	timing	n.	จังหวะเวลา
+C1	tissue	n.	เนื้อเยื่อ; กระดาษทิชชู
+C1	tolerance	n.	ความอดกลั้น
+C1	tolerate	v.	อดทน
+C1	toll	n.	ค่าผ่านทาง; ยอดผู้เสียชีวิต
+C1	tomb	n.	หลุมฝังศพ
+C1	torture	n., v.	การทรมาน
+C1	tournament	n.	การแข่งขัน (ทัวร์นาเมนต์)
+C1	toxic	adj.	เป็นพิษ
+C1	trace	v., n.	ติดตามร่องรอย; ร่องรอย
+C1	trademark	n.	เครื่องหมายการค้า
+C1	trader	n.	ผู้ค้า
+C1	trading	n.	การซื้อขาย
+C1	tragedy	n.	โศกนาฏกรรม
+C1	tragic	adj.	น่าเศร้า
+C1	trail	n., v.	เส้นทาง; ตามรอย
+C1	trailer	n.	ตัวอย่างภาพยนตร์; รถพ่วง
+C1	trait	n.	ลักษณะนิสัย
+C1	transaction	n.	ธุรกรรม
+C1	transcript	n.	บันทึกคำพูด
+C1	transformation	n.	การเปลี่ยนแปลง
+C1	transit	n.	การขนส่ง, การผ่าน
+C1	transmission	n.	การส่งผ่าน; การถ่ายทอด
+C1	transmit	v.	ส่งผ่าน
+C1	transparency	n.	ความโปร่งใส
+C1	transparent	adj.	โปร่งใส
+C1	transportation	n.	การขนส่ง
+C1	trap	n., v.	กับดัก; ดัก
+C1	trauma	n.	บาดแผลทางใจ
+C1	treasure	n.	สมบัติ
+C1	treaty	n.	สนธิสัญญา
+C1	tremendous	adj.	มหาศาล
+C1	tribal	adj.	ของชนเผ่า
+C1	tribe	n.	ชนเผ่า
+C1	tribunal	n.	ศาลพิเศษ
+C1	tribute	n.	การไว้อาลัย, การยกย่อง
+C1	trigger	v., n.	กระตุ้น; ไกปืน
+C1	trillion	number	ล้านล้าน
+C1	trio	n.	กลุ่มสามคน
+C1	triumph	n.	ชัยชนะ
+C1	troop	n.	กองทหาร
+C1	trophy	n.	ถ้วยรางวัล
+C1	troubled	adj.	มีปัญหา
+C1	trustee	n.	ผู้ดูแลทรัพย์สิน
+C1	tuition	n.	ค่าเล่าเรียน; การสอนพิเศษ
+C1	turnout	n.	จำนวนผู้มาใช้สิทธิ์
+C1	turnover	n.	ยอดขาย; อัตราการลาออก
+C1	twist	v., n.	บิด; จุดหักมุม
+C1	undergo	v.	ผ่าน (ประสบการณ์)
+C1	undergraduate	n.	นักศึกษาปริญญาตรี
+C1	underlying	adj.	ที่อยู่เบื้องหลัง
+C1	undermine	v.	บ่อนทำลาย
+C1	undertake	v.	รับทำ, ดำเนินการ
+C1	undoubtedly	adv.	อย่างไม่ต้องสงสัย
+C1	unify	v.	รวมเป็นหนึ่ง
+C1	unprecedented	adj.	ไม่เคยมีมาก่อน
+C1	unveil	v.	เปิดตัว
+C1	upcoming	adj.	ที่กำลังจะมาถึง
+C1	upgrade	v., n.	อัปเกรด
+C1	uphold	v.	ยึดมั่น, สนับสนุน
+C1	utility	n.	สาธารณูปโภค; ประโยชน์
+C1	utilize	v.	ใช้ประโยชน์
+C1	utterly	adv.	โดยสิ้นเชิง
+C1	vacuum	n.	สุญญากาศ; เครื่องดูดฝุ่น
+C1	vague	adj.	คลุมเครือ
+C1	valid	adj.	ถูกต้อง, ใช้ได้
+C1	validity	n.	ความถูกต้อง
+C1	vanish	v.	หายไป
+C1	variable	n., adj.	ตัวแปร; เปลี่ยนแปลงได้
+C1	variation	n.	การแปรผัน
+C1	varied	adj.	หลากหลาย
+C1	vein	n.	เส้นเลือดดำ
+C1	venture	n., v.	กิจการเสี่ยง; เสี่ยง
+C1	verbal	adj.	ด้วยวาจา
+C1	verdict	n.	คำตัดสิน
+C1	verify	v.	ตรวจสอบความถูกต้อง
+C1	verse	n.	บทกลอน
+C1	versus	prep.	ต่อ, กับ (แข่งขัน)
+C1	vertical	adj.	แนวตั้ง
+C1	vessel	n.	เรือ; ภาชนะ; หลอดเลือด
+C1	veteran	n.	ทหารผ่านศึก; ผู้มีประสบการณ์
+C1	viable	adj.	เป็นไปได้
+C1	vibrant	adj.	มีชีวิตชีวา
+C1	vice	n.	รอง (ตำแหน่ง); ความชั่ว
+C1	vicious	adj.	โหดร้าย
+C1	villager	n.	ชาวบ้าน
+C1	violate	v.	ละเมิด
+C1	violation	n.	การละเมิด
+C1	virtue	n.	คุณธรรม
+C1	visa	n.	วีซ่า
+C1	visibility	n.	ทัศนวิสัย
+C1	visible	adj.	มองเห็นได้
+C1	vocal	adj.	ด้วยเสียง; แสดงออกชัดเจน
+C1	voluntary	adj.	โดยสมัครใจ
+C1	voting	n.	การลงคะแนน
+C1	vow	n., v.	คำสาบาน; สาบาน
+C1	vulnerability	n.	ความเปราะบาง
+C1	vulnerable	adj.	เปราะบาง
+C1	wander	v.	เดินเตร่
+C1	ward	n.	หอผู้ป่วย
+C1	warehouse	n.	คลังสินค้า
+C1	warfare	n.	การสงคราม
+C1	warrant	n., v.	หมายจับ; สมควร
+C1	warrior	n.	นักรบ
+C1	weaken	v.	ทำให้อ่อนแอ
+C1	weave	v.	ทอ
+C1	weed	n.	วัชพืช
+C1	weekly	adj., adv.	รายสัปดาห์
+C1	welfare	n.	สวัสดิการ
+C1	well-being	n.	ความเป็นอยู่ที่ดี
+C1	whatsoever	adv.	ใดๆ เลย
+C1	wheat	n.	ข้าวสาลี
+C1	whilst	conj.	ในขณะที่
+C1	whoever	pron.	ใครก็ตาม
+C1	widow	n.	หญิงหม้าย
+C1	width	n.	ความกว้าง
+C1	wildly	adv.	อย่างรุนแรง
+C1	willingness	n.	ความเต็มใจ
+C1	wit	n.	ไหวพริบ
+C1	withdraw	v.	ถอน
+C1	withdrawal	n.	การถอน
+C1	withstand	v.	ทนทาน
+C1	workforce	n.	แรงงาน
+C1	workplace	n.	สถานที่ทำงาน
+C1	workshop	n.	การประชุมเชิงปฏิบัติการ
+C1	worship	n., v.	การบูชา; บูชา
+C1	worthwhile	adj.	คุ้มค่า
+C1	worthy	adj.	สมควร, มีคุณค่า
+C1	wrist	n.	ข้อมือ
+C1	yield	v., n.	ให้ผล; ผลผลิต
+C1	youngster	n.	เด็ก, คนหนุ่มสาว
