@@ -44,7 +44,7 @@ export function ProgressBar({ total, mastered, learning }: { total: number; mast
   );
 }
 
-export function Page({ title, back, children }: { title: string; back?: string; children: ReactNode }) {
+export function Page({ title, back, aside, children }: { title: string; back?: string; aside?: ReactNode; children: ReactNode }) {
   return (
     <main className="page">
       <div className="page-head">
@@ -54,6 +54,7 @@ export function Page({ title, back, children }: { title: string; back?: string; 
           </a>
         )}
         <h1>{title}</h1>
+        {aside && <div className="page-aside">{aside}</div>}
       </div>
       {children}
     </main>
