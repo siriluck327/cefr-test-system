@@ -1,4 +1,5 @@
 import { isDue, status } from '../lib/srs';
+import { average, dayOf, speechStreak } from '../lib/speechStats';
 import { streak, useStore } from '../lib/store';
 import { LEVEL_INFO, LEVELS, WORDS, WORDS_BY_LEVEL } from '../lib/words';
 import { LevelBadge, ProgressBar } from './common';
@@ -21,9 +22,46 @@ export function Home() {
   };
   const all = count();
   const days = streak(data.days, now);
+  const today = dayOf(data.speech, now);
+  const goal = data.settings.dailyGoal;
+  const weak = Object.keys(data.weak).length;
 
   return (
     <main className="page">
+      <section className="speak-hero">
+        <div className="sh-top">
+          <div>
+            <span className="sh-label">วันนี้ฝึกออกเสียงไปแล้ว</span>
+            <div className="sh-count">
+              <strong>{today.n}</strong> / {goal} ครั้ง
+            </div>
+          </div>
+          <span className="streak-chip">{speechStreak(data.speech, now)} วันติด</span>
+        </div>
+        <div className="sh-bar" role="img" aria-label={`${today.n} จากเป้าหมาย ${goal} ครั้ง`}>
+          <span style={{ width: `${Math.min(100, (today.n / goal) * 100)}%` }} />
+        </div>
+        <p className="sh-label">
+          {today.n >= goal ? 'ถึงเป้าหมายวันนี้แล้ว เก่งมาก!' : `อีก ${goal - today.n} ครั้งถึงเป้าหมาย`}
+          {average(today) !== null && ` · คะแนนเฉลี่ย ${average(today)}`}
+        </p>
+        <div className="mode-grid">
+          <a className="mode" href="#/speak/A1/1">
+            <b>ฝึกอ่านคำ</b>
+            <span>5,000 คำ · IPA · คำอ่านไทย · สะกดทีละตัว</span>
+          </a>
+          <a className="mode" href="#/sentences/A1">
+            <b>ฝึกอ่านประโยค</b>
+            <span>แบ่งตาม tense · บอกถูก/ผิดทีละคำ</span>
+          </a>
+        </div>
+        {weak > 0 && (
+          <a className="sh-weak" href="#/speak/weak/1">
+            มีคำที่อ่านผิด {weak} คำ — ฝึกซ้ำ →
+          </a>
+        )}
+      </section>
+
       <section className="hero">
         <h1>เรียนศัพท์อังกฤษ 5,000 คำ</h1>
         <p className="muted">แบ่งตามระดับ CEFR (A1–C1) ฝึกด้วยแฟลชการ์ดแบบทบทวนเป็นระยะ และแบบทดสอบความหมายภาษาไทย</p>
@@ -78,6 +116,12 @@ export function Home() {
                 </a>
                 <a className="btn ghost" href={`#/words/${lv}`}>
                   รายการคำ
+                </a>
+                <a className="btn" href={`#/speak/${lv}/1`}>
+                  ฝึกอ่านคำ
+                </a>
+                <a className="btn" href={`#/sentences/${lv}`}>
+                  ฝึกอ่านประโยค
                 </a>
               </div>
             </article>

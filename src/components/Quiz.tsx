@@ -3,6 +3,7 @@ import { makeQuiz, type Question, type QuizMode } from '../lib/quiz';
 import { review, status } from '../lib/srs';
 import { speak } from '../lib/speech';
 import { store, useStore } from '../lib/store';
+import { logEvent } from '../lib/sync';
 import { LEVEL_INFO, LEVELS, WORDS, WORDS_BY_LEVEL, type Level, type Word } from '../lib/words';
 import { LevelBadge, Page, SpeakButton } from './common';
 
@@ -39,7 +40,17 @@ export function Quiz({ level }: { level: Level | 'ALL' }) {
         <QuizRun
           questions={questions}
           mode={mode}
-          onFinish={(score) => store.addQuiz({ at: Date.now(), level, mode, score, total: questions.length })}
+          onFinish={(score) => {
+            store.addQuiz({ at: Date.now(), level, mode, score, total: questions.length });
+            logEvent({
+              kind: 'quiz',
+              level,
+              text: mode === 'en-th' ? 'อังกฤษ→ไทย' : 'ไทย→อังกฤษ',
+              score: Math.round((score / questions.length) * 100),
+              wordsOk: score,
+              wordsTotal: questions.length,
+            });
+          }}
           onRestart={() => setQuestions(null)}
         />
       </Page>

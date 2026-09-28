@@ -68,11 +68,17 @@ export function WordList({ level }: { level: Level | 'ALL' }) {
       <ul className="word-list">
         {shown.map((w) => {
           const s = status(data.cards[w.id]);
+          const n = WORDS_BY_LEVEL[w.level].indexOf(w) + 1;
           return (
             <li key={w.id}>
               <span className="wl-word">
                 <span className={`dot ${s}`} title={STATUS_LABEL[s]} aria-label={STATUS_LABEL[s]} />
                 {w.word} <SpeakButton text={w.word} />
+                <a className="icon-btn" href={`#/speak/${w.level}/${n}`} aria-label={`ฝึกอ่านออกเสียง ${w.word}`} title="ฝึกอ่านออกเสียง">
+                  <svg viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" aria-hidden="true">
+                    <path d="M12 3a3 3 0 0 0-3 3v5a3 3 0 0 0 6 0V6a3 3 0 0 0-3-3zM5 11a7 7 0 0 0 14 0M12 18v3" />
+                  </svg>
+                </a>
               </span>
               <span className="wl-pos">
                 {level === 'ALL' && <LevelBadge level={w.level} />} {w.pos}
