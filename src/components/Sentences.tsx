@@ -87,7 +87,7 @@ export function SentencePractice({ level, tenseId, n }: { level: Level; tenseId:
         </p>
       </div>
       <TenseInfo tense={tense} />
-      <SentenceCard key={sentence.id} en={sentence.en} thai={sentence.thai} level={level} />
+      <SentenceCard key={sentence.id} en={sentence.en} thai={sentence.thai} level={level} tense={tense.id} />
       <div className="pager">
         <button type="button" className="btn" onClick={() => to(index - 1)}>
           ← ก่อนหน้า
@@ -106,7 +106,7 @@ export function SentencePractice({ level, tenseId, n }: { level: Level; tenseId:
   );
 }
 
-function SentenceCard({ en, thai, level }: { en: string; thai: string; level: Level }) {
+function SentenceCard({ en, thai, level, tense }: { en: string; thai: string; level: Level; tense: string }) {
   const tokens = useMemo(() => readingTokens(en), [en]);
   const [grade, setGrade] = useState<Grade | null>(null);
   const [saying, setSaying] = useState(-1);
@@ -150,7 +150,7 @@ function SentenceCard({ en, thai, level }: { en: string; thai: string; level: Le
           <p className="legend small">
             <span className="key v-ok">✓ ถูกต้อง</span>
             <span className="key v-close">~ เกือบถูก</span>
-            <span className="key v-wrong">✗ ผิด</span>
+            <span className="key v-wrong">× ผิด</span>
             <span className="key v-missed">– ไม่ได้อ่าน</span>
           </p>
         )}
@@ -172,7 +172,7 @@ function SentenceCard({ en, thai, level }: { en: string; thai: string; level: Le
         <ToolButton icon="steps" label="ทีละคำ" onClick={walk} />
       </div>
 
-      <ReadAloud text={en} level={level} onGraded={setGrade} />
+      <ReadAloud text={en} level={level} kind="sentence" tense={tense} onGraded={setGrade} />
     </>
   );
 }

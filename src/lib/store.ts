@@ -3,6 +3,7 @@ import type { CardState } from './srs';
 import type { Level } from './words';
 import type { QuizMode } from './quiz';
 import type { Accent } from './speech';
+import { profileStore } from './profile';
 import { startOfDay } from './srs';
 
 export interface QuizResult {
@@ -54,7 +55,10 @@ export interface SaveData {
   weak: Record<string, number>;
 }
 
-const KEY = 'vocab5000:v1';
+/** Progress from before sign-in existed; handed to the first learner who signs in on this device. */
+const LEGACY_KEY = 'vocab5000:v1';
+const keyFor = (profileId: string | null) => (profileId ? `vocab5000:v1:${profileId}` : null);
+let KEY: string | null = keyFor(profileStore.get().current?.id ?? null);
 
 export const DEFAULT_SETTINGS: Settings = {
   newPerSession: 10,
@@ -69,8 +73,16 @@ function empty(): SaveData {
 }
 
 function load(): SaveData {
+  if (!KEY) return empty();
   try {
-    const s = localStorage.getItem(KEY);
+    let s = localStorage.getItem(KEY);
+    if (!s) {
+      s = localStorage.getItem(LEGACY_KEY);
+      if (s) {
+        localStorage.setItem(KEY, s);
+        localStorage.removeItem(LEGACY_KEY);
+      }
+    }
     if (!s) return empty();
     return normalize(JSON.parse(s));
   } catch {
@@ -96,8 +108,31 @@ export function normalize(d: unknown): SaveData {
 let data: SaveData = load();
 const listeners = new Set<() => void>();
 
+// Each learner has their own progress: reload whenever the signed-in learner changes.
+profileStore.subscribe(() => {
+  const next = keyFor(profileStore.get().current?.id ?? null);
+  if (next === KEY) return;
+  KEY = next;
+  data = load();
+  listeners.forEach((l) => l());
+});
+
+/** Read another learner's saved progress on this device (for the report page). */
+export function loadFor(profileId: string): SaveData {
+  try {
+    const s = localStorage.getItem(`vocab5000:v1:${profileId}`);
+    return s ? normalize(JSON.parse(s)) : empty();
+  } catch {
+    return empty();
+  }
+}
+
 function commit(next: SaveData) {
   data = next;
+  if (!KEY) {
+    listeners.forEach((l) => l());
+    return;
+  }
   try {
     localStorage.setItem(KEY, JSON.stringify(data));
   } catch {

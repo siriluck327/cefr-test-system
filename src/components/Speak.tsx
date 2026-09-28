@@ -130,7 +130,7 @@ function WordCard({
         <ToolButton icon="spell" label="สะกดทีละตัว" onClick={spell} />
       </div>
 
-      <ReadAloud text={word.word} level={level} onGraded={setGrade} />
+      <ReadAloud text={word.word} level={level} kind="word" onGraded={setGrade} />
 
       <div className="pager">
         <button type="button" className="btn" onClick={onPrev}>

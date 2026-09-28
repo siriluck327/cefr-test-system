@@ -4,6 +4,7 @@ import { average, dayOf, lastDays, levelAverages, speechStreak } from '../lib/sp
 import { store, streak, useStore, type SaveData } from '../lib/store';
 import { LEVELS, WORDS_BY_LEVEL } from '../lib/words';
 import { LevelBadge, Page, ProgressBar } from './common';
+import { DayChart } from './DayChart';
 
 export function Stats() {
   const data = useStore();
@@ -196,11 +197,14 @@ export function Stats() {
         </div>
         {msg && <p className="small" role="status">{msg}</p>}
       </div>
+
+      <p className="center small">
+        <a href="#/report">สำหรับครู: รายงานสถิติผู้เรียนทุกคน</a>
+      </p>
     </Page>
   );
 }
 
-const DAY_TH = ['อา', 'จ', 'อ', 'พ', 'พฤ', 'ศ', 'ส'];
 
 function SpeechStats() {
   const data = useStore();
@@ -208,7 +212,6 @@ function SpeechStats() {
   const today = dayOf(data.speech, now);
   const goal = data.settings.dailyGoal;
   const days = lastDays(data.speech, 14, now);
-  const max = Math.max(goal, ...days.map((d) => d.data.n));
   const lv = levelAverages(data.speech);
   const weak = Object.keys(data.weak).sort();
   const todayAvg = average(today);
@@ -236,59 +239,11 @@ function SpeechStats() {
         </div>
       </div>
 
-      <div className="panel">
-        <div className="chart-head">
-          <h3>จำนวนครั้งที่ฝึกออกเสียง 14 วันล่าสุด</h3>
-          <span className="small muted">รวม {days.reduce((a, d) => a + d.data.n, 0)} ครั้ง</span>
-        </div>
-        <div className="chart" role="img" aria-label="กราฟจำนวนครั้งที่ฝึกออกเสียงรายวัน ดูตัวเลขได้ในตารางด้านล่าง">
-          <div className="goal-line" style={{ bottom: `${(goal / max) * 100}%` }}>
-            <span>เป้า {goal}</span>
-          </div>
-          {days.map((d, i) => {
-            const isToday = i === days.length - 1;
-            const date = new Date(d.day);
-            const avg = average(d.data);
-            return (
-              <div key={d.day} className="col" tabIndex={0} aria-label={`${date.toLocaleDateString('th-TH')} ${d.data.n} ครั้ง`}>
-                <div className="tip">
-                  {date.toLocaleDateString('th-TH', { day: 'numeric', month: 'short' })}
-                  <br />
-                  {d.data.n} ครั้ง{avg !== null && ` · เฉลี่ย ${avg}`}
-                </div>
-                <div className="bar-v" style={{ height: `${d.data.n ? Math.max(2, (d.data.n / max) * 100) : 0}%` }} />
-                <span className={isToday ? 'day today' : 'day'}>{isToday ? 'วันนี้' : DAY_TH[date.getDay()]}</span>
-              </div>
-            );
-          })}
-        </div>
-        <details className="small">
-          <summary>ดูเป็นตาราง</summary>
-          <table className="table">
-            <thead>
-              <tr>
-                <th>วันที่</th>
-                <th className="num">ครั้ง</th>
-                <th className="num">คะแนนเฉลี่ย</th>
-                <th className="num">คำที่อ่านถูก</th>
-              </tr>
-            </thead>
-            <tbody>
-              {days
-                .slice()
-                .reverse()
-                .map((d) => (
-                  <tr key={d.day}>
-                    <td>{new Date(d.day).toLocaleDateString('th-TH', { weekday: 'short', day: 'numeric', month: 'short' })}</td>
-                    <td className="num">{d.data.n}</td>
-                    <td className="num">{average(d.data) ?? '–'}</td>
-                    <td className="num">{d.data.wordsTotal ? `${d.data.wordsOk}/${d.data.wordsTotal}` : '–'}</td>
-                  </tr>
-                ))}
-            </tbody>
-          </table>
-        </details>
-      </div>
+      <DayChart
+        title="จำนวนครั้งที่ฝึกออกเสียง 14 วันล่าสุด"
+        goal={goal}
+        days={days.map((d) => ({ day: d.day, n: d.data.n, avg: average(d.data), wordsOk: d.data.wordsOk, wordsTotal: d.data.wordsTotal }))}
+      />
 
       <div className="panel">
         <h3>คะแนนออกเสียงเฉลี่ยตามระดับ</h3>

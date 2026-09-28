@@ -4,6 +4,7 @@ import { ipaSyllables, type Token } from '../lib/pron';
 import { canRecognize, listen } from '../lib/recognizer';
 import { canSpeak, speak, stopSpeaking } from '../lib/speech';
 import { store, useStore } from '../lib/store';
+import { logEvent } from '../lib/sync';
 import type { Level } from '../lib/words';
 
 export const VERDICT_LABEL: Record<Verdict, string> = {
@@ -12,7 +13,7 @@ export const VERDICT_LABEL: Record<Verdict, string> = {
   wrong: 'ผิด',
   missed: 'ไม่ได้อ่าน',
 };
-export const VERDICT_MARK: Record<Verdict, string> = { ok: '✓', close: '~', wrong: '✗', missed: '–' };
+export const VERDICT_MARK: Record<Verdict, string> = { ok: '✓', close: '~', wrong: '×', missed: '–' };
 
 /** IPA and Thai syllables side by side; the stressed syllable is dark. */
 export function Syllables({ tokens }: { tokens: Token[] }) {
@@ -160,7 +161,19 @@ function feedback(score: number): string {
  * grades each word; otherwise the learner rates their own reading.
  * Remount (key={text}) to reset for a new word or sentence.
  */
-export function ReadAloud({ text, level, onGraded }: { text: string; level: Level; onGraded?: (g: Grade | null) => void }) {
+export function ReadAloud({
+  text,
+  level,
+  kind,
+  tense = '',
+  onGraded,
+}: {
+  text: string;
+  level: Level;
+  kind: 'word' | 'sentence';
+  tense?: string;
+  onGraded?: (g: Grade | null) => void;
+}) {
   const { settings } = useStore();
   const [phase, setPhase] = useState<'idle' | 'listening' | 'done'>('idle');
   const [grade, setGrade] = useState<Grade | null>(null);
@@ -182,6 +195,8 @@ export function ReadAloud({ text, level, onGraded }: { text: string; level: Leve
         setGrade(g);
         onGraded?.(g);
         store.addAttempt({ level, score: g.score, words: g.words.map((w) => ({ key: w.key, ok: w.verdict === 'ok' })) });
+        const missed = g.words.filter((w) => w.verdict !== 'ok').map((w) => w.key);
+        logEvent({ kind, level, tense, text, score: g.score, wordsOk: g.words.length - missed.length, wordsTotal: g.words.length, missed: missed.join(',') });
       },
       onError: (reason) =>
         setError(
@@ -198,6 +213,7 @@ export function ReadAloud({ text, level, onGraded }: { text: string; level: Leve
   const rateSelf = (score: number) => {
     setSelfScore(score);
     store.addAttempt({ level, score, words: [] });
+    logEvent({ kind, level, tense, text, score });
   };
 
   const showSelfRate = !canRecognize || error.startsWith('ไม่ได้รับอนุญาต');
