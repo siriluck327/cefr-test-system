@@ -11,14 +11,22 @@
  *   GET  ?action=person&pin=..&name=..&center=..      -> one learner's recent attempts
  *   GET  ?action=ping&pin=..                          -> check the PIN
  *
- * Public visit counter for the portfolio page (public/portfolio), no PIN:
+ * Media library page (public/media):
+ *   GET  ?action=media                                -> public list of media
  *   GET  ?action=hit&new=1                            -> count one visit (new=1: first visit from this browser)
- *   GET  ?action=view&item=..                         -> count one open of a work item
+ *   GET  ?action=view&item=..                         -> count one open of a media item
  *   GET  ?action=stats                                -> read the counts
+ *   POST {action:'admin-login', pin}                  -> check the admin password
+ *   POST {action:'admin-import', pin, items:[...]}    -> first-time copy of the built-in media into the sheet
+ *   POST {action:'admin-save', pin, item, image?}     -> add or edit one item; image is a data: URL saved to Drive
+ *   POST {action:'admin-delete', pin, id}             -> delete one item
  */
 
 // Change this before deploying: teachers type it to open the report page.
 const REPORT_PIN = 'CHANGE-ME';
+
+// Change this before deploying: the password for adding media on the media library page.
+const ADMIN_PIN = 'CHANGE-ME';
 
 const SHEET_NAME = 'Attempts';
 const TZ = 'Asia/Bangkok';
@@ -28,6 +36,7 @@ const COL = HEADERS.reduce(function (m, h, i) { m[h] = i; return m; }, {});
 function doPost(e) {
   try {
     const body = JSON.parse(e.postData.contents);
+    if (String(body.action || '').indexOf('admin-') === 0) return admin_(body);
     if (body.action !== 'log' || !Array.isArray(body.events)) return json_({ ok: false, error: 'bad request' });
     const events = body.events.slice(0, 500);
     const rows = events.map(function (ev) {
@@ -61,6 +70,7 @@ function doPost(e) {
 function doGet(e) {
   const p = e.parameter || {};
   if (p.action === 'hit' || p.action === 'view' || p.action === 'stats') return counter_(p);
+  if (p.action === 'media') return json_({ ok: true, initialized: !!mediaSheet_(false), items: mediaList_() });
   if (String(p.pin || '') !== REPORT_PIN || REPORT_PIN === 'CHANGE-ME') {
     return json_({ ok: false, error: REPORT_PIN === 'CHANGE-ME' ? 'pin-not-set' : 'bad-pin' });
   }
@@ -126,6 +136,164 @@ function counter_(p) {
     if (write) lock.releaseLock();
   }
   return json_({ ok: true, today: today, total: s.total, unique: s.unique, days: s.days, items: s.items });
+}
+
+const MEDIA_SHEET = 'Media';
+const MEDIA_HEADERS = ['id', 'createdAt', 'updatedAt', 'category', 'title', 'summary', 'detail', 'tags', 'audience', 'year', 'link', 'linkLabel', 'image', 'imageFile'];
+const MEDIA_LIMITS = { title: 200, summary: 400, detail: 5000, tags: 300, audience: 200, link: 1000, image: 1000 };
+const MEDIA_CACHE = 'media-list';
+
+function admin_(body) {
+  if (ADMIN_PIN === 'CHANGE-ME') return json_({ ok: false, error: 'pin-not-set' });
+  // Slow down password guessing: after 10 wrong tries, refuse everyone for 10 minutes.
+  const cache = CacheService.getScriptCache();
+  const fails = Number(cache.get('admin-fails') || 0);
+  if (fails >= 10) return json_({ ok: false, error: 'locked' });
+  if (String(body.pin || '') !== ADMIN_PIN) {
+    cache.put('admin-fails', String(fails + 1), 600);
+    return json_({ ok: false, error: 'bad-pin' });
+  }
+  if (body.action === 'admin-login') return json_({ ok: true, initialized: !!mediaSheet_(false) });
+
+  const lock = LockService.getScriptLock();
+  lock.waitLock(20000);
+  try {
+    if (body.action === 'admin-import') {
+      if (!mediaSheet_(false)) {
+        const sheet = mediaSheet_(true);
+        (body.items || []).slice(0, 100).forEach(function (it) {
+          writeMedia_(sheet, sheet.getLastRow() + 1, mediaRow_(it, {}));
+        });
+      }
+    } else if (body.action === 'admin-save') {
+      const sheet = mediaSheet_(true);
+      const it = body.item || {};
+      const row = it.id ? findMedia_(sheet, it.id) : 0;
+      const old = row ? mediaObj_(sheet.getRange(row, 1, 1, MEDIA_HEADERS.length).getValues()[0]) : {};
+      const next = mediaRow_(it, old);
+      if (body.image) {
+        next[MEDIA_HEADERS.indexOf('imageFile')] = saveImage_(body.image, next[MEDIA_HEADERS.indexOf('title')]);
+        next[MEDIA_HEADERS.indexOf('image')] = '';
+      }
+      const oldFile = old.imageFile;
+      const newFile = next[MEDIA_HEADERS.indexOf('imageFile')];
+      writeMedia_(sheet, row || sheet.getLastRow() + 1, next);
+      if (oldFile && oldFile !== newFile) trashFile_(oldFile);
+    } else if (body.action === 'admin-delete') {
+      const sheet = mediaSheet_(true);
+      const row = findMedia_(sheet, body.id);
+      if (row) {
+        const old = mediaObj_(sheet.getRange(row, 1, 1, MEDIA_HEADERS.length).getValues()[0]);
+        sheet.deleteRow(row);
+        if (old.imageFile) trashFile_(old.imageFile);
+      }
+    } else {
+      return json_({ ok: false, error: 'unknown action' });
+    }
+    CacheService.getScriptCache().remove(MEDIA_CACHE);
+  } finally {
+    lock.releaseLock();
+  }
+  return json_({ ok: true, initialized: true, items: mediaList_() });
+}
+
+function mediaSheet_(create) {
+  const ss = SpreadsheetApp.getActiveSpreadsheet();
+  let sheet = ss.getSheetByName(MEDIA_SHEET);
+  if (!sheet && create) {
+    sheet = ss.insertSheet(MEDIA_SHEET);
+    sheet.appendRow(MEDIA_HEADERS);
+    sheet.setFrozenRows(1);
+  }
+  return sheet;
+}
+
+function mediaList_() {
+  const cache = CacheService.getScriptCache();
+  const hit = cache.get(MEDIA_CACHE);
+  if (hit) return JSON.parse(hit);
+  const sheet = mediaSheet_(false);
+  let items = [];
+  if (sheet && sheet.getLastRow() > 1) {
+    items = sheet.getRange(2, 1, sheet.getLastRow() - 1, MEDIA_HEADERS.length).getValues().map(mediaObj_).filter(function (m) { return m.id; });
+  }
+  const text = JSON.stringify(items);
+  if (text.length < 90000) cache.put(MEDIA_CACHE, text, 300);
+  return items;
+}
+
+function mediaObj_(r) {
+  const m = {};
+  MEDIA_HEADERS.forEach(function (h, i) {
+    // Undo the apostrophe that keeps text such as "=..." from turning into a formula.
+    m[h] = String(r[i] === null || r[i] === undefined ? '' : r[i]).replace(/^'(?=[=+\-@])/, '');
+  });
+  return m;
+}
+
+// Build a sheet row from what the admin sent, keeping id, createdAt and image from the old row.
+function mediaRow_(it, old) {
+  const now = new Date().toISOString();
+  const m = {
+    id: old.id || String(it.id || '').replace(/[^\w-]/g, '').slice(0, 40) || 'm' + Date.now().toString(36) + Math.floor(Math.random() * 1296).toString(36),
+    createdAt: old.createdAt || String(it.createdAt || now),
+    updatedAt: now,
+    imageFile: it.removeImage ? '' : old.imageFile || '',
+  };
+  ['category', 'title', 'summary', 'detail', 'audience', 'year', 'link', 'linkLabel', 'image'].forEach(function (k) {
+    m[k] = String(it[k] === undefined || it[k] === null ? '' : it[k]).slice(0, MEDIA_LIMITS[k] || 100);
+  });
+  m.tags = (Array.isArray(it.tags) ? it.tags.join(', ') : String(it.tags || '')).slice(0, MEDIA_LIMITS.tags);
+  return MEDIA_HEADERS.map(function (h) { return m[h]; });
+}
+
+function writeMedia_(sheet, row, values) {
+  const range = sheet.getRange(row, 1, 1, MEDIA_HEADERS.length);
+  range.setNumberFormat('@');
+  range.setValues([values.map(function (v) { return /^[=+\-@]/.test(v) ? "'" + v : v; })]);
+}
+
+function findMedia_(sheet, id) {
+  if (!id || sheet.getLastRow() < 2) return 0;
+  const ids = sheet.getRange(2, 1, sheet.getLastRow() - 1, 1).getValues();
+  for (let i = 0; i < ids.length; i++) if (String(ids[i][0]) === String(id)) return i + 2;
+  return 0;
+}
+
+// Save a data: URL image in a Drive folder that anyone with the link can view; returns the file id.
+function saveImage_(dataUrl, title) {
+  const m = /^data:(image\/(?:jpeg|png|webp|gif));base64,(.+)$/.exec(String(dataUrl));
+  if (!m) throw new Error('bad image');
+  const bytes = Utilities.base64Decode(m[2]);
+  if (bytes.length > 5 * 1024 * 1024) throw new Error('image too large');
+  const ext = m[1].split('/')[1].replace('jpeg', 'jpg');
+  const file = mediaFolder_().createFile(Utilities.newBlob(bytes, m[1], String(title || 'media').slice(0, 60) + '.' + ext));
+  file.setSharing(DriveApp.Access.ANYONE_WITH_LINK, DriveApp.Permission.VIEW);
+  return file.getId();
+}
+
+function mediaFolder_() {
+  const props = PropertiesService.getScriptProperties();
+  const id = props.getProperty('mediaFolder');
+  if (id) {
+    try {
+      const f = DriveApp.getFolderById(id);
+      if (!f.isTrashed()) return f;
+    } catch (err) {
+      // Folder deleted: make a new one below.
+    }
+  }
+  const folder = DriveApp.createFolder('คลังสื่อ - รูปภาพ');
+  props.setProperty('mediaFolder', folder.getId());
+  return folder;
+}
+
+function trashFile_(id) {
+  try {
+    DriveApp.getFileById(id).setTrashed(true);
+  } catch (err) {
+    // Already gone.
+  }
 }
 
 function sheet_() {

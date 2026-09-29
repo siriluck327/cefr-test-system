@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="description" content="ปัญญาบาน คลังสื่อการเรียนรู้สร้างสรรค์ รวมเว็บแอป วิดีโอ ใบความรู้ และเกมฝึกทักษะ ใช้ได้ฟรีทุกอุปกรณ์" />
+    <meta name="theme-color" content="#fbf8ff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#16141f" media="(prefers-color-scheme: dark)" />
+    <title>ปัญญาบาน · คลังสื่อการเรียนรู้สร้างสรรค์</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌼</text></svg>" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="nav" id="nav">
+      <a class="brand" href="#top" aria-label="กลับหน้าแรก">
+        <span class="logo" aria-hidden="true">
+          <svg viewBox="0 0 40 40"><g class="petals"><circle cx="20" cy="10" r="7" /><circle cx="30" cy="20" r="7" /><circle cx="20" cy="30" r="7" /><circle cx="10" cy="20" r="7" /></g><circle cx="20" cy="20" r="6" class="core" /></svg>
+        </span>
+        <span class="brand-text"><b id="brand-name"></b><small id="brand-sub"></small></span>
+      </a>
+      <nav class="nav-links" aria-label="เมนูหลัก">
+        <a href="#categories">หมวดหมู่</a>
+        <a href="#library">สื่อทั้งหมด</a>
+        <a href="#about">เกี่ยวกับ</a>
+      </nav>
+      <button class="icon-btn" id="theme" type="button" aria-label="สลับโหมดสว่าง/มืด"></button>
+    </header>
+
+    <div class="admin-bar" id="admin-bar" hidden>
+      <span class="admin-badge"><span class="pulse"></span>โหมดผู้ดูแลระบบ</span>
+      <span class="admin-hint">กดปุ่มบนการ์ดเพื่อแก้ไขหรือลบสื่อ</span>
+      <button class="btn small primary ripple" type="button" id="admin-add">+ เพิ่มสื่อใหม่</button>
+      <button class="btn small ghost ripple" type="button" id="admin-out">ออกจากระบบ</button>
+    </div>
+
+    <main id="top">
+      <section class="hero">
+        <div class="blob b1" aria-hidden="true"></div>
+        <div class="blob b2" aria-hidden="true"></div>
+        <div class="blob b3" aria-hidden="true"></div>
+        <div class="hero-inner">
+          <div class="hero-copy">
+            <p class="pill reveal"><span aria-hidden="true">✨</span><span id="hero-english"></span></p>
+            <h1 class="reveal"><span id="hero-l1"></span><br /><mark id="hero-l2"></mark></h1>
+            <p class="lead reveal" id="hero-intro"></p>
+            <form class="hero-search reveal" id="hero-search" role="search">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+              <input id="hero-q" type="search" placeholder="ค้นหาสื่อ เช่น ภาษาอังกฤษ, วิดีโอ" aria-label="ค้นหาสื่อ" />
+              <button class="btn primary ripple" type="submit">ค้นหา</button>
+            </form>
+            <div class="popular reveal" id="popular"></div>
+          </div>
+          <div class="hero-art reveal" aria-hidden="true">
+            <div class="art-card" id="art-card"></div>
+            <div class="sticker s1"><span class="sticker-ico lavender">▶</span>วิดีโอ &amp; เว็บแอป</div>
+            <div class="sticker s2"><span class="sticker-ico mint">✓</span>ใช้ได้ฟรี</div>
+            <div class="sticker s3"><b id="art-count">0</b><span>สื่อพร้อมใช้</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="categories">
+        <div class="section-head reveal">
+          <p class="eyebrow">หมวดหมู่</p>
+          <h2>เลือกสื่อตามรูปแบบที่ชอบ</h2>
+        </div>
+        <div class="cat-grid" id="cat-grid"></div>
+      </section>
+
+      <section class="section" id="library">
+        <div class="section-head row reveal">
+          <div>
+            <p class="eyebrow">คลังสื่อ</p>
+            <h2>สื่อการเรียนรู้ทั้งหมด</h2>
+          </div>
+          <label class="sort">
+            <span>เรียงตาม</span>
+            <select id="sort">
+              <option value="new">ใหม่ล่าสุด</option>
+              <option value="popular">ยอดนิยม</option>
+              <option value="az">ชื่อ ก–ฮ</option>
+            </select>
+          </label>
+        </div>
+        <div class="toolbar reveal">
+          <div class="chips" id="chips" role="tablist" aria-label="กรองตามหมวดหมู่"></div>
+          <label class="search">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+            <input id="q" type="search" placeholder="ค้นหาในคลังสื่อ" aria-label="ค้นหาในคลังสื่อ" />
+          </label>
+        </div>
+        <div class="grid" id="grid" aria-live="polite"></div>
+        <div class="empty" id="empty" hidden>
+          <span aria-hidden="true">🔍</span>
+          <p>ไม่พบสื่อที่ค้นหา ลองคำอื่นหรือเลือกหมวด "ทั้งหมด"</p>
+        </div>
+      </section>
+
+      <section class="section" id="about">
+        <div class="features">
+          <div class="feature reveal">
+            <span class="f-ico lavender" aria-hidden="true">🎯</span>
+            <h3>ออกแบบเพื่อผู้เรียน</h3>
+            <p>สื่อทุกชิ้นพัฒนาจากห้องเรียนจริง เน้นให้เข้าใจง่ายและนำไปใช้ได้ทันที</p>
+          </div>
+          <div class="feature reveal">
+            <span class="f-ico mint" aria-hidden="true">📱</span>
+            <h3>ใช้ได้ทุกอุปกรณ์</h3>
+            <p>เปิดได้ทั้งมือถือ แท็บเล็ต และคอมพิวเตอร์ ไม่ต้องติดตั้งโปรแกรม</p>
+          </div>
+          <div class="feature reveal">
+            <span class="f-ico peach" aria-hidden="true">🌱</span>
+            <h3>เรียนรู้ตลอดชีวิต</h3>
+            <p>เพิ่มสื่อใหม่อย่างต่อเนื่อง เพื่อส่งเสริมการเรียนรู้ของทุกคนในชุมชน</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="stats" id="stats" aria-label="สถิติการเข้าชม">
+        <div class="stats-inner">
+          <div class="stat lavender"><b data-stat="items">–</b><span>สื่อทั้งหมด</span></div>
+          <div class="stat sky"><b data-stat="total">–</b><span>การเข้าชมทั้งหมด</span></div>
+          <div class="stat mint"><b data-stat="unique">–</b><span>ผู้เข้าชม</span></div>
+          <div class="stat peach"><b data-stat="today">–</b><span>เข้าชมวันนี้</span></div>
+        </div>
+        <p class="stats-note" id="stats-note"></p>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <span class="logo" aria-hidden="true">
+            <svg viewBox="0 0 40 40"><g class="petals"><circle cx="20" cy="10" r="7" /><circle cx="30" cy="20" r="7" /><circle cx="20" cy="30" r="7" /><circle cx="10" cy="20" r="7" /></g><circle cx="20" cy="20" r="6" class="core" /></svg>
+          </span>
+          <div>
+            <b id="footer-site"></b>
+            <small id="footer-sub"></small>
+          </div>
+        </div>
+        <div class="footer-owner">
+          <small>พัฒนาโดย</small>
+          <b id="footer-name"></b>
+          <span id="footer-role"></span>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© <span id="year"></span> <span id="footer-copy"></span></span>
+        <button class="link-btn" type="button" id="admin-open">ผู้ดูแลระบบ</button>
+      </div>
+    </footer>
+
+    <!-- Media detail -->
+    <dialog class="modal" id="detail" aria-labelledby="d-title">
+      <div class="d-cover" id="d-cover"></div>
+      <div class="modal-body">
+        <p class="d-meta" id="d-meta"></p>
+        <h3 id="d-title"></h3>
+        <p class="d-detail" id="d-detail"></p>
+        <dl class="d-facts" id="d-facts"></dl>
+        <ul class="tags" id="d-tags"></ul>
+        <div class="modal-actions">
+          <a class="btn primary ripple" id="d-link" target="_blank" rel="noopener"></a>
+          <button class="btn ghost ripple" type="button" data-close>ปิด</button>
+        </div>
+      </div>
+      <button class="icon-btn modal-x" type="button" data-close aria-label="ปิด">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" /></svg>
+      </button>
+    </dialog>
+
+    <!-- Admin sign-in -->
+    <dialog class="modal small" id="login" aria-labelledby="login-title">
+      <form class="modal-body" id="login-form">
+        <span class="lock" aria-hidden="true">🔐</span>
+        <h3 id="login-title">เข้าสู่ระบบผู้ดูแล</h3>
+        <p class="muted">สำหรับครูผู้ดูแลเพื่อเพิ่ม แก้ไข หรือลบสื่อในคลัง</p>
+        <label class="field">
+          <span>รหัสผ่านผู้ดูแล</span>
+          <input id="login-pin" type="password" autocomplete="current-password" required />
+        </label>
+        <p class="form-error" id="login-error" hidden></p>
+        <div class="modal-actions">
+          <button class="btn primary ripple" type="submit" id="login-go">เข้าสู่ระบบ</button>
+          <button class="btn ghost ripple" type="button" data-close>ยกเลิก</button>
+        </div>
+      </form>
+    </dialog>
+
+    <!-- Admin editor -->
+    <dialog class="modal wide" id="editor" aria-labelledby="ed-title">
+      <form class="modal-body" id="ed-form">
+        <h3 id="ed-title">เพิ่มสื่อใหม่</h3>
+        <div class="ed-grid">
+          <div class="ed-image">
+            <span class="label">ภาพหน้าปกสื่อ</span>
+            <label class="drop" id="drop">
+              <input type="file" id="ed-file" accept="image/*" />
+              <img id="ed-preview" alt="" hidden />
+              <span class="drop-hint" id="drop-hint">
+                <span aria-hidden="true">🖼️</span>
+                <b>คลิกหรือลากรูปมาวาง</b>
+                <small>JPG, PNG ระบบย่อขนาดให้อัตโนมัติ</small>
+              </span>
+            </label>
+            <div class="img-actions">
+              <button class="link-btn" type="button" id="ed-remove-img">ลบรูป</button>
+            </div>
+            <label class="field">
+              <span>หรือใส่ลิงก์รูปภาพ</span>
+              <input id="ed-image-url" type="url" placeholder="https://..." />
+            </label>
+          </div>
+          <div class="ed-fields">
+            <label class="field">
+              <span>ชื่อสื่อ *</span>
+              <input id="ed-name" required maxlength="200" />
+            </label>
+            <div class="two">
+              <label class="field">
+                <span>หมวดหมู่</span>
+                <select id="ed-cat"></select>
+              </label>
+              <label class="field">
+                <span>ปี พ.ศ.</span>
+                <input id="ed-year" inputmode="numeric" maxlength="4" />
+              </label>
+            </div>
+            <label class="field">
+              <span>คำอธิบายสั้น (แสดงบนการ์ด) *</span>
+              <textarea id="ed-summary" rows="2" required maxlength="400"></textarea>
+            </label>
+            <label class="field">
+              <span>รายละเอียด</span>
+              <textarea id="ed-detail" rows="4" maxlength="5000"></textarea>
+            </label>
+            <div class="two">
+              <label class="field">
+                <span>กลุ่มเป้าหมาย</span>
+                <input id="ed-audience" maxlength="200" placeholder="เช่น ผู้เรียนระดับมัธยมศึกษาตอนต้น" />
+              </label>
+              <label class="field">
+                <span>คำสำคัญ (คั่นด้วย ,)</span>
+                <input id="ed-tags" maxlength="300" placeholder="ภาษาไทย, การอ่าน" />
+              </label>
+            </div>
+            <div class="two">
+              <label class="field">
+                <span>ลิงก์สื่อ</span>
+                <input id="ed-link" placeholder="https://drive.google.com/..." />
+              </label>
+              <label class="field">
+                <span>ข้อความบนปุ่ม</span>
+                <input id="ed-link-label" maxlength="60" placeholder="เปิดสื่อ" />
+              </label>
+            </div>
+          </div>
+        </div>
+        <p class="form-error" id="ed-error" hidden></p>
+        <div class="modal-actions">
+          <button class="btn primary ripple" type="submit" id="ed-save">บันทึกสื่อ</button>
+          <button class="btn ghost ripple" type="button" data-close>ยกเลิก</button>
+          <button class="btn danger ripple" type="button" id="ed-delete" hidden>ลบสื่อนี้</button>
+        </div>
+      </form>
+    </dialog>
+
+    <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+    <script src="config.js"></script>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
